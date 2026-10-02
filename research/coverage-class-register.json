@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "classes": [
+    {
+      "id": "MONUMENTAL_STONE",
+      "discovery_route": "Hittite Monuments",
+      "status": "ENUMERATION_STARTED",
+      "canonical_authority": "CHLI III reconciliation required"
+    },
+    {
+      "id": "SEALS",
+      "discovery_route": "CHLI III XIII. Seals",
+      "status": "AUTHORITATIVE_SECTION_IDENTIFIED",
+      "canonical_authority": "CHLI III"
+    },
+    {
+      "id": "BULLAE",
+      "discovery_route": "authoritative corpus/object publications",
+      "status": "DISCOVERY_REQUIRED"
+    },
+    {
+      "id": "POTTERY",
+      "discovery_route": "authoritative corpus/object publications",
+      "status": "DISCOVERY_REQUIRED"
+    },
+    {
+      "id": "METALWARE",
+      "discovery_route": "authoritative corpus/object publications",
+      "status": "DISCOVERY_REQUIRED"
+    },
+    {
+      "id": "LEAD_STRIPS",
+      "discovery_route": "authoritative corpus/object publications",
+      "status": "DISCOVERY_REQUIRED"
+    },
+    {
+      "id": "GRAFFITI_OR_MISC_STONE",
+      "discovery_route": "CHLI III + monumental discovery route",
+      "status": "PARTIAL"
+    }
+  ],
+  "rule": "Coverage cannot be called exhaustive until every class has a completed or explicitly source-blocked denominator."
+}
