@@ -2,6 +2,12 @@
   "schema_version": "1.0",
   "priority": [
     {
+      "id": "AH-ACQ-000",
+      "target": "Hawkins, Weeden & Taniguchi 2024, CHLI Volume III",
+      "purpose": "rebase Empire and post-2000/additional inscription spine on the newest major corpus volume before exhaustive enumeration",
+      "rights_action": "record bibliography/object locators and independently authored metadata; do not redistribute copyrighted edition text without permission"
+    },
+    {
       "id": "AH-ACQ-001",
       "target": "eDiAna Hieroglyphic Luwian export/searchable corpus",
       "purpose": "enumerate inscription identities and available metadata",
@@ -25,5 +31,16 @@
       "purpose": "identify later inscriptions and their publication lineage",
       "rights_action": "record source-by-source rights"
     }
-  ]
+  ],
+  "public_route_findings": {
+    "ediana": {
+      "status": "CORPUS_OVERVIEW_CONFIRMED",
+      "details": "Searchable corpus exists; Hawkins 1995/2000 are basic corpora; later inscriptions and adjusted readings added.",
+      "bulk_object_export": "NOT_ESTABLISHED_IN_CURRENT_PUBLIC_ROUTE"
+    },
+    "ediana_export_documentation": {
+      "status": "LINEAGE_CONFIRMED",
+      "details": "Documentation confirms posterior inscriptions were added via ACLT/eDiAna and Hawkins supplied newer Bronze Age readings."
+    }
+  }
 }
