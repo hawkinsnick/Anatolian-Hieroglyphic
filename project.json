@@ -1,7 +1,7 @@
 {
   "name": "Anatolian Hieroglyphic Corpus",
-  "version": "0.1.0",
-  "status": "SOURCE_DISCOVERY_AND_ARCHITECTURE",
+  "version": "0.2.0",
+  "status": "SOURCE_DISCOVERY_AND_ARCHITECTURE_EVIDENCE_LAYER",
   "canonical_records": 0,
   "reference_records": 0,
   "principles": [
