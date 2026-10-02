@@ -47,8 +47,35 @@
       "name": "Plates",
       "start_page": 681,
       "status": "PUBLIC_TOC_METADATA"
+    },
+    {
+      "name": "The Signary",
+      "status": "PUBLIC_TOC_METADATA"
+    },
+    {
+      "name": "XIII. Seals",
+      "status": "PUBLIC_TOC_METADATA",
+      "importance": "non-monumental class absent from secondary monumental discovery index"
     }
   ],
   "acquisition_strategy": "Use alphabetic list/location/concordance as object-identity spine when licensed/accessibly acquired; do not scrape/reproduce protected main text or plates.",
-  "impact": "Supersedes a Hawkins-1995-only Empire spine for current coverage planning and supplies post-CHLI-I Iron Age additions."
+  "impact": "Supersedes a Hawkins-1995-only Empire spine for current coverage planning and supplies post-CHLI-I Iron Age additions.",
+  "authoritative_index_routes": [
+    {
+      "title": "Inscriptions Listed Alphabetically",
+      "page": 671,
+      "role": "preferred identity denominator spine when contents lawfully accessible"
+    },
+    {
+      "title": "Location of the Hieroglyphic Luwian Inscriptions",
+      "pages": "674-676",
+      "doi": "10.1515/9783110778854-016",
+      "role": "authoritative location reconciliation"
+    },
+    {
+      "title": "Concordance",
+      "page": 677,
+      "role": "edition/name reconciliation"
+    }
+  ]
 }
