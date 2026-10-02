@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "authority": "Hawkins 2024, CHLI III",
+  "publication": {
+    "year": 2024,
+    "publisher": "De Gruyter",
+    "doi": "10.1515/9783110778854"
+  },
+  "corpus_claim": "Publisher describes Volume III as completing the whole corpus by presenting Hittite Empire inscriptions plus newly discovered Iron Age inscriptions.",
+  "sections": [
+    {
+      "name": "Hittite Empire inscriptions",
+      "pages": "5-103",
+      "status": "PUBLIC_SECTION_METADATA"
+    },
+    {
+      "name": "New Iron Age inscriptions not in CHLI I",
+      "start_page": 104,
+      "status": "PUBLIC_SECTION_METADATA"
+    },
+    {
+      "name": "Revised transliterations and translations",
+      "start_page": 178,
+      "status": "PUBLIC_TOC_METADATA"
+    },
+    {
+      "name": "Addenda and Corrigenda to CHLI I",
+      "start_page": 296,
+      "status": "PUBLIC_TOC_METADATA"
+    },
+    {
+      "name": "Inscriptions Listed Alphabetically",
+      "start_page": 671,
+      "status": "PUBLIC_TOC_METADATA"
+    },
+    {
+      "name": "Location of the Hieroglyphic Luwian Inscriptions",
+      "pages": "674-676",
+      "status": "PUBLIC_CHAPTER_METADATA"
+    },
+    {
+      "name": "Concordance",
+      "start_page": 677,
+      "status": "PUBLIC_TOC_METADATA"
+    },
+    {
+      "name": "Plates",
+      "start_page": 681,
+      "status": "PUBLIC_TOC_METADATA"
+    }
+  ],
+  "acquisition_strategy": "Use alphabetic list/location/concordance as object-identity spine when licensed/accessibly acquired; do not scrape/reproduce protected main text or plates.",
+  "impact": "Supersedes a Hawkins-1995-only Empire spine for current coverage planning and supplies post-CHLI-I Iron Age additions."
+}
