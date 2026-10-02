@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "id": "HAWKINS-2024-V3",
+      "title": "Corpus of Hieroglyphic Luwian Inscriptions, Volume III: Inscriptions of the Hittite Empire and New Inscriptions of the Iron Age",
+      "authors": [
+        "J. David Hawkins",
+        "Mark Weeden",
+        "Junko Taniguchi"
+      ],
+      "year": 2024,
+      "role": "major post-2000 authoritative corpus expansion",
+      "rights": "copyrighted publication; metadata/locators only absent licensed text",
+      "priority": "CRITICAL_FOR_1_X"
+    }
+  ]
+}
