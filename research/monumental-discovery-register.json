@@ -41,5 +41,16 @@
     "BOĞAZKÖY 21 (SÜDBURG)"
   ],
   "admission_policy": "Names may seed discovery/reconciliation only. Canonical object admission requires authoritative Hawkins/eDiAna/object-source reconciliation.",
-  "status": "PUBLIC_MONUMENTAL_SPINE_STARTED"
+  "status": "PUBLIC_MONUMENTAL_SPINE_STARTED",
+  "source_scope_statement": "Public list covers monumental inscriptions and explicitly excludes seals, bullae, pottery, metalware, lead strips and other non-monumental items.",
+  "authority_reconciliation": {
+    "primary_target": "CHLI III alphabetical list p.671 + locations pp.674-676 + concordance p.677",
+    "public_access_status": "METADATA/SECTION_ROUTE_CONFIRMED; INDEX_CONTENT_NOT EXPOSED IN CURRENT SEARCHABLE PAGE",
+    "fallback": "Use public monumental names as discovery seeds only, then reconcile record-by-record to authoritative CHLI/eDiAna sources."
+  },
+  "enumeration_metrics": {
+    "seeded_empire_names": 29,
+    "canonical_admissions": 0,
+    "reason": "Discovery names are not promoted until authoritative object/edition reconciliation."
+  }
 }
