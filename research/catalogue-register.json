@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "status": "DISCOVERY_REGISTER",
+  "period_partitions": [
+    {
+      "id": "empire",
+      "basic_corpus": "Hawkins 1995",
+      "digital_route": "eDiAna",
+      "registered_inscriptions": 0
+    },
+    {
+      "id": "post_empire",
+      "basic_corpus": "Hawkins 2000",
+      "digital_route": "eDiAna",
+      "registered_inscriptions": 0
+    },
+    {
+      "id": "post_publication_additions",
+      "basic_corpus": null,
+      "digital_route": "eDiAna additions",
+      "registered_inscriptions": 0
+    }
+  ],
+  "rule": "Counts remain zero until inscription identities are actually acquired from a lawful source. Bibliographic corpus existence is not an inscription count."
+}
