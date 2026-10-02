@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "id": "KOCAOĞUZ",
+      "period": "TRANSITION? / disputed",
+      "object": "granite stele",
+      "museum": "Afyon Museum",
+      "chli3": "pp.70–72, plate 46",
+      "source_role": "public discovery metadata cross-checked to CHLI III locator",
+      "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+    },
+    {
+      "id": "KARKAMIŠ A11a",
+      "period": "Iron Age",
+      "object": "basalt doorjamb/block; largely destroyed after early excavations",
+      "museum": "fragments Anatolian Civilizations Museum; one British Museum; later fragments excavated",
+      "chli1": "pp.94–100, plates 10–12",
+      "chli3": "pp.191–192, 302–303",
+      "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+    },
+    {
+      "id": "KARKAMIŠ A11b+c",
+      "period": "Iron Age",
+      "object": "two basalt blocks forming one continuous text",
+      "chli1": "pp.101–108, plates 14–17",
+      "chli3": "pp.193–194, 303–304",
+      "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+    },
+    {
+      "id": "KARKAMIŠ A2+3",
+      "period": "Iron Age",
+      "object": "two basalt blocks forming one text",
+      "museum": "Anatolian Civilizations Museum",
+      "chli1": "pp.108–112, plates 18–21",
+      "chli3": "pp.194–195",
+      "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+    },
+    {
+      "id": "KARKAMIŠ A15b",
+      "period": "Iron Age",
+      "object": "basalt half-drum statue/stele base",
+      "museum": "Anatolian Civilizations Museum",
+      "chli1": "pp.130–133, plates 36–37",
+      "chli3": "pp.201–202, 308–309",
+      "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+    },
+    {
+      "id": "BAHÇEKÖY",
+      "period": "Iron Age",
+      "object": "stele",
+      "museum": "Kayseri Museum",
+      "chli1": "pp.478–480, plate 265",
+      "chli3": "pp.265–266, 343",
+      "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+    },
+    {
+      "id": "SULTANHANI",
+      "period": "Iron Age",
+      "object": "base + stele forming one inscription",
+      "museum": "Anatolian Civilizations Museum",
+      "chli1": "pp.463–472, plates 258–261",
+      "chli3": "pp.262–263, 342",
+      "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+    }
+  ],
+  "guardrail": "Metadata reconciliation does not reproduce CHLI transcription/translation and does not count a public derivative as an independent textual witness."
+}
