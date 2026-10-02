@@ -1,0 +1,13 @@
+{
+  "name": "Anatolian Hieroglyphic Corpus",
+  "version": "0.1.0",
+  "status": "SOURCE_DISCOVERY_AND_ARCHITECTURE",
+  "canonical_records": 0,
+  "reference_records": 0,
+  "principles": [
+    "provenance-first",
+    "source-dependence-aware",
+    "no graphic-similarity decipherment",
+    "human adjudication for disputed readings"
+  ]
+}
