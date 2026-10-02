@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "authorities": [
+    {
+      "volume": "CHLI I",
+      "year": 2000,
+      "scope": [
+        "Cilicia",
+        "Karkamiš",
+        "Tell Ahmar",
+        "Maraş",
+        "Malatya",
+        "Commagene",
+        "Amuq",
+        "Aleppo",
+        "Hama",
+        "Tabal",
+        "Assur letters",
+        "Miscellaneous",
+        "Seals"
+      ],
+      "indices": [
+        "inscriptions alphabetical",
+        "locations",
+        "concordance",
+        "sign list"
+      ],
+      "role": "Iron Age baseline"
+    },
+    {
+      "volume": "CHLI III",
+      "year": 2024,
+      "scope": [
+        "Hittite Empire",
+        "new Iron Age inscriptions not in CHLI I",
+        "revised transliterations/translations",
+        "addenda/corrigenda to CHLI I",
+        "signary",
+        "selected glossary",
+        "seals"
+      ],
+      "indices": [
+        "inscriptions alphabetical p.671",
+        "locations pp.674-676",
+        "concordance p.677"
+      ],
+      "role": "current authoritative completion/revision layer"
+    }
+  ],
+  "reconciliation_rules": [
+    "A CHLI I record must retain its original locator even when CHLI III revises its reading.",
+    "New Iron Age records belong to CHLI III provenance, not retroactively CHLI I.",
+    "Seals require dedicated enumeration because monument-only discovery routes exclude them.",
+    "Revision assertions are dependent on the earlier object identity but are distinct edition states."
+  ],
+  "status": "EDITION_CROSSWALK_READY_FOR_OBJECT_ENUMERATION"
+}
