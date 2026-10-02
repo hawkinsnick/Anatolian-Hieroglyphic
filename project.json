@@ -1,7 +1,7 @@
 {
   "name": "Anatolian Hieroglyphic Corpus",
-  "version": "1.6.0",
-  "status": "EDITION_LINEAGE_AND_NEGATIVE_CONTROLS",
+  "version": "1.7.0",
+  "status": "ASSERTION_LEVEL_PROVENANCE",
   "canonical_records": 0,
   "reference_records": 0,
   "principles": [
