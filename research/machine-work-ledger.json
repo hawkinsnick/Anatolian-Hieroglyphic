@@ -4,17 +4,19 @@
   "items": [
     {
       "id": "AH-PRE-001",
-      "status": "ACCESS_RIGHTS_BLOCKED",
+      "status": "PUBLIC_MONUMENTAL_ENUMERATION_STARTED",
       "completed": [
         "period partition",
-        "basic edition lineage",
-        "digital route identification"
+        "CHLI III authoritative structure",
+        "secondary monumental discovery route identified",
+        "28 Empire-period monument names seeded with noncanonical status"
       ],
       "remaining": [
-        "enumerate object identities from eDiAna interface/export",
-        "attach Hawkins locators"
+        "complete monumental list extraction",
+        "reconcile each name to CHLI III",
+        "add non-monumental classes from authoritative sources"
       ],
-      "blocker": "No lawfully acquired bulk object export or licensed Hawkins corpus is present in repository."
+      "blocker": "Public monumental index is incomplete by design; total-corpus denominator still requires CHLI III/eDiAna object-level acquisition."
     },
     {
       "id": "AH-PRE-002",
