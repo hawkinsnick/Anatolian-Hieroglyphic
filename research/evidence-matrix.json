@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "release_target": "1.0.0",
+  "dimensions": [
+    "object_identity",
+    "period",
+    "provenance",
+    "chronology",
+    "edition_locator",
+    "digital_locator",
+    "transliteration",
+    "sign_inventory",
+    "source_dependence",
+    "rights"
+  ],
+  "partitions": [
+    {
+      "id": "empire",
+      "primary_spine": "Hawkins 1995",
+      "digital_derivative": "eDiAna",
+      "object_level_status": "ACQUISITION_REQUIRED"
+    },
+    {
+      "id": "post_empire",
+      "primary_spine": "Hawkins 2000",
+      "digital_derivative": "eDiAna",
+      "object_level_status": "ACQUISITION_REQUIRED"
+    },
+    {
+      "id": "later_additions",
+      "primary_spine": "publication-specific",
+      "digital_derivative": "eDiAna",
+      "object_level_status": "DISCOVERY_REQUIRED"
+    }
+  ],
+  "rule": "No field becomes verified from an uncited secondary aggregation."
+}
