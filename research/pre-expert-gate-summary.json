@@ -13,5 +13,10 @@
   "human_only": [
     "disputed/damaged readings where editions disagree",
     "specialist palaeographic/sign adjudication beyond explicit sources"
-  ]
+  ],
+  "release_candidate": "2.0.0-rc.1",
+  "stop_assessment": {
+    "machine_work_remaining": true,
+    "external_wall": "Non-monumental total denominator and authoritative bulk object enumeration require CHLI III/eDiAna access beyond currently exposed public metadata; monumental discovery enumeration itself is complete."
+  }
 }
