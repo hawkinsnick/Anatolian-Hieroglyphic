@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "edges": [
+    {
+      "from": "eDiAna Luwian hieroglyphic corpus",
+      "to": "Hawkins 1995",
+      "relation": "basic_corpus_for_empire"
+    },
+    {
+      "from": "eDiAna Luwian hieroglyphic corpus",
+      "to": "Hawkins 2000",
+      "relation": "basic_corpus_for_post_empire"
+    },
+    {
+      "from": "eDiAna transliterations",
+      "to": "modern conventions/recent findings/Hawkins new readings",
+      "relation": "editorially_adjusted_derivative"
+    }
+  ],
+  "independence_rule": "eDiAna and its underlying Hawkins reading are not counted as independent witnesses merely because both are cited."
+}
