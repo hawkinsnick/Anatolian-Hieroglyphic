@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "resources": [
+    {
+      "resource": "eDiAna Luwian hieroglyphic corpus",
+      "reuse_status": "REVIEW_BEFORE_BULK_REPUBLICATION",
+      "allowed_now": [
+        "bibliographic citation",
+        "source locator",
+        "independently authored metadata/provenance assertions with citation"
+      ]
+    },
+    {
+      "resource": "Hawkins 1995",
+      "reuse_status": "COPYRIGHTED_PUBLICATION",
+      "allowed_now": [
+        "bibliographic citation",
+        "page/object locators",
+        "independently authored factual metadata"
+      ]
+    },
+    {
+      "resource": "Hawkins 2000",
+      "reuse_status": "COPYRIGHTED_PUBLICATION",
+      "allowed_now": [
+        "bibliographic citation",
+        "page/object locators",
+        "independently authored factual metadata"
+      ]
+    }
+  ]
+}
