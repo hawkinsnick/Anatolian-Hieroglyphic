@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "milestone": "POST_1_0_MACHINE_MAXIMUM",
+  "items": [
+    {
+      "id": "AH-PRE-001",
+      "status": "ACCESS_RIGHTS_BLOCKED",
+      "completed": [
+        "period partition",
+        "basic edition lineage",
+        "digital route identification"
+      ],
+      "remaining": [
+        "enumerate object identities from eDiAna interface/export",
+        "attach Hawkins locators"
+      ],
+      "blocker": "No lawfully acquired bulk object export or licensed Hawkins corpus is present in repository."
+    },
+    {
+      "id": "AH-PRE-002",
+      "status": "ACCESS_RIGHTS_BLOCKED",
+      "completed": [
+        "Post-Empire partition",
+        "Hawkins 2000 lineage"
+      ],
+      "remaining": [
+        "enumerate identities",
+        "attach edition locators"
+      ],
+      "blocker": "Same acquisition boundary."
+    },
+    {
+      "id": "AH-PRE-003",
+      "status": "EDITION_ACCESS_BLOCKED",
+      "completed": [
+        "non-collapse rule for variants"
+      ],
+      "remaining": [
+        "authority sign inventories",
+        "concordance"
+      ],
+      "blocker": "Requires authoritative sign tables/edition access."
+    },
+    {
+      "id": "AH-PRE-004",
+      "status": "PARTIAL",
+      "completed": [
+        "eDiAna-to-Hawkins dependence encoded"
+      ],
+      "remaining": [
+        "per-record source edges"
+      ],
+      "blocker": "Depends on object enumeration."
+    }
+  ]
+}
