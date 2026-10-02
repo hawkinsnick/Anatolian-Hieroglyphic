@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "target": "PRE_EXPERT_MAXIMUM",
+  "established": [
+    {
+      "gate": "empty_repo_initialized",
+      "status": "PASS"
+    },
+    {
+      "gate": "source_hierarchy_defined",
+      "status": "PASS"
+    }
+  ],
+  "remaining_nonexpert_work": [
+    {
+      "id": "AH-PRE-001",
+      "scope": "Empire inscriptions",
+      "action": "Register Hawkins/eDiAna inscription identities, object IDs, provenance, chronology and edition locators.",
+      "blocked_by": "source_acquisition_and_rights_review"
+    },
+    {
+      "id": "AH-PRE-002",
+      "scope": "Post-Empire inscriptions",
+      "action": "Register Hawkins/eDiAna identities and edition lineage.",
+      "blocked_by": "source_acquisition_and_rights_review"
+    },
+    {
+      "id": "AH-PRE-003",
+      "scope": "sign inventories",
+      "action": "Encode authority-specific sign labels and concordances without collapsing disputed variants.",
+      "blocked_by": "edition_access"
+    },
+    {
+      "id": "AH-PRE-004",
+      "scope": "source dependence",
+      "action": "Map eDiAna assertions to cited editions and distinguish digital derivation from independent witness evidence.",
+      "blocked_by": "source_lineage_reconciliation"
+    }
+  ],
+  "human_only_boundary": [
+    {
+      "id": "AH-HUM-001",
+      "decision": "adjudicate damaged/restored readings"
+    },
+    {
+      "id": "AH-HUM-002",
+      "decision": "adjudicate disputed sign identity and palaeographic variants"
+    },
+    {
+      "id": "AH-HUM-003",
+      "decision": "adjudicate linguistic analyses not explicit in authoritative sources"
+    }
+  ],
+  "completion_rule": "Every discoverable inscription/object and source route receives a completed, access/rights-blocked, or human-only disposition before expert review."
+}
