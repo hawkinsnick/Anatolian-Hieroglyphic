@@ -6,6 +6,7 @@ def test_boundary():
  assert p['canonical_records']==0 and x['target']=='PRE_EXPERT_MAXIMUM' and len(x['human_only_boundary'])>=3
  assert any(r['role']=='pre_expert_maximum' for r in a['required_authorities'])
 def test_release_assurance():
- for p in ['research/evidence-matrix.json','research/rights-register.json','research/source-lineage.json','research/expert-review-packet.json','research/acquisition-queue.json']: L(p)
+ for p in ['research/evidence-matrix.json','research/rights-register.json','research/source-lineage.json','research/expert-review-packet.json','research/acquisition-queue.json','research/machine-work-ledger.json']: L(p)
  assert L('research/catalogue-register.json')['status']=='DISCOVERY_REGISTER'
  assert 'independent' in L('research/source-lineage.json')['independence_rule'].lower()
+ assert all(x['status'] for x in L('research/machine-work-ledger.json')['items'])
