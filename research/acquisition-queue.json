@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "priority": [
+    {
+      "id": "AH-ACQ-001",
+      "target": "eDiAna Hieroglyphic Luwian export/searchable corpus",
+      "purpose": "enumerate inscription identities and available metadata",
+      "rights_action": "determine export/reuse terms before committing derived text"
+    },
+    {
+      "id": "AH-ACQ-002",
+      "target": "Hawkins 1995",
+      "purpose": "Empire authoritative locators/object reconciliation",
+      "rights_action": "bibliographic/source-locator use first; no bulk copyrighted transcription"
+    },
+    {
+      "id": "AH-ACQ-003",
+      "target": "Hawkins 2000",
+      "purpose": "Post-Empire authoritative locators/object reconciliation",
+      "rights_action": "bibliographic/source-locator use first; no bulk copyrighted transcription"
+    },
+    {
+      "id": "AH-ACQ-004",
+      "target": "eDiAna post-Hawkins additions",
+      "purpose": "identify later inscriptions and their publication lineage",
+      "rights_action": "record source-by-source rights"
+    }
+  ]
+}
