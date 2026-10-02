@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "routes": [
+    {
+      "id": "EDIANA",
+      "scope": "Empire and Post-Empire plus later additions",
+      "role": "linguistic/dictionary-linked derivative corpus",
+      "lineage": [
+        "Hawkins 1995 Empire",
+        "Hawkins 2000 Post-Empire",
+        "later publications",
+        "new Hawkins readings"
+      ],
+      "citation_policy": "Use eDiAna for its interpretations and linguistic discussion; do not treat it as independent of underlying editions."
+    },
+    {
+      "id": "ACLT2",
+      "scope": "primarily Iron Age Luwian hieroglyphic inscriptions",
+      "role": "search/pedagogical corpus",
+      "lineage": [
+        "ACLT",
+        "parallel derivative relationship with eDiAna"
+      ],
+      "citation_policy": "ACLT2 itself discourages direct academic citation where avoidable; compare with eDiAna and cite appropriate scholarly authority."
+    }
+  ],
+  "independence_warning": "ACLT/eDiAna are related derivatives and cannot be counted as independent witnesses without assertion-level lineage analysis."
+}
