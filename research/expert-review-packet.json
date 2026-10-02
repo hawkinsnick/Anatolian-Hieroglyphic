@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "status": "NOT_YET_NEEDED_FOR_DATA_ENGINEERING",
+  "future_questions": [
+    "adjudicate genuinely disputed readings after edition collation",
+    "adjudicate disputed sign identity/palaeographic variants",
+    "review linguistic analyses not explicit in authoritative editions"
+  ],
+  "machine_work_remaining": [
+    "enumerate eDiAna identities",
+    "reconcile Hawkins locators",
+    "build sign concordance",
+    "map later additions and publication lineage"
+  ]
+}
