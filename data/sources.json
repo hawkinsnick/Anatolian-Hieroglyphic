@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "ediana-luwian-hieroglyphic",
+      "title": "eDiAna Luwian hieroglyphic texts",
+      "role": "digital_corpus_target",
+      "status": "PUBLIC_RESEARCH_ROUTE_CONFIRMED",
+      "notes": "eDiAna documents Hawkins 1995 and Hawkins 2000 as basic corpora for Empire and Post-Empire material; inspect rights and source lineage before redistribution."
+    },
+    {
+      "id": "hawkins-1995",
+      "role": "authoritative_bibliographic_spine",
+      "status": "ACCESS_RIGHTS_REVIEW_REQUIRED"
+    },
+    {
+      "id": "hawkins-2000",
+      "role": "authoritative_bibliographic_spine",
+      "status": "ACCESS_RIGHTS_REVIEW_REQUIRED"
+    }
+  ]
+}
