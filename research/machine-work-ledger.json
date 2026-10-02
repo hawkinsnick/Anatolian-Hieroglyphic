@@ -4,19 +4,22 @@
   "items": [
     {
       "id": "AH-PRE-001",
-      "status": "PUBLIC_MONUMENTAL_ENUMERATION_STARTED",
+      "status": "MONUMENTAL_DISCOVERY_ENUMERATION_COMPLETE",
       "completed": [
-        "period partition",
         "CHLI III authoritative structure",
-        "secondary monumental discovery route identified",
-        "28 Empire-period monument names seeded with noncanonical status"
+        "public monumental discovery list fully extracted",
+        "63 Empire entries",
+        "28 Transition entries",
+        "223 Late/Iron-Age entries",
+        "314 total discovery entries",
+        "pilot CHLI I↔III locator reconciliation"
       ],
       "remaining": [
-        "complete monumental list extraction",
-        "reconcile each name to CHLI III",
-        "add non-monumental classes from authoritative sources"
+        "record-level CHLI reconciliation across discovery entries",
+        "expand non-monumental classes: seals/bullae/pottery/metalware/lead strips",
+        "convert ranges/fragments to object/text units only from authoritative evidence"
       ],
-      "blocker": "Public monumental index is incomplete by design; total-corpus denominator still requires CHLI III/eDiAna object-level acquisition."
+      "blocker": "Total corpus denominator remains impossible from monumental list because source explicitly excludes non-monumental classes; CHLI III/eDiAna authoritative object access required."
     },
     {
       "id": "AH-PRE-002",
