@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "project": "Anatolian-Hieroglyphic",
+  "skill_version": "1.8.0",
+  "milestone": "ASSERTION_LEVEL_SOURCE_RECONCILIATION",
+  "authoritative_inputs": [
+    "research/catalogue-register.json",
+    "research/source-lineage.json",
+    "research/acquisition-queue.json",
+    "research/evidence-matrix.json",
+    "research/rights-register.json",
+    "research/machine-work-ledger.json",
+    "research/chli-iii-structure.json",
+    "research/chli-volume-crosswalk.json",
+    "research/coverage-class-register.json",
+    "research/monumental-discovery-register.json",
+    "research/edition-reconciliation-pilot.json"
+  ],
+  "guardrails": [
+    "Discovery-list entries are not canonical admissions.",
+    "CHLI/eDiAna/ACLT derivatives are not independent witnesses merely because multiple interfaces repeat a reading.",
+    "Do not reproduce copyrighted edition text or plates absent permission.",
+    "Keep edition state separate from object identity."
+  ],
+  "generated_note": "Index points to repository evidence; it does not duplicate copyrighted source text."
+}
