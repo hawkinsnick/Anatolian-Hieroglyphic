@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "project": "Anatolian-Hieroglyphic",
+  "state": "POST_1_0_MACHINE_MAXIMUM_ACTIVE",
+  "rule": "A gate closes only when machine-resolvable work is complete or a concrete source/access/human-judgment blocker is named.",
+  "release_policy": "Dot releases are internal checkpoints; work continues across them without requesting approval.",
+  "remaining_machine_priority": [
+    "complete public monumental enumeration including Iron Age",
+    "expand CHLI I↔III metadata reconciliation",
+    "locate lawful non-monumental/seal denominator",
+    "build per-record source-dependence edges"
+  ],
+  "human_only": [
+    "disputed/damaged readings where editions disagree",
+    "specialist palaeographic/sign adjudication beyond explicit sources"
+  ]
+}
