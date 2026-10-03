@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "AH-PRE-001",
-      "status": "MONUMENTAL_DISCOVERY_ENUMERATION_COMPLETE",
+      "status": "MONUMENTAL_COMPLETE_NONMONUMENTAL_STRUCTURED_ROUTE_CONFIRMED",
       "completed": [
         "CHLI III authoritative structure",
         "public monumental discovery list fully extracted",
@@ -12,14 +12,18 @@
         "28 Transition entries",
         "223 Late/Iron-Age entries",
         "314 total discovery entries",
-        "pilot CHLI I↔III locator reconciliation"
+        "pilot CHLI I↔III locator reconciliation",
+        "eDiAna Hieroglyphic stable-ID identity spine confirmed",
+        "non-monumental seal identities confirmed in public structured list",
+        "pottery/pithos identity route confirmed"
       ],
       "remaining": [
-        "record-level CHLI reconciliation across discovery entries",
-        "expand non-monumental classes: seals/bullae/pottery/metalware/lead strips",
-        "convert ranges/fragments to object/text units only from authoritative evidence"
+        "harvest complete Hieroglyphic eDiAna identity list",
+        "classify each identity by object class/period",
+        "reconcile eDiAna IDs to CHLI I/III locators",
+        "separate grouped sigla into physical/text units only when authority supports it"
       ],
-      "blocker": "Total corpus denominator remains impossible from monumental list because source explicitly excludes non-monumental classes; CHLI III/eDiAna authoritative object access required."
+      "blocker": "Bulk text redistribution rights remain separate; identity enumeration is now publicly routable, so prior non-monumental discovery blocker is reduced to harvesting/classification/reconciliation."
     },
     {
       "id": "AH-PRE-002",
