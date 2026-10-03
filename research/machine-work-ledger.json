@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "AH-PRE-001",
-      "status": "MONUMENTAL_COMPLETE_NONMONUMENTAL_STRUCTURED_ROUTE_CONFIRMED",
+      "status": "EDIANA_287_TEXT_ENTRY_DENOMINATOR_COMPLETE_RECONCILIATION_ACTIVE",
       "completed": [
         "CHLI III authoritative structure",
         "public monumental discovery list fully extracted",
@@ -15,15 +15,17 @@
         "pilot CHLI I↔III locator reconciliation",
         "eDiAna Hieroglyphic stable-ID identity spine confirmed",
         "non-monumental seal identities confirmed in public structured list",
-        "pottery/pithos identity route confirmed"
+        "pottery/pithos identity route confirmed",
+        "complete public eDiAna Hieroglyphic text-entry denominator: 287 rows",
+        "explicit portable/non-monumental siglum classification subset"
       ],
       "remaining": [
-        "harvest complete Hieroglyphic eDiAna identity list",
-        "classify each identity by object class/period",
-        "reconcile eDiAna IDs to CHLI I/III locators",
-        "separate grouped sigla into physical/text units only when authority supports it"
+        "classify 287 entries by period/object class",
+        "CHLI I/III locator reconciliation",
+        "authority-supported grouped-siglum decomposition",
+        "per-record dependence edges"
       ],
-      "blocker": "Bulk text redistribution rights remain separate; identity enumeration is now publicly routable, so prior non-monumental discovery blocker is reduced to harvesting/classification/reconciliation."
+      "blocker": "No blocker to digital entry reconciliation; physical-object denominator remains source-dependent and must not be inferred from 287 text entries."
     },
     {
       "id": "AH-PRE-002",
