@@ -5,9 +5,9 @@
   "rule": "A gate closes only when machine-resolvable work is complete or a concrete source/access/human-judgment blocker is named.",
   "release_policy": "Dot releases are internal checkpoints; work continues across them without requesting approval.",
   "remaining_machine_priority": [
-    "complete public monumental enumeration including Iron Age",
-    "expand CHLI I↔III metadata reconciliation",
-    "locate lawful non-monumental/seal denominator",
+    "classify all 287 eDiAna text entries by period/object class where explicit or authority-supported",
+    "reconcile eDiAna IDs to CHLI I/III locators",
+    "decompose grouped sigla into physical/text units only where authority supports it",
     "build per-record source-dependence edges"
   ],
   "human_only": [
@@ -17,6 +17,6 @@
   "release_candidate": "2.0.0-rc.1",
   "stop_assessment": {
     "machine_work_remaining": true,
-    "external_wall": "Non-monumental total denominator and authoritative bulk object enumeration require CHLI III/eDiAna access beyond currently exposed public metadata; monumental discovery enumeration itself is complete."
+    "external_wall": "Digital text-entry denominator is now 287. Physical-object denominator remains distinct because grouped sigla/fragments/bullae/seals require authority-level decomposition; CHLI III reconciliation remains active."
   }
 }
