@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "source": "eDiAna current Hieroglyphic Luwian corpus list",
+  "source_role": "AUTHORITATIVE_DERIVATIVE_DIGITAL_TEXT_ENTRY_SPINE",
+  "public_list": {
+    "line_range": "342-628 in retrieved corpus page",
+    "entry_count": 287,
+    "id_range_observed": "0-286",
+    "denominator_type": "DIGITAL_CORPUS_TEXT_ENTRIES",
+    "physical_object_denominator": false
+  },
+  "explicit_nonmonumental_or_portable_entries": [
+    {
+      "ediana_id": 243,
+      "siglum": "ALTINTEPE pithos inscriptions",
+      "object_class": "POTTERY_OR_PITHOS",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 99,
+      "siglum": "ASSUR letter a",
+      "object_class": "LETTER",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 100,
+      "siglum": "ASSUR letter b",
+      "object_class": "LETTER",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 101,
+      "siglum": "ASSUR letter c",
+      "object_class": "LETTER",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 102,
+      "siglum": "ASSUR letter d",
+      "object_class": "LETTER",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 103,
+      "siglum": "ASSUR letter e",
+      "object_class": "LETTER",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 104,
+      "siglum": "ASSUR letter f+g",
+      "object_class": "LETTER",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 230,
+      "siglum": "BOROWSKI seal 1",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 238,
+      "siglum": "BOROWSKI seal 2",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 241,
+      "siglum": "BOSSERT seal",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 229,
+      "siglum": "DELAPORTE seal",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 240,
+      "siglum": "DÜLÜK/GAZİANTEP seals",
+      "object_class": "SEAL_GROUP",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 235,
+      "siglum": "GELB seals",
+      "object_class": "SEAL_GROUP",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 234,
+      "siglum": "GULBENKIAN seal",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 232,
+      "siglum": "HOGARTH seal 1",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 233,
+      "siglum": "HOGARTH seal 2",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 239,
+      "siglum": "HOGARTH seal 3",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 57,
+      "siglum": "KARKAMIŠ sherd",
+      "object_class": "POTTERY_SHERD",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 20,
+      "siglum": "KARKAMIŠ Stone Bowl",
+      "object_class": "STONE_VESSEL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 237,
+      "siglum": "KHORSABAD bullae",
+      "object_class": "BULLAE_GROUP",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 199,
+      "siglum": "KULULU lead fragment 1",
+      "object_class": "LEAD_FRAGMENT",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 200,
+      "siglum": "KULULU lead fragment 3",
+      "object_class": "LEAD_FRAGMENT",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 197,
+      "siglum": "KULULU lead strip 1",
+      "object_class": "LEAD_STRIP",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 198,
+      "siglum": "KULULU lead strip 2",
+      "object_class": "LEAD_STRIP",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 201,
+      "siglum": "KULULU lead strip 3 (+ frag. 2)",
+      "object_class": "LEAD_STRIP_WITH_FRAGMENT",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 225,
+      "siglum": "LİDAR bullae",
+      "object_class": "BULLAE_GROUP",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 226,
+      "siglum": "MALATYA bulla (MALATYA 15)",
+      "object_class": "BULLA",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 236,
+      "siglum": "NINEVEH bullae 1-7",
+      "object_class": "BULLAE_GROUP",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 231,
+      "siglum": "NINEVEH seal",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 228,
+      "siglum": "PORADA seal",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 242,
+      "siglum": "YALE seal",
+      "object_class": "SEAL",
+      "classification_basis": "explicit siglum wording only"
+    },
+    {
+      "ediana_id": 227,
+      "siglum": "ZİNCİRLİ signet",
+      "object_class": "SIGNET",
+      "classification_basis": "explicit siglum wording only"
+    }
+  ],
+  "classification_limit": "Only object classes explicit in sigla are classified here. Absence from this subset does not imply monumentality.",
+  "grouping_warning": "Rows such as seals, bullae, fragments, joined texts, and multi-inscription sigla may represent multiple physical objects or multiple textual units; do not convert 287 entries to 287 objects.",
+  "source_dependence": "eDiAna states Hawkins 1995/2000 are basic corpora, with later additions/updated readings and ACLT-derived annotation for Post-Empire material; these are not independent witnesses merely because separately digitized.",
+  "rights": "Record identifiers/sigla and factual classification are indexed; no blanket redistribution of protected edition text, translations, or images is asserted.",
+  "status": "COMPLETE_PUBLIC_EDIANA_TEXT_ENTRY_DENOMINATOR_WITH_EXPLICIT_PORTABLE_SUBSET"
+}
