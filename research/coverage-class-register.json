@@ -9,29 +9,29 @@
     },
     {
       "id": "SEALS",
-      "discovery_route": "CHLI III XIII. Seals",
-      "status": "AUTHORITATIVE_SECTION_IDENTIFIED",
+      "discovery_route": "eDiAna stable-ID corpus list + CHLI III XIII. Seals",
+      "status": "STRUCTURED_ENUMERATION_ROUTE_CONFIRMED",
       "canonical_authority": "CHLI III"
     },
     {
       "id": "BULLAE",
-      "discovery_route": "authoritative corpus/object publications",
-      "status": "DISCOVERY_REQUIRED"
+      "discovery_route": "eDiAna Hieroglyphic stable-ID list + CHLI/object publications",
+      "status": "ENUMERATION_ROUTE_CONFIRMED_CLASS_ASSIGNMENT_PENDING"
     },
     {
       "id": "POTTERY",
-      "discovery_route": "authoritative corpus/object publications",
-      "status": "DISCOVERY_REQUIRED"
+      "discovery_route": "eDiAna stable-ID corpus list + authoritative object publications",
+      "status": "STRUCTURED_ROUTE_CONFIRMED_BY_ALTINTEPE_PITHOS_ENTRY"
     },
     {
       "id": "METALWARE",
-      "discovery_route": "authoritative corpus/object publications",
-      "status": "DISCOVERY_REQUIRED"
+      "discovery_route": "eDiAna Hieroglyphic stable-ID list + CHLI/object publications",
+      "status": "ENUMERATION_ROUTE_CONFIRMED_CLASS_ASSIGNMENT_PENDING"
     },
     {
       "id": "LEAD_STRIPS",
-      "discovery_route": "authoritative corpus/object publications",
-      "status": "DISCOVERY_REQUIRED"
+      "discovery_route": "eDiAna Hieroglyphic stable-ID list + CHLI/object publications",
+      "status": "ENUMERATION_ROUTE_CONFIRMED_CLASS_ASSIGNMENT_PENDING"
     },
     {
       "id": "GRAFFITI_OR_MISC_STONE",
