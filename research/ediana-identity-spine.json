@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "source": "eDiAna Hieroglyphic Luwian corpus",
+  "source_role": "AUTHORITATIVE_DERIVATIVE_DIGITAL_IDENTITY_SPINE",
+  "source_lineage": [
+    "Hawkins 1995 Empire baseline",
+    "Hawkins 2000 Post-Empire baseline",
+    "ACLT1 annotation for Post-Empire",
+    "eDiAna additions and updated readings"
+  ],
+  "independence_rule": "eDiAna/ACLT/Hawkins are source-linked edition states, not automatically independent witnesses.",
+  "observed_stable_ids": [
+    {
+      "id": 64,
+      "siglum": "ADANA 1 (KARKAMIŠ)"
+    },
+    {
+      "id": 267,
+      "siglum": "ALEPPO 1"
+    },
+    {
+      "id": 243,
+      "siglum": "ALTINTEPE pithos inscriptions"
+    },
+    {
+      "id": 99,
+      "siglum": "ASSUR letter a"
+    },
+    {
+      "id": 100,
+      "siglum": "ASSUR letter b"
+    },
+    {
+      "id": 101,
+      "siglum": "ASSUR letter c"
+    },
+    {
+      "id": 102,
+      "siglum": "ASSUR letter d"
+    },
+    {
+      "id": 103,
+      "siglum": "ASSUR letter e"
+    },
+    {
+      "id": 104,
+      "siglum": "ASSUR letter f+g"
+    },
+    {
+      "id": 230,
+      "siglum": "BOROWSKI seal 1"
+    },
+    {
+      "id": 238,
+      "siglum": "BOROWSKI seal 2"
+    },
+    {
+      "id": 241,
+      "siglum": "BOSSERT seal"
+    },
+    {
+      "id": 229,
+      "siglum": "DELAPORTE seal"
+    },
+    {
+      "id": 240,
+      "siglum": "DÜLÜK/GAZİANTEP seals"
+    },
+    {
+      "id": 235,
+      "siglum": "GELB seals"
+    },
+    {
+      "id": 234,
+      "siglum": "GULBENKIAN seal"
+    },
+    {
+      "id": 232,
+      "siglum": "HOGARTH seal 1"
+    },
+    {
+      "id": 233,
+      "siglum": "HOGARTH seal 2"
+    },
+    {
+      "id": 239,
+      "siglum": "HOGARTH seal 3"
+    }
+  ],
+  "coverage_effect": "Public interface proves structured identities exist for monumental and non-monumental classes; complete Hieroglyphic-only enumeration remains to be harvested/reconciled.",
+  "rights": "Interface/public metadata may be recorded; do not assume bulk text/transliteration redistribution rights from interface availability.",
+  "status": "STRUCTURED_NON_MONUMENTAL_ROUTE_CONFIRMED"
+}
