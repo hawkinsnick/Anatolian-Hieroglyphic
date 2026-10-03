@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "project": "Anatolian-Hieroglyphic",
   "skill_version": "1.8.0",
-  "milestone": "ASSERTION_LEVEL_SOURCE_RECONCILIATION",
+  "milestone": "EDIANA_287_ENTRY_RECONCILIATION",
   "authoritative_inputs": [
     "research/catalogue-register.json",
     "research/source-lineage.json",
@@ -22,5 +22,11 @@
     "Do not reproduce copyrighted edition text or plates absent permission.",
     "Keep edition state separate from object identity."
   ],
-  "generated_note": "Index points to repository evidence; it does not duplicate copyrighted source text."
+  "generated_note": "Index points to repository evidence; it does not duplicate copyrighted source text.",
+  "artifacts": [
+    {
+      "role": "digital_identity_denominator",
+      "path": "research/ediana-hieroglyphic-entry-register.json"
+    }
+  ]
 }
