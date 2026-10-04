@@ -1,0 +1,1254 @@
+{
+  "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
+  "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
+  "config_sha256": "d2be8968b143f0aa7c616fa32b90a4cf77abbe721dce7e67837b781399cc7398",
+  "evidence_fingerprint": "c84a714666da6cab32a93d7f980047417c875f19573d515bc33d43be6634c61b",
+  "input_sha256": {
+    "data/sources.json": "cbc64023519f4f45c6dacc35f673f417a048f23b5201857b05d69b18306147bf",
+    "research/acquisition-queue.json": "2bf0bec1786e2013f7ecef32e6dff086b24db00d6417512bb6a93bc9378e0a61",
+    "research/bibliographic-expansion.json": "572a8253c0f649c7ac687ba96a7ece9e8ee3fed8f116f5dc5490bffcb3728f24",
+    "research/catalogue-register.json": "2c6ff01f9e38ddd2ed350e53d0fbdb236e6ceda79cd06e98a11c2603a231b39d",
+    "research/chli-iii-structure.json": "e9d3bf1d7fc4cd8481209bd1ce6e82dbdebd6afc645de71217149c96d0896e99",
+    "research/chli-volume-crosswalk.json": "82d7b38bba3eaeb0d95846b57164c64a28bbb05269f0ec68694450e18c30d9d8",
+    "research/coverage-class-register.json": "20782e4d3a82e16c85e810e6e4fa3a2de6fa6af173afec4f06d995711319756b",
+    "research/ediana-hieroglyphic-entry-register.json": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+    "research/ediana-identity-spine.json": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+    "research/edition-reconciliation-pilot.json": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+    "research/evidence-matrix.json": "8d979be07efae9161b83d334d90fdfb234830ed42805e6535a141a0490fa931b",
+    "research/machine-work-ledger.json": "8b98ee5bfb1999d0da92d6cd749066821bbe3fb680b4e78338351f3ea7f580eb",
+    "research/monumental-discovery-register.json": "de7877e2ea0fff5bb3269549644a5fa4d112d1b06b537dd4ff482c9a168728b6",
+    "research/pre-expert-gate-summary.json": "525be24159cb0d62cf717aafbb28068a6657d193836f9af0a001869a3d4ba2ca",
+    "research/pre-expert-maximum.json": "7bc9149f13e703377949011edc82ada01ae87a0c4fbe8f8a49c013f1baab1652",
+    "research/rights-register.json": "557fcc83b2431ad40b4af9352bfcdfbac0d9a1b5bff935b517dc0278d4c5005c",
+    "research/source-lineage.json": "346bf0d80f0fdfc4f62c8b5c894fcb04c7089a3c021e2c762c47caa0365f3023"
+  },
+  "native_review_links": [
+    "research/expert-review-packet.json",
+    "LICENSING.md"
+  ],
+  "question_definitions": {
+    "language_or_script_classification": "Attribute membership and classification to named authorities; preserve disagreement.",
+    "object_identity": "Confirm the object, face and inventory concordance; distinguish source entries from physical objects.",
+    "reading_and_layout": "Compare the exact edition rows, figures and layout; preserve competing readings with page/line locators.",
+    "reuse_rights": "Check the applicable license or permission for each component; project terms do not override upstream rights.",
+    "source_independence": "Identify shared editorial and photographic lineage; a derivative is not an independent witness.",
+    "uncertainty": "Retain damage, restorations, unreadable signs and competing segmentations; do not silently normalize them."
+  },
+  "record_identity_is_not_object_identity": true,
+  "record_views": [
+    {
+      "enumerated": 19,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "observed_digital_identity",
+      "view": "observed-ediana-IDs"
+    },
+    {
+      "enumerated": 32,
+      "native_reported_count": 287,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "classified_digital_entry",
+      "view": "portable-entry-subset"
+    }
+  ],
+  "records": [
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/0",
+      "native_id": "64",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:64",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "6e271ed9c9ab063219c90980ff37b4c4cb98b9213a165344b85289065908803b",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/1",
+      "native_id": "267",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:267",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "cf3c974680081c2a0babe6584d60efacc02bc574349e22d7bcbf2d50e558224b",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/2",
+      "native_id": "243",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:243",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "20c97ab6a00fe0935f6705aa046c4c0cf546067a289f283d285e38d095b04c9a",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/3",
+      "native_id": "99",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:99",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "8dce466014b7deb5763efa388cee29cf5992169a124d111e3dbce2ae3662cc89",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/4",
+      "native_id": "100",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:100",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "fa4a3221b91e916f76de013c0719f6e0621f4101ba31e1921691b07d4fdb3512",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/5",
+      "native_id": "101",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:101",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "c6536c80bb8eb59c6b6afc06586ba1e47816e47764ae6ce66891e2288c74cd9d",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/6",
+      "native_id": "102",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:102",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "320cc2c0e1662ba20489ddfa6673b97786286520c68cf3a247de7e68436942fd",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/7",
+      "native_id": "103",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:103",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "8bc0b7dd2001e4a48f1695587668daaf3d5c82ec237ad0a379835740480528b0",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/8",
+      "native_id": "104",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:104",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "eaabff6aeec8ef2d7dda50ea0bfbf8034ab9ebb0194e0ab9158876d55c86ee1c",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/9",
+      "native_id": "230",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:230",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "d752e8f7c24de173f559297acb1afbf7f872a3a955d9a95c0262823ff1820cf3",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/10",
+      "native_id": "238",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:238",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "962dcfc5a0623b3cdb37c5cb2c07fa0e85a6f2e07496747f874d896ae83f8a92",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/11",
+      "native_id": "241",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:241",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "c42097207b844272c8b60126c797fdac7dc09ea7152425df4e694c74f3653787",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/12",
+      "native_id": "229",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:229",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "4be2cd565e582e9bba4fd60679cd7c4f8c6861635d98bf682b4dcd423c429fb1",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/13",
+      "native_id": "240",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:240",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "abe001a4b977bcd9eda42ddd6ee0ea318f69cacc96fec334503ddfc9f5110cbb",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/14",
+      "native_id": "235",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:235",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "9fce2cb0a257e806f0ed616d9a3a842d4ee86848a88c501765dce89f79ef7474",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/15",
+      "native_id": "234",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:234",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "42802794c63d505d66eeaeff7ec90b9cbb6852b291f9334c50005631a8800bb6",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/16",
+      "native_id": "232",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:232",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "14e7f1aa4e77a7a740d32806f76c2071dcfba982da58218e1da4b1ef9948c32e",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/17",
+      "native_id": "233",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:233",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "663645d3070f46ea23d95267f0ec7a9ae22f5da0a64059df02f46fb9969eed26",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/observed_stable_ids/18",
+      "native_id": "239",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "observed-ediana-IDs:239",
+      "source_file_sha256": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-identity-spine.json",
+      "source_record_sha256": "13f3af1a14d7c1ab774ebafffb0880c85ae4b2d1892c75986abc6ea2dd03d18c",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/0",
+      "native_id": "243",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:243",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "6155ec55a2e48a8a838d5b026f7b5ba56324fc40b337b207b02703903ec58426",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/1",
+      "native_id": "99",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:99",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "e9dc6b0fa9991a8dc9b63b1e437364598451e4f9a72b2611544e8174b16e03c9",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/2",
+      "native_id": "100",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:100",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "ffc98af0978a739d6870e804072fb036c77ab0399739d36ba66588c48a8ec3f7",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/3",
+      "native_id": "101",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:101",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "aadd6148bcb63f649e89c8ebadc3f3fe6ff9e7ec8e47f4048473afb04a7eff93",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/4",
+      "native_id": "102",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:102",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "807b7ad45cd276b62ede5c9d1a1183472d3695468966e14ff69e4a5716fe5f96",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/5",
+      "native_id": "103",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:103",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "773f3933a8993c2e153611933e759a84f449d98d0ce30701ddbf88fd2ddee862",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/6",
+      "native_id": "104",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:104",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "fd12ae9532082f320a25f1f964f257a0c241246cb0105dedbf7a9681b3dc2f05",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/7",
+      "native_id": "230",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:230",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "f4be64d3a6fca82e3aae33e76a9029486dc13c7e6642737d1c743da41ab3eb8a",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/8",
+      "native_id": "238",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:238",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "ce3208cdf1c5dc3498730a9c60b5d6e40f353c13e79643e6817a8980a3daaeea",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/9",
+      "native_id": "241",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:241",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "340a57fcab3027385a4c241625a662c8235557645ff8d43a95c0e1a396423385",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/10",
+      "native_id": "229",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:229",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "26f883d947317e275a637eb3bff42856215cdb38346270027ff799f5fbe04586",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/11",
+      "native_id": "240",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:240",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "d9d13e58c08b5fcc2e209a264bc487ebfd2e2b755ec5c2a18604905e19d33e3a",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/12",
+      "native_id": "235",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:235",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "3fb15d6f64c393abc59903a590cf70bee328ae4f52f617d0be7b5658645266b4",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/13",
+      "native_id": "234",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:234",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "1691e686db3fb7ab397cb161864a6471df8ce7e8c1f98bbe4b939c804449a851",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/14",
+      "native_id": "232",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:232",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "6792d662c8bec222d375c4bca440e7dd890b16b2e4ef6949a059340d2d912901",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/15",
+      "native_id": "233",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:233",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "a6b7aaf4327ebea0f8e25cd2fb3b27db21328387a0b25f74ca1de36af2dc86f0",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/16",
+      "native_id": "239",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:239",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "6362b549dac91534304a038c56d4f365dd95ceb3df75398297aef4b525e5470a",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/17",
+      "native_id": "57",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:57",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "95e8abd0be729018fa4661e01d0303c94f832a1e594f76935f65929993c1729d",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/18",
+      "native_id": "20",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:20",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "358ca523de606980509a15ae3b5e0109de2447e84c0372bb0e7209311d55e8da",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/19",
+      "native_id": "237",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:237",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "fc01ed3369374158dd31b647a149d0fad40ed4059cbcbf14a2ce8690702e23c5",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/20",
+      "native_id": "199",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:199",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "6003efe75d3bd7886cb7efdcae4537db0d1021862f0f484ead78349e44ee82c1",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/21",
+      "native_id": "200",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:200",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "e8837f29d7cd34a5346678f8f6ac357980eac65cf5fd32a0703cfbec83128c65",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/22",
+      "native_id": "197",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:197",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "d48883ff759a14ccc3269739fe79dc79a0faaf2c6abd640d47ecc3f69266dd82",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/23",
+      "native_id": "198",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:198",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "3630574d1e46b108cae120533bdd973dc4cc0965f8ecc9aadefec59e269fe578",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/24",
+      "native_id": "201",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:201",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "ef70ab269e5164805ab111bed1a213ffda9a00b86922648a662b369ba7cdab64",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/25",
+      "native_id": "225",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:225",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "ee17ddf8ac8fd1130695b4477de3273a3ec93900712c078891ea7fdde53a1d8c",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/26",
+      "native_id": "226",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:226",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "d6cb8612fb9c08d0564cc5bd95f5254c4c53f2640ae5067e1f8dd662edda99a6",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/27",
+      "native_id": "236",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:236",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "d3978ccd9a55657fef80396c996e5db636880a2788654d2a402acdfed3fa335d",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/28",
+      "native_id": "231",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:231",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "e2fec4867451403e0337acafffd8a68e74d804d4351bbc1d43c9dc60c47f57bb",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/29",
+      "native_id": "228",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:228",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "51701d17c9ab1c4e551ba0540a3fcf16d4a236a31d1b0639aec5925032b398c7",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/30",
+      "native_id": "242",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:242",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "2d7742d08d09eb88cbb998af90b5c387e4eab04eceff30e818a440c9e696df07",
+      "unit": "classified_digital_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/explicit_nonmonumental_or_portable_entries/31",
+      "native_id": "227",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "portable-entry-subset:227",
+      "source_file_sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "source_lead_pointers": [],
+      "source_path": "research/ediana-hieroglyphic-entry-register.json",
+      "source_record_sha256": "69e695ca1bc059b112fcf3fa62a52a0cb57b0a0c25d53578cd1fa920459557fa",
+      "unit": "classified_digital_entry"
+    }
+  ],
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "review_dimensions": [
+    "object_identity",
+    "reading_and_layout",
+    "uncertainty",
+    "language_or_script_classification",
+    "source_independence",
+    "reuse_rights"
+  ],
+  "schema_version": "1.0",
+  "scientific_approval_granted": false,
+  "scope": "Declared native snapshots and source/task registers only; not a language-wide inventory",
+  "source_leads": [
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/title",
+      "kind": "title",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/title",
+      "kind": "title",
+      "source_path": "research/bibliographic-expansion.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/period_partitions/0/basic_corpus",
+      "kind": "basic_corpus",
+      "source_path": "research/catalogue-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/period_partitions/0/digital_route",
+      "kind": "digital_route",
+      "source_path": "research/catalogue-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/period_partitions/1/basic_corpus",
+      "kind": "basic_corpus",
+      "source_path": "research/catalogue-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/period_partitions/1/digital_route",
+      "kind": "digital_route",
+      "source_path": "research/catalogue-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/period_partitions/2/digital_route",
+      "kind": "digital_route",
+      "source_path": "research/catalogue-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/publication",
+      "kind": "publication",
+      "source_path": "research/chli-iii-structure.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/publication/doi",
+      "kind": "doi",
+      "source_path": "research/chli-iii-structure.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/authoritative_index_routes/0/title",
+      "kind": "title",
+      "source_path": "research/chli-iii-structure.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/authoritative_index_routes/1/title",
+      "kind": "title",
+      "source_path": "research/chli-iii-structure.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/authoritative_index_routes/1/doi",
+      "kind": "doi",
+      "source_path": "research/chli-iii-structure.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/authoritative_index_routes/2/title",
+      "kind": "title",
+      "source_path": "research/chli-iii-structure.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source",
+      "kind": "source",
+      "source_path": "research/ediana-hieroglyphic-entry-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source",
+      "kind": "source",
+      "source_path": "research/ediana-identity-spine.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source",
+      "kind": "source",
+      "source_path": "research/monumental-discovery-register.json"
+    }
+  ],
+  "tasks": [
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/0",
+      "native_status": "EDIANA_287_TEXT_ENTRY_DENOMINATOR_COMPLETE_RECONCILIATION_ACTIVE",
+      "native_task_id": "AH-PRE-001",
+      "source_path": "research/machine-work-ledger.json",
+      "task": null
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/1",
+      "native_status": "ACCESS_RIGHTS_BLOCKED",
+      "native_task_id": "AH-PRE-002",
+      "source_path": "research/machine-work-ledger.json",
+      "task": null
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/2",
+      "native_status": "EDITION_ACCESS_BLOCKED",
+      "native_task_id": "AH-PRE-003",
+      "source_path": "research/machine-work-ledger.json",
+      "task": null
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/3",
+      "native_status": "PARTIAL",
+      "native_task_id": "AH-PRE-004",
+      "source_path": "research/machine-work-ledger.json",
+      "task": null
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only/0",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-gate-summary.json",
+      "task": "disputed/damaged readings where editions disagree"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only/1",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-gate-summary.json",
+      "task": "specialist palaeographic/sign adjudication beyond explicit sources"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/0",
+      "native_status": null,
+      "native_task_id": "AH-PRE-001",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Register Hawkins/eDiAna inscription identities, object IDs, provenance, chronology and edition locators."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/1",
+      "native_status": null,
+      "native_task_id": "AH-PRE-002",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Register Hawkins/eDiAna identities and edition lineage."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/2",
+      "native_status": null,
+      "native_task_id": "AH-PRE-003",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Encode authority-specific sign labels and concordances without collapsing disputed variants."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/3",
+      "native_status": null,
+      "native_task_id": "AH-PRE-004",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Map eDiAna assertions to cited editions and distinguish digital derivation from independent witness evidence."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/0",
+      "native_status": null,
+      "native_task_id": "AH-HUM-001",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate damaged/restored readings"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/1",
+      "native_status": null,
+      "native_task_id": "AH-HUM-002",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate disputed sign identity and palaeographic variants"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/2",
+      "native_status": null,
+      "native_task_id": "AH-HUM-003",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate linguistic analyses not explicit in authoritative sources"
+    }
+  ],
+  "terminal_pre_expert_maximum_established": false
+}

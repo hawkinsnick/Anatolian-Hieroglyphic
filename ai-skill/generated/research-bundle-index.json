@@ -1,8 +1,22 @@
 {
-  "schema_version": "1.0",
-  "project": "Anatolian-Hieroglyphic",
-  "skill_version": "1.8.0",
-  "milestone": "EDIANA_287_ENTRY_RECONCILIATION",
+  "artifacts": [
+    {
+      "path": "research/ediana-hieroglyphic-entry-register.json",
+      "role": "digital_identity_denominator"
+    },
+    {
+      "bytes": 51540,
+      "path": "research/collection-work-ledger.json",
+      "role": "collection_work_ledger",
+      "sha256": "bed955e7005f73e1cd40e9b84df090120d012d95ff71cdb84e7457b8c8aa8419"
+    },
+    {
+      "bytes": 1864,
+      "path": "review/collection-packet.json",
+      "role": "collection_review_packet",
+      "sha256": "6cfc0c32d454ce3bb2de8cf383cc3a93bf70df84718836f628ad4ba19b5d855c"
+    }
+  ],
   "authoritative_inputs": [
     "research/catalogue-register.json",
     "research/source-lineage.json",
@@ -14,19 +28,20 @@
     "research/chli-volume-crosswalk.json",
     "research/coverage-class-register.json",
     "research/monumental-discovery-register.json",
-    "research/edition-reconciliation-pilot.json"
+    "research/edition-reconciliation-pilot.json",
+    "research/collection-work-ledger.json",
+    "review/collection-packet.json"
   ],
+  "collection_evidence_fingerprint": "c84a714666da6cab32a93d7f980047417c875f19573d515bc33d43be6634c61b",
+  "generated_note": "Index points to repository evidence; it does not duplicate copyrighted source text.",
   "guardrails": [
     "Discovery-list entries are not canonical admissions.",
     "CHLI/eDiAna/ACLT derivatives are not independent witnesses merely because multiple interfaces repeat a reading.",
     "Do not reproduce copyrighted edition text or plates absent permission.",
     "Keep edition state separate from object identity."
   ],
-  "generated_note": "Index points to repository evidence; it does not duplicate copyrighted source text.",
-  "artifacts": [
-    {
-      "role": "digital_identity_denominator",
-      "path": "research/ediana-hieroglyphic-entry-register.json"
-    }
-  ]
+  "milestone": "EDIANA_287_ENTRY_RECONCILIATION",
+  "project": "Anatolian-Hieroglyphic",
+  "schema_version": "1.0",
+  "skill_version": "1.8.0"
 }

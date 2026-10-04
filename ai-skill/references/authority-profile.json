@@ -1,25 +1,35 @@
 {
-  "schema_version": "1.0",
-  "required_authorities": [
-    {
-      "role": "project",
-      "path": "project.json",
-      "required": true
-    },
-    {
-      "role": "sources",
-      "path": "data/sources.json",
-      "required": true
-    },
-    {
-      "role": "pre_expert_maximum",
-      "path": "research/pre-expert-maximum.json",
-      "required": true
-    }
-  ],
   "behavioral_gates": [
     "No decipherment from graphic similarity.",
     "No independent-witness claim from a digital derivative of an edition.",
     "Preserve Empire/Post-Empire and authority-specific distinctions."
-  ]
+  ],
+  "required_authorities": [
+    {
+      "path": "project.json",
+      "required": true,
+      "role": "project"
+    },
+    {
+      "path": "data/sources.json",
+      "required": true,
+      "role": "sources"
+    },
+    {
+      "path": "research/pre-expert-maximum.json",
+      "required": true,
+      "role": "pre_expert_maximum"
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "required": true,
+      "role": "collection_work_ledger"
+    },
+    {
+      "path": "review/collection-packet.json",
+      "required": true,
+      "role": "collection_review_packet"
+    }
+  ],
+  "schema_version": "1.0"
 }
