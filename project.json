@@ -1,13 +1,14 @@
 {
   "name": "Anatolian Hieroglyphic Corpus",
-  "version": "2.0.0-rc.2",
-  "status": "STRUCTURED_AUTHORITY_RECONCILIATION",
+  "version": "2.0.0",
+  "status": "COMPLETE_DIGITAL_IDENTITY_AND_BIBLIOGRAPHY_SPINE",
   "canonical_records": 0,
-  "reference_records": 0,
+  "reference_records": 287,
   "principles": [
     "provenance-first",
     "source-dependence-aware",
     "no graphic-similarity decipherment",
     "human adjudication for disputed readings"
-  ]
+  ],
+  "reference_record_type": "DIGITAL_TEXT_ENTRIES_NOT_PHYSICAL_OBJECTS"
 }

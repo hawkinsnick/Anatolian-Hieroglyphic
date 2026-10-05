@@ -1,22 +1,21 @@
 {
   "schema_version": "1.0",
   "project": "Anatolian-Hieroglyphic",
-  "state": "POST_1_0_MACHINE_MAXIMUM_ACTIVE",
+  "state": "DIGITAL_IDENTITY_BIBLIOGRAPHY_MILESTONE_COMPLETE",
   "rule": "A gate closes only when machine-resolvable work is complete or a concrete source/access/human-judgment blocker is named.",
   "release_policy": "Dot releases are internal checkpoints; work continues across them without requesting approval.",
   "remaining_machine_priority": [
-    "classify all 287 eDiAna text entries by period/object class where explicit or authority-supported",
-    "reconcile eDiAna IDs to CHLI I/III locators",
-    "decompose grouped sigla into physical/text units only where authority supports it",
-    "build per-record source-dependence edges"
+    "Authority-supported period and object-class assertions beyond current explicit subset",
+    "Direct CHLI I/III bibliography and locator checks",
+    "Explicit alias/group reconciliation without inferred physical counts"
   ],
   "human_only": [
     "disputed/damaged readings where editions disagree",
     "specialist palaeographic/sign adjudication beyond explicit sources"
   ],
-  "release_candidate": "2.0.0-rc.1",
+  "release_candidate": "2.0.0",
   "stop_assessment": {
     "machine_work_remaining": true,
-    "external_wall": "Digital text-entry denominator is now 287. Physical-object denominator remains distinct because grouped sigla/fragments/bullae/seals require authority-level decomposition; CHLI III reconciliation remains active."
+    "external_wall": "Full digital spine is captured; physical identity, direct editions, sign inventories and expert reading review remain distinct work."
   }
 }

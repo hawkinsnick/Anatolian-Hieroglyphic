@@ -1,0 +1,1791 @@
+{
+  "schema_version": "1.0",
+  "source_url": "https://www.hittitemonuments.com/hllist.htm",
+  "observed_at": "2026-10-05T01:47:09Z",
+  "response_sha256": "843f0756dd98d993fff883385a129d5d6880d4343d7bff83708ca51d2455440e",
+  "scope": "Linked names only; secondary discovery aid, not authoritative object identification",
+  "rows": [
+    {
+      "source_siglum": "AIN DARA 2(?)",
+      "period": "empire",
+      "period_uncertain": true,
+      "target_url": "https://www.hittitemonuments.com/aindara/aindara80.htm"
+    },
+    {
+      "source_siglum": "AIN DARA 3(?)",
+      "period": "empire",
+      "period_uncertain": true,
+      "target_url": "https://www.hittitemonuments.com/aindara/aindara76.htm"
+    },
+    {
+      "source_siglum": "ALACA HÖYÜK 1",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/alacahoyuk/ALACA_01.htm"
+    },
+    {
+      "source_siglum": "ALACA HÖYÜK 2",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/alacahoyuk/ALACA_02.htm"
+    },
+    {
+      "source_siglum": "ALACA HÖYÜK 3 (ex.4)",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/alacahoyuk/ALACA_03.htm"
+    },
+    {
+      "source_siglum": "ALACA HÖYÜK 4",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/alacahoyuk/alaca46.jpg"
+    },
+    {
+      "source_siglum": "ALEPPO 1",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/aleppo/aleppo01.htm"
+    },
+    {
+      "source_siglum": "BEYKÖY (?)",
+      "period": "empire",
+      "period_uncertain": true,
+      "target_url": "https://www.hittitemonuments.com/beykoy/"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 1",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_01.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 2",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_02.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 3",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_03.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 4",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_04.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 5 (NİŞANTAŞ)",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/bogazkoy21.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 6",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_06.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 7",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_07.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 8",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_08.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 9",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_09.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 10",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_09.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 11",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_09.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 12",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_12.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 13",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_13.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 14",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_14.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 15",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_15.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 16",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_16.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 17",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_17.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 18",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_18.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 19",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_19.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 20",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_21.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 21 (SÜDBURG)",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_21.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 22",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_17.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 23",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_23.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 24",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_24.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 25",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_06.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 26",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_17.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 27",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_06.htm"
+    },
+    {
+      "source_siglum": "BOĞAZKÖY 28 (YERKAPI)",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bogazkoy/BOGAZKOY_28.htm"
+    },
+    {
+      "source_siglum": "ÇAĞDIN",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/cagdin/"
+    },
+    {
+      "source_siglum": "ÇALAPVERDİ 4",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/calapverdi/"
+    },
+    {
+      "source_siglum": "DELİHASANLI",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/delihasanli/"
+    },
+    {
+      "source_siglum": "EMİRGAZİ 1–3",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/emirgazi/"
+    },
+    {
+      "source_siglum": "FRAKTİN",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/fraktin/"
+    },
+    {
+      "source_siglum": "HANYERİ",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/hanyeri/"
+    },
+    {
+      "source_siglum": "HATİP",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/hatip/"
+    },
+    {
+      "source_siglum": "HEMİTE",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/hemite/"
+    },
+    {
+      "source_siglum": "İMAMKULU",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/imamkulu/"
+    },
+    {
+      "source_siglum": "KARABEL",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karabel/"
+    },
+    {
+      "source_siglum": "KARAKUYU",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karakuyu/"
+    },
+    {
+      "source_siglum": "KARAKUYU (TORBALI)",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/torbali/"
+    },
+    {
+      "source_siglum": "KARAÖREN",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karaoren/"
+    },
+    {
+      "source_siglum": "KARGA",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karga/"
+    },
+    {
+      "source_siglum": "KÖYLÜTOLU YAYLA",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/koylutolu/"
+    },
+    {
+      "source_siglum": "LATMOS (SURATKAYA)",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/latmos/"
+    },
+    {
+      "source_siglum": "MALKAYA",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/malkaya/"
+    },
+    {
+      "source_siglum": "ORTAKÖY frags.",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/ortakoy/"
+    },
+    {
+      "source_siglum": "SIPYLOS 1–2 (AKPINAR)",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/akpinar/"
+    },
+    {
+      "source_siglum": "SİRKELİ",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/sirkeli/"
+    },
+    {
+      "source_siglum": "TAŞÇI",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tasci/"
+    },
+    {
+      "source_siglum": "TELL AÇANA 1",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tellacana/"
+    },
+    {
+      "source_siglum": "YAĞRI",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yagri/"
+    },
+    {
+      "source_siglum": "YALBURT",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yalburt/"
+    },
+    {
+      "source_siglum": "YAZILIKAYA",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yazilikaya/"
+    },
+    {
+      "source_siglum": "YEKBAS",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yazilikaya/yazilikaya21.jpg"
+    },
+    {
+      "source_siglum": "YESEMEK",
+      "period": "empire",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yesemek/yesemek58.htm"
+    },
+    {
+      "source_siglum": "AIN DARA 1",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/aindara/aindara75.htm"
+    },
+    {
+      "source_siglum": "ALEPPO 6",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/aleppo/aleppo22.htm"
+    },
+    {
+      "source_siglum": "ALEPPO 7",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/aleppo/aleppo24.htm"
+    },
+    {
+      "source_siglum": "DARENDE",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/darende/"
+    },
+    {
+      "source_siglum": "GÜRÜN",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/gurun/"
+    },
+    {
+      "source_siglum": "İSPEKÇÜR",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/ispekcur/"
+    },
+    {
+      "source_siglum": "KARADAĞ 1–2 (?)",
+      "period": "transition",
+      "period_uncertain": true,
+      "target_url": "https://www.hittitemonuments.com/karadag/"
+    },
+    {
+      "source_siglum": "KARAHÖYÜK",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karahoyuk/"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A16b",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A16b.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A30h",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/birecik/"
+    },
+    {
+      "source_siglum": "KARKAMIŠ frag. a/b",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-frag-ab.jpg"
+    },
+    {
+      "source_siglum": "KIZILDAĞ 4 (?)",
+      "period": "transition",
+      "period_uncertain": true,
+      "target_url": "https://www.hittitemonuments.com/kizildag/"
+    },
+    {
+      "source_siglum": "KOCAOĞUZ (?)",
+      "period": "transition",
+      "period_uncertain": true,
+      "target_url": "https://www.hittitemonuments.com/kocaoguz/"
+    },
+    {
+      "source_siglum": "KÖTÜKALE",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kotukale/"
+    },
+    {
+      "source_siglum": "MALATYA 4",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe02.htm"
+    },
+    {
+      "source_siglum": "MALATYA 5",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe06.htm"
+    },
+    {
+      "source_siglum": "MALATYA 6",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe24.htm"
+    },
+    {
+      "source_siglum": "MALATYA 7",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe24.htm"
+    },
+    {
+      "source_siglum": "MALATYA 8",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe09.htm"
+    },
+    {
+      "source_siglum": "MALATYA 9",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe23.htm"
+    },
+    {
+      "source_siglum": "MALATYA 10",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe23.htm"
+    },
+    {
+      "source_siglum": "MALATYA 11",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe08.htm"
+    },
+    {
+      "source_siglum": "MALATYA 12",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe07.htm"
+    },
+    {
+      "source_siglum": "MALATYA 14",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe32.htm"
+    },
+    {
+      "source_siglum": "MALATYA N1",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe29.htm"
+    },
+    {
+      "source_siglum": "MEHARDE",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/meharde/"
+    },
+    {
+      "source_siglum": "SHEIZAR",
+      "period": "transition",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/meharde/"
+    },
+    {
+      "source_siglum": "TAÇIN (?)",
+      "period": "transition",
+      "period_uncertain": true,
+      "target_url": "https://www.hittitemonuments.com/tacin/"
+    },
+    {
+      "source_siglum": "ADANA 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis120.htm"
+    },
+    {
+      "source_siglum": "ADIYAMAN 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/adiyaman/"
+    },
+    {
+      "source_siglum": "AFRİN",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/afrin/"
+    },
+    {
+      "source_siglum": "AKSARAY",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/aksaray/"
+    },
+    {
+      "source_siglum": "ALEPPO 2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tellahmar/index.htm"
+    },
+    {
+      "source_siglum": "ALEPPO 3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis147.htm"
+    },
+    {
+      "source_siglum": "ALEPPO 4",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/aleppo/aleppo06.jpg"
+    },
+    {
+      "source_siglum": "ALEPPO 5",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/aleppo/aleppo09.jpg"
+    },
+    {
+      "source_siglum": "ANCOZ 1–13 and frags. 1–4",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/ancoz/"
+    },
+    {
+      "source_siglum": "ANDAVAL",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/andaval/"
+    },
+    {
+      "source_siglum": "ANKARA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/ankara/"
+    },
+    {
+      "source_siglum": "ARSLANTAŞ 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantas2/arslan-tas09.jpg"
+    },
+    {
+      "source_siglum": "ARSLANTAŞ 2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantas2/arslan-tas36.jpg"
+    },
+    {
+      "source_siglum": "ARSUZ 1-2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arsuz/"
+    },
+    {
+      "source_siglum": "ASMACIK",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/asmacik/"
+    },
+    {
+      "source_siglum": "AZAZ",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/azaz/"
+    },
+    {
+      "source_siglum": "BABYLON 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/aleppo/aleppo13.htm"
+    },
+    {
+      "source_siglum": "BABYLON 2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/aleppo/aleppo14.htm"
+    },
+    {
+      "source_siglum": "BABYLON 3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/aleppo/aleppo23.htm"
+    },
+    {
+      "source_siglum": "BEIRUT",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis150.htm"
+    },
+    {
+      "source_siglum": "BOHÇA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bahcekoy/"
+    },
+    {
+      "source_siglum": "BOR 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bor/"
+    },
+    {
+      "source_siglum": "BOROWSKI 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/BOROWSKI-1.jpg"
+    },
+    {
+      "source_siglum": "BOROWSKI 2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis149.htm"
+    },
+    {
+      "source_siglum": "BOROWSKI 3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tellahmar/"
+    },
+    {
+      "source_siglum": "BOYPEYPINARI 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/boybeypinari/"
+    },
+    {
+      "source_siglum": "BULGARMADEN",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/bulgarmaden/"
+    },
+    {
+      "source_siglum": "BURUNKAYA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/burunkaya/"
+    },
+    {
+      "source_siglum": "ÇALAPVERDİ 1–3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/calapverdi/"
+    },
+    {
+      "source_siglum": "CEKKE",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/cekke/"
+    },
+    {
+      "source_siglum": "ÇİFTLİK",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/ciftlik/"
+    },
+    {
+      "source_siglum": "ÇİNEKÖY",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/cinekoy/"
+    },
+    {
+      "source_siglum": "DOKUZTAY",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/dokuztay/"
+    },
+    {
+      "source_siglum": "DOMUZTEPE 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/domuztepe/"
+    },
+    {
+      "source_siglum": "DÜLÜK BABA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/duluk/"
+    },
+    {
+      "source_siglum": "EĞREK",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/egrek/"
+    },
+    {
+      "source_siglum": "EĞRİKÖY",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/egrikoy/"
+    },
+    {
+      "source_siglum": "EREĞLİ 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/eregli/"
+    },
+    {
+      "source_siglum": "ERKİLET 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/erkilet/"
+    },
+    {
+      "source_siglum": "GAZİANTEP 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/gaziantep/gaziantep01.htm"
+    },
+    {
+      "source_siglum": "GELB",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis148.htm"
+    },
+    {
+      "source_siglum": "GEMEREK",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/gemerek/"
+    },
+    {
+      "source_siglum": "GÖSTESİN",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/gostesin/"
+    },
+    {
+      "source_siglum": "GÜRÇAY",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/gurcay/index-t.htm"
+    },
+    {
+      "source_siglum": "HACIBEBEKLİ",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/hacibebekli/"
+    },
+    {
+      "source_siglum": "HAÇGÖZ (URFA 2)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/hacgoz/"
+    },
+    {
+      "source_siglum": "HAMA 1-8",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/hama/"
+    },
+    {
+      "source_siglum": "HINES",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/hama/"
+    },
+    {
+      "source_siglum": "HİSARCIK 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/hisarcik/"
+    },
+    {
+      "source_siglum": "İNCİRLİ",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/incirli/"
+    },
+    {
+      "source_siglum": "İSKENDERUN",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras20.htm"
+    },
+    {
+      "source_siglum": "İSTANBUL",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/istanbul/"
+    },
+    {
+      "source_siglum": "İVRİZ 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/ivriz/"
+    },
+    {
+      "source_siglum": "İVRİZ frag. 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/ivriz/ivriz22.jpg"
+    },
+    {
+      "source_siglum": "İVRİZ frag. 2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/ivriz/ivriz23.jpg"
+    },
+    {
+      "source_siglum": "İVRİZ frag. 3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/ivriz/ivriz24.jpg"
+    },
+    {
+      "source_siglum": "İVRİZ frag. 4",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/ivriz/ivriz21.jpg"
+    },
+    {
+      "source_siglum": "IZGIN 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/izgin/"
+    },
+    {
+      "source_siglum": "JISR EL HADID frags. 1–3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/jisrelhadid/"
+    },
+    {
+      "source_siglum": "JISR EL HADID 4",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/jisrelhadid/"
+    },
+    {
+      "source_siglum": "KÂHTA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kahta/"
+    },
+    {
+      "source_siglum": "KARABURÇLU",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karaburclu/"
+    },
+    {
+      "source_siglum": "KARABURUN",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karaburna/"
+    },
+    {
+      "source_siglum": "KARAMELİK",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karamelik/"
+    },
+    {
+      "source_siglum": "KARATEPE 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karatepe/"
+    },
+    {
+      "source_siglum": "KARATEPE 2–4",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karatepe/karatepe50.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A1a",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis63.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A1b",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis65.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A2+A3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis118.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A4a",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A4a.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A4b",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis24.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A4c",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A4c.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A4d",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis11.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A5b (YUNUS 7)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus07.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A6",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis33.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A7a-b",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis33.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A7c-j",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis91.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A11a",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis117.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A11b+c",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis43.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A12",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis44.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A13a-c",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis146.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A13d",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis10.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A14a",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis110.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A14b",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis110.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A15a (SİLSİLE 1)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis59.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A15b",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis116.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A15c (YUNUS 3)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus03.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A15d",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A15d.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A15e",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A15e.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A16a",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A16a.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A16c",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis162.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A16d",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A16d.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A16e",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A16e1.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A16f (YUNUS 4)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus04.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A17a",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis67.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A17b",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis40.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A17c",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis129.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A17d",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A17d.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A18a",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A18a.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A18b (YUNUS 5)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus05.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A18c",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A18c.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A18d",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A18d.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A18e",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A18e.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A18f",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A18f.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A18h",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis57.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A18i",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A18i.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A18j",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A18j.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A19b (YUNUS 6)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus06.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A20a 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis45.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A20b frag. 1–2, 4, 8–13",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis119.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A21b+a (= A22b+a)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis119.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A22c+A20b frag 3, 6, 14",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis109.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A23",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis45.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A25a",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A25a.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A25b",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis41.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A26a 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis45.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A26b–e",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A26be.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A26f",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis119.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A27c",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A27c.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A27e frag. 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A27e.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A27u",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-A27u.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A30h",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/birecik/"
+    },
+    {
+      "source_siglum": "KARKAMIŠ A31 (=A32)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis131.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ B33",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis39.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ B39a",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis50.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ N1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis142.htm"
+    },
+    {
+      "source_siglum": "KARKAMIŠ stone bowl",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-stonebowl.jpg"
+    },
+    {
+      "source_siglum": "KARKAMIŠ KH.16.O.378",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/KARKAMIS-KH.16.O.378.jpg"
+    },
+    {
+      "source_siglum": "KAYSERİ",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kayseri/"
+    },
+    {
+      "source_siglum": "KELEKLİ",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kelekli/"
+    },
+    {
+      "source_siglum": "KEŞLİK YAYLA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/keslik/"
+    },
+    {
+      "source_siglum": "KIRÇOĞLU",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kircoglu/"
+    },
+    {
+      "source_siglum": "KIZILDAĞ 1–3, 5",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kizildag/"
+    },
+    {
+      "source_siglum": "KÖRKÜN",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/korkun/"
+    },
+    {
+      "source_siglum": "KÜLAFLI (URFA 1)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kulafli/"
+    },
+    {
+      "source_siglum": "KULULU 1–8 and frags.",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kululu/"
+    },
+    {
+      "source_siglum": "KÜRTÜL",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kurtul/"
+    },
+    {
+      "source_siglum": "KURUBEL",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kurubel/"
+    },
+    {
+      "source_siglum": "KUŞÇU-BOYACI",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/kuscu/"
+    },
+    {
+      "source_siglum": "MALATYA 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe11.htm"
+    },
+    {
+      "source_siglum": "MALATYA 2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe25.htm"
+    },
+    {
+      "source_siglum": "MALATYA 3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe10.htm"
+    },
+    {
+      "source_siglum": "MALATYA 13",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/arslantepe/arslantepe15.htm"
+    },
+    {
+      "source_siglum": "MALPINAR",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/malpinari/"
+    },
+    {
+      "source_siglum": "MARAŞ 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras02.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras10.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras70.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 4",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras15.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 5",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras48.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 6",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras72.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 7",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras66.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 8",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras04.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 9",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras05.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 10",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras71.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 11",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras49.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 12",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras43.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 13",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras28.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 14",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras46.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 15",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras35.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 16",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras22.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 17",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras69.htm"
+    },
+    {
+      "source_siglum": "MARAŞ 18",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/maras/maras75.htm"
+    },
+    {
+      "source_siglum": "NİĞDE 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/nigde/"
+    },
+    {
+      "source_siglum": "NINEVEH 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/NINEVEH-1.jpg"
+    },
+    {
+      "source_siglum": "NINEVEH 2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/NINEVEH-2.jpg"
+    },
+    {
+      "source_siglum": "PALANGA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/palanga/"
+    },
+    {
+      "source_siglum": "PANCARLI",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/pancarli/"
+    },
+    {
+      "source_siglum": "PORSUK",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/porsuk/"
+    },
+    {
+      "source_siglum": "QAL'AT EL MUDIQ",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/qalatelmudiq/"
+    },
+    {
+      "source_siglum": "RESTAN",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/restan/"
+    },
+    {
+      "source_siglum": "SAMSAT 1–3 and frags. 1–12",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/samsat/"
+    },
+    {
+      "source_siglum": "ŞARAGA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/saraga/"
+    },
+    {
+      "source_siglum": "ŞEKERLİ (URFA 3)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/sekerli/"
+    },
+    {
+      "source_siglum": "SİLSİLE 1 (KARKAMIŠ A15a)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/kargamis59.htm"
+    },
+    {
+      "source_siglum": "ŞIRZI",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/sirzi/"
+    },
+    {
+      "source_siglum": "SULTANHAN",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/sultanhani/"
+    },
+    {
+      "source_siglum": "SUVASA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/sivasa/"
+    },
+    {
+      "source_siglum": "TALL ŠṬĪB",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tallstib/"
+    },
+    {
+      "source_siglum": "TANIR",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tanir/"
+    },
+    {
+      "source_siglum": "TEKİRDERBENT 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tekirderbent/"
+    },
+    {
+      "source_siglum": "TELL AHMAR 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tellahmar/"
+    },
+    {
+      "source_siglum": "TELL AHMAR 3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tellahmar/tellahmar23.jpg"
+    },
+    {
+      "source_siglum": "TELL AHMAR 4",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tellahmar/tellahmar22.jpg"
+    },
+    {
+      "source_siglum": "TELL AHMAR 5–6",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tellahmar/"
+    },
+    {
+      "source_siglum": "TELL AHMAR frags. 1–9",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tellahmar/tellahmar25.jpg"
+    },
+    {
+      "source_siglum": "TELL AHMAR frag. 10",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tellahmar/tellahmar24.jpg"
+    },
+    {
+      "source_siglum": "TELL TAYİNAT 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/telltainat/"
+    },
+    {
+      "source_siglum": "TELL TAYİNAT 3",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/telltainat/telltainat23.htm"
+    },
+    {
+      "source_siglum": "TELL TAYİNAT 4",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/telltainat/telltainat20f.htm"
+    },
+    {
+      "source_siglum": "TELL TAYİNAT 5",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/telltainat/telltainat30.jpg"
+    },
+    {
+      "source_siglum": "TİLSEVET",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tilsevet/"
+    },
+    {
+      "source_siglum": "TOPADA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/topada/"
+    },
+    {
+      "source_siglum": "TULEIL 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tuleil/"
+    },
+    {
+      "source_siglum": "TÜNP 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/tunp/"
+    },
+    {
+      "source_siglum": "TÜRKMEN-KARAHÖYÜK 1–2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/turkmen/"
+    },
+    {
+      "source_siglum": "VELİİSA",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/veliisa/"
+    },
+    {
+      "source_siglum": "YALNIZBAĞ",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/karkamis/YALNIZBAG.jpg"
+    },
+    {
+      "source_siglum": "YUNUS 1",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus01.htm"
+    },
+    {
+      "source_siglum": "YUNUS 2",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus02.htm"
+    },
+    {
+      "source_siglum": "YUNUS 3 (KARKAMIŠ A15c)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus03.htm"
+    },
+    {
+      "source_siglum": "YUNUS 4 (KARKAMIŠ A16f)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus04.jpg"
+    },
+    {
+      "source_siglum": "YUNUS 5 (KARKAMIŠ A18b)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus05.htm"
+    },
+    {
+      "source_siglum": "YUNUS 6 (KARKAMIŠ A19b)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus06.jpg"
+    },
+    {
+      "source_siglum": "YUNUS 7 (KARKAMIŠ A5b)",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus07.htm"
+    },
+    {
+      "source_siglum": "YUNUS 8",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus08.htm"
+    },
+    {
+      "source_siglum": "YUNUS 9",
+      "period": "late",
+      "period_uncertain": false,
+      "target_url": "https://www.hittitemonuments.com/yunus/yunus09.htm"
+    }
+  ]
+}

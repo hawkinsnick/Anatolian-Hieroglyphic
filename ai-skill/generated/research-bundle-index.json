@@ -1,32 +1,29 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "project": "Anatolian-Hieroglyphic",
-  "skill_version": "1.8.0",
-  "milestone": "EDIANA_287_ENTRY_RECONCILIATION",
+  "version": "2.0.0",
+  "milestone": "COMPLETE_DIGITAL_IDENTITY_AND_BIBLIOGRAPHY_SPINE",
   "authoritative_inputs": [
-    "research/catalogue-register.json",
-    "research/source-lineage.json",
-    "research/acquisition-queue.json",
-    "research/evidence-matrix.json",
-    "research/rights-register.json",
-    "research/machine-work-ledger.json",
-    "research/chli-iii-structure.json",
-    "research/chli-volume-crosswalk.json",
-    "research/coverage-class-register.json",
-    "research/monumental-discovery-register.json",
-    "research/edition-reconciliation-pilot.json"
+    "research/ediana-list-snapshot.json",
+    "research/ediana-edition-snapshot.json",
+    "research/monumental-link-snapshot.json",
+    "research/ediana-hieroglyphic-entry-register.json",
+    "research/digital-entry-dossiers.json",
+    "analysis/current-status.json"
   ],
+  "input_sha256": {
+    "research/ediana-list-snapshot.json": "ec9cde442e4de174cc56c1353328a52e7740b91173f2553a3260b5aa2b422a7e",
+    "research/ediana-edition-snapshot.json": "3fe7070f705a486a0c4bdc7106869a7b2d0e81f78d058e021d8d2324390bb6aa",
+    "research/monumental-link-snapshot.json": "c480ca875bb0b1d4392e5dbf11a0e0980f5d1c0fa29d352080e160efb189d364",
+    "research/ediana-hieroglyphic-entry-register.json": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464"
+  },
+  "register_sha256": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf",
   "guardrails": [
-    "Discovery-list entries are not canonical admissions.",
-    "CHLI/eDiAna/ACLT derivatives are not independent witnesses merely because multiple interfaces repeat a reading.",
-    "Do not reproduce copyrighted edition text or plates absent permission.",
-    "Keep edition state separate from object identity."
-  ],
-  "generated_note": "Index points to repository evidence; it does not duplicate copyrighted source text.",
-  "artifacts": [
-    {
-      "role": "digital_identity_denominator",
-      "path": "research/ediana-hieroglyphic-entry-register.json"
-    }
+    "287 digital entries are not 287 physical objects.",
+    "Bibliographic citation is not direct edition collation.",
+    "Discovery period candidates are not adjudicated datings.",
+    "Unknown object class is not monumental.",
+    "Derivative sources are not independent witnesses.",
+    "No new reading or linguistic interpretation admitted."
   ]
 }

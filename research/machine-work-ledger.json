@@ -1,44 +1,42 @@
 {
   "schema_version": "1.0",
-  "milestone": "POST_1_0_MACHINE_MAXIMUM",
+  "milestone": "COMPLETE_DIGITAL_IDENTITY_AND_BIBLIOGRAPHY_SPINE",
   "items": [
     {
       "id": "AH-PRE-001",
-      "status": "EDIANA_287_TEXT_ENTRY_DENOMINATOR_COMPLETE_RECONCILIATION_ACTIVE",
+      "status": "DIGITAL_METADATA_MILESTONE_COMPLETE_RECONCILIATION_ACTIVE",
       "completed": [
-        "CHLI III authoritative structure",
-        "public monumental discovery list fully extracted",
-        "63 Empire entries",
-        "28 Transition entries",
-        "223 Late/Iron-Age entries",
-        "314 total discovery entries",
-        "pilot CHLI I↔III locator reconciliation",
-        "eDiAna Hieroglyphic stable-ID identity spine confirmed",
-        "non-monumental seal identities confirmed in public structured list",
-        "pottery/pithos identity route confirmed",
-        "complete public eDiAna Hieroglyphic text-entry denominator: 287 rows",
-        "explicit portable/non-monumental siglum classification subset"
+        "287 explicit eDiAna identities",
+        "274 bibliographic assertions on 262 entries; internal cross-references/notices distinguished",
+        "635 typed source edges",
+        "118 secondary period candidates with one preserved conflict",
+        "32 explicit object classes",
+        "Reproducible dossiers and hostile validation"
       ],
       "remaining": [
-        "classify 287 entries by period/object class",
-        "CHLI I/III locator reconciliation",
-        "authority-supported grouped-siglum decomposition",
-        "per-record dependence edges"
+        "Direct edition checks",
+        "Authority-supported object/period metadata",
+        "Group and alias reconciliation"
       ],
-      "blocker": "No blocker to digital entry reconciliation; physical-object denominator remains source-dependent and must not be inferred from 287 text entries."
+      "blocker": "No blocker to continued metadata work; source-specific edition and physical-object questions remain open."
     },
     {
       "id": "AH-PRE-002",
-      "status": "ACCESS_RIGHTS_BLOCKED",
+      "status": "DIGITAL_METADATA_MILESTONE_COMPLETE_RECONCILIATION_ACTIVE",
       "completed": [
-        "Post-Empire partition",
-        "Hawkins 2000 lineage"
+        "287 explicit eDiAna identities",
+        "274 bibliographic assertions on 262 entries; internal cross-references/notices distinguished",
+        "635 typed source edges",
+        "118 secondary period candidates with one preserved conflict",
+        "32 explicit object classes",
+        "Reproducible dossiers and hostile validation"
       ],
       "remaining": [
-        "enumerate identities",
-        "attach edition locators"
+        "Direct edition checks",
+        "Authority-supported object/period metadata",
+        "Group and alias reconciliation"
       ],
-      "blocker": "Same acquisition boundary."
+      "blocker": "No blocker to continued metadata work; source-specific edition and physical-object questions remain open."
     },
     {
       "id": "AH-PRE-003",
@@ -54,14 +52,21 @@
     },
     {
       "id": "AH-PRE-004",
-      "status": "PARTIAL",
+      "status": "DIGITAL_METADATA_MILESTONE_COMPLETE_RECONCILIATION_ACTIVE",
       "completed": [
-        "eDiAna-to-Hawkins dependence encoded"
+        "287 explicit eDiAna identities",
+        "274 bibliographic assertions on 262 entries; internal cross-references/notices distinguished",
+        "635 typed source edges",
+        "118 secondary period candidates with one preserved conflict",
+        "32 explicit object classes",
+        "Reproducible dossiers and hostile validation"
       ],
       "remaining": [
-        "per-record source edges"
+        "Direct edition checks",
+        "Authority-supported object/period metadata",
+        "Group and alias reconciliation"
       ],
-      "blocker": "Depends on object enumeration."
+      "blocker": "No blocker to continued metadata work; source-specific edition and physical-object questions remain open."
     }
   ]
 }

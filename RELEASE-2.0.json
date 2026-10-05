@@ -1,0 +1,9 @@
+{
+  "version": "2.0.0",
+  "milestone": "COMPLETE_DIGITAL_IDENTITY_AND_BIBLIOGRAPHY_SPINE",
+  "digital_entries": 287,
+  "canonical_objects": 0,
+  "new_reading_assertions": 0,
+  "scope": "Attributed metadata only",
+  "remaining": "Direct CHLI checks, authority-supported context, group concordance and expert review"
+}

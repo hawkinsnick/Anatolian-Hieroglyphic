@@ -1,0 +1,2364 @@
+{
+  "schema_version": "1.0",
+  "source_url": "https://www.ediana.gwi.uni-muenchen.de/includes/api.php",
+  "observed_at": "2026-10-05T01:46:22Z",
+  "request_fields": {
+    "language": "hieroglyphic",
+    "corpus_text": "true",
+    "searchterms": "{}"
+  },
+  "extraction": "response label, first row docid and ref only; linguistic fields discarded; personal-communication prose summarized as notice",
+  "records": [
+    {
+      "ediana_id": 0,
+      "response_siglum": "KARKAMIŠ A4b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:80-82"
+      ],
+      "response_sha256": "b5e021a00074be50b4abcd5e88eff121c3a505e192660e61b72c7b4549bc9782"
+    },
+    {
+      "ediana_id": 1,
+      "response_siglum": "KARKAMIŠ A18d",
+      "principal_edition_refs": [
+        "Hawkins 2000a:83"
+      ],
+      "response_sha256": "b5e021a00074be50b4abcd5e88eff121c3a505e192660e61b72c7b4549bc9782"
+    },
+    {
+      "ediana_id": 2,
+      "response_siglum": "KARKAMIŠ A14b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:83-87"
+      ],
+      "response_sha256": "b5e021a00074be50b4abcd5e88eff121c3a505e192660e61b72c7b4549bc9782"
+    },
+    {
+      "ediana_id": 3,
+      "response_siglum": "KARKAMIŠ A14a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:83-87"
+      ],
+      "response_sha256": "b5e021a00074be50b4abcd5e88eff121c3a505e192660e61b72c7b4549bc9782"
+    },
+    {
+      "ediana_id": 4,
+      "response_siglum": "KARKAMIŠ A1a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:87-91"
+      ],
+      "response_sha256": "b5e021a00074be50b4abcd5e88eff121c3a505e192660e61b72c7b4549bc9782"
+    },
+    {
+      "ediana_id": 5,
+      "response_siglum": "KARKAMIŠ A1b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:91-92"
+      ],
+      "response_sha256": "b5e021a00074be50b4abcd5e88eff121c3a505e192660e61b72c7b4549bc9782"
+    },
+    {
+      "ediana_id": 6,
+      "response_siglum": "KELEKLİ",
+      "principal_edition_refs": [
+        "Hawkins 2000a:92-93"
+      ],
+      "response_sha256": "b5e021a00074be50b4abcd5e88eff121c3a505e192660e61b72c7b4549bc9782"
+    },
+    {
+      "ediana_id": 7,
+      "response_siglum": "KARKAMIŠ A11a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:94-100"
+      ],
+      "response_sha256": "21437c9ba98bfff3a697cb6fac6d56df1000546104250cb581b42865ecaa377e"
+    },
+    {
+      "ediana_id": 8,
+      "response_siglum": "KARKAMIŠ A4d",
+      "principal_edition_refs": [
+        "Hawkins 2000a:100-101"
+      ],
+      "response_sha256": "21437c9ba98bfff3a697cb6fac6d56df1000546104250cb581b42865ecaa377e"
+    },
+    {
+      "ediana_id": 9,
+      "response_siglum": "KARKAMIŠ A11b+c",
+      "principal_edition_refs": [
+        "Hawkins 2000a:101-108",
+        "See KARKAMIŠ A11b+c: A11b"
+      ],
+      "response_sha256": "21437c9ba98bfff3a697cb6fac6d56df1000546104250cb581b42865ecaa377e"
+    },
+    {
+      "ediana_id": 10,
+      "response_siglum": "KARKAMIŠ A2+3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:108-112",
+        "See KARKAMIŠ A2+3: A2"
+      ],
+      "response_sha256": "21437c9ba98bfff3a697cb6fac6d56df1000546104250cb581b42865ecaa377e"
+    },
+    {
+      "ediana_id": 11,
+      "response_siglum": "KARKAMIŠ A12",
+      "principal_edition_refs": [
+        "Hawkins 2000a:112-114"
+      ],
+      "response_sha256": "21437c9ba98bfff3a697cb6fac6d56df1000546104250cb581b42865ecaa377e"
+    },
+    {
+      "ediana_id": 12,
+      "response_siglum": "KARKAMIŠ A13d",
+      "principal_edition_refs": [
+        "Hawkins 2000a:115-116"
+      ],
+      "response_sha256": "21437c9ba98bfff3a697cb6fac6d56df1000546104250cb581b42865ecaa377e"
+    },
+    {
+      "ediana_id": 13,
+      "response_siglum": "KARKAMIŠ A23 (with fragments A26a1+2, A20a1)",
+      "principal_edition_refs": [
+        "Hawkins 2000a:118-121",
+        "Hawkins 2000a:116-117",
+        "Hawkins 2000a:117-118"
+      ],
+      "response_sha256": "21437c9ba98bfff3a697cb6fac6d56df1000546104250cb581b42865ecaa377e"
+    },
+    {
+      "ediana_id": 14,
+      "response_siglum": "KARKAMIŠ A25a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:121-122"
+      ],
+      "response_sha256": "fcecb6fe3e9d8ccf995b2c6f75747616dc5a956c3db35f17465f84e70d3342c2"
+    },
+    {
+      "ediana_id": 15,
+      "response_siglum": "KARKAMIŠ A16b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:122-123"
+      ],
+      "response_sha256": "fcecb6fe3e9d8ccf995b2c6f75747616dc5a956c3db35f17465f84e70d3342c2"
+    },
+    {
+      "ediana_id": 16,
+      "response_siglum": "KARKAMIŠ A6",
+      "principal_edition_refs": [
+        "Hawkins 2000a:123-128"
+      ],
+      "response_sha256": "fcecb6fe3e9d8ccf995b2c6f75747616dc5a956c3db35f17465f84e70d3342c2"
+    },
+    {
+      "ediana_id": 17,
+      "response_siglum": "KARKAMIŠ A7",
+      "principal_edition_refs": [
+        "Hawkins 2000a:128-129"
+      ],
+      "response_sha256": "fcecb6fe3e9d8ccf995b2c6f75747616dc5a956c3db35f17465f84e70d3342c2"
+    },
+    {
+      "ediana_id": 18,
+      "response_siglum": "KARKAMIŠ A15b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:130-133"
+      ],
+      "response_sha256": "fcecb6fe3e9d8ccf995b2c6f75747616dc5a956c3db35f17465f84e70d3342c2"
+    },
+    {
+      "ediana_id": 19,
+      "response_siglum": "KARKAMIŠ A24a2+3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:133-139"
+      ],
+      "response_sha256": "fcecb6fe3e9d8ccf995b2c6f75747616dc5a956c3db35f17465f84e70d3342c2"
+    },
+    {
+      "ediana_id": 20,
+      "response_siglum": "KARKAMIŠ Stone Bowl",
+      "principal_edition_refs": [
+        "Hawkins 2000a:139-140"
+      ],
+      "response_sha256": "fcecb6fe3e9d8ccf995b2c6f75747616dc5a956c3db35f17465f84e70d3342c2"
+    },
+    {
+      "ediana_id": 21,
+      "response_siglum": "KARKAMIŠ A31+fragments A30b1-3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:140-143"
+      ],
+      "response_sha256": "898477a6f35187c55350dd59b8ba564722bb6100bb1421c4618c266ae36ca936"
+    },
+    {
+      "ediana_id": 22,
+      "response_siglum": "CEKKE",
+      "principal_edition_refs": [
+        "see CEKKE: Inscription 2, reverse",
+        "see CEKKE: Inscription 2, reverse",
+        "Hawkins 2000a:143-151"
+      ],
+      "response_sha256": "898477a6f35187c55350dd59b8ba564722bb6100bb1421c4618c266ae36ca936"
+    },
+    {
+      "ediana_id": 23,
+      "response_siglum": "KARKAMIŠ A4a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:151-154"
+      ],
+      "response_sha256": "898477a6f35187c55350dd59b8ba564722bb6100bb1421c4618c266ae36ca936"
+    },
+    {
+      "ediana_id": 24,
+      "response_siglum": "TÜNP 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:154-156"
+      ],
+      "response_sha256": "898477a6f35187c55350dd59b8ba564722bb6100bb1421c4618c266ae36ca936"
+    },
+    {
+      "ediana_id": 25,
+      "response_siglum": "KARKAMIŠ A25b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:156-157"
+      ],
+      "response_sha256": "898477a6f35187c55350dd59b8ba564722bb6100bb1421c4618c266ae36ca936"
+    },
+    {
+      "ediana_id": 26,
+      "response_siglum": "KARKAMIŠ A21",
+      "principal_edition_refs": [
+        "Hawkins 2000a:157-162"
+      ],
+      "response_sha256": "898477a6f35187c55350dd59b8ba564722bb6100bb1421c4618c266ae36ca936"
+    },
+    {
+      "ediana_id": 27,
+      "response_siglum": "KARKAMIŠ A22c (+A20b6+B35b)",
+      "principal_edition_refs": [
+        "Hawkins 2000a:164-165"
+      ],
+      "response_sha256": "898477a6f35187c55350dd59b8ba564722bb6100bb1421c4618c266ae36ca936"
+    },
+    {
+      "ediana_id": 28,
+      "response_siglum": "KARKAMIŠ A27u",
+      "principal_edition_refs": [
+        "Hawkins 2000a:165"
+      ],
+      "response_sha256": "7479a6a2602a2a9ec5e2f87ec2a34ff42fd9e918680efa7264aff8f268a72533"
+    },
+    {
+      "ediana_id": 29,
+      "response_siglum": "KARKAMIŠ A27e",
+      "principal_edition_refs": [
+        "Hawkins 2000a:165-167",
+        "see KARKAMIŠ A27e (frag. 1)"
+      ],
+      "response_sha256": "7479a6a2602a2a9ec5e2f87ec2a34ff42fd9e918680efa7264aff8f268a72533"
+    },
+    {
+      "ediana_id": 30,
+      "response_siglum": "KARKAMIŠ A13a—c",
+      "principal_edition_refs": [
+        "Hawkins 2000a:167-169"
+      ],
+      "response_sha256": "7479a6a2602a2a9ec5e2f87ec2a34ff42fd9e918680efa7264aff8f268a72533"
+    },
+    {
+      "ediana_id": 31,
+      "response_siglum": "KARKAMIŠ A26f",
+      "principal_edition_refs": [
+        "Hawkins 2000a:169-170",
+        "See KARKAMIŠ A26b"
+      ],
+      "response_sha256": "7479a6a2602a2a9ec5e2f87ec2a34ff42fd9e918680efa7264aff8f268a72533"
+    },
+    {
+      "ediana_id": 32,
+      "response_siglum": "KARKAMIŠ A15e",
+      "principal_edition_refs": [
+        "Hawkins 2000a:170-171"
+      ],
+      "response_sha256": "7479a6a2602a2a9ec5e2f87ec2a34ff42fd9e918680efa7264aff8f268a72533"
+    },
+    {
+      "ediana_id": 33,
+      "response_siglum": "KARKAMIŠ A27c",
+      "principal_edition_refs": [
+        "Hawkins 2000a:171"
+      ],
+      "response_sha256": "7479a6a2602a2a9ec5e2f87ec2a34ff42fd9e918680efa7264aff8f268a72533"
+    },
+    {
+      "ediana_id": 34,
+      "response_siglum": "KÖRKÜN",
+      "principal_edition_refs": [
+        "Hawkins 2000a:171-175",
+        "See KÖRKÜN: Obverse"
+      ],
+      "response_sha256": "7479a6a2602a2a9ec5e2f87ec2a34ff42fd9e918680efa7264aff8f268a72533"
+    },
+    {
+      "ediana_id": 35,
+      "response_siglum": "KARKAMIŠ A17b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:175-177"
+      ],
+      "response_sha256": "a180663d5e5f13cc149902e08948824ec56b061028c8c64758dc7d9dd0248d4e"
+    },
+    {
+      "ediana_id": 36,
+      "response_siglum": "KARKAMIŠ A30h",
+      "principal_edition_refs": [
+        "Hawkins 2000a:177-178",
+        "See KARKAMIŠ A30h (front)"
+      ],
+      "response_sha256": "a180663d5e5f13cc149902e08948824ec56b061028c8c64758dc7d9dd0248d4e"
+    },
+    {
+      "ediana_id": 37,
+      "response_siglum": "TİLSEVET (alias EKİNVEREN)",
+      "principal_edition_refs": [
+        "Hawkins 2000a:178-180"
+      ],
+      "response_sha256": "a180663d5e5f13cc149902e08948824ec56b061028c8c64758dc7d9dd0248d4e"
+    },
+    {
+      "ediana_id": 38,
+      "response_siglum": "KARKAMIŠ A18h",
+      "principal_edition_refs": [
+        "Hawkins 2000a:180-181"
+      ],
+      "response_sha256": "a180663d5e5f13cc149902e08948824ec56b061028c8c64758dc7d9dd0248d4e"
+    },
+    {
+      "ediana_id": 39,
+      "response_siglum": "KARKAMIŠ A5a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:181-184"
+      ],
+      "response_sha256": "a180663d5e5f13cc149902e08948824ec56b061028c8c64758dc7d9dd0248d4e"
+    },
+    {
+      "ediana_id": 40,
+      "response_siglum": "KARKAMIŠ A5b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:185-186"
+      ],
+      "response_sha256": "a180663d5e5f13cc149902e08948824ec56b061028c8c64758dc7d9dd0248d4e"
+    },
+    {
+      "ediana_id": 41,
+      "response_siglum": "KARKAMIŠ A18f",
+      "principal_edition_refs": [
+        "Hawkins 2000a:186"
+      ],
+      "response_sha256": "a180663d5e5f13cc149902e08948824ec56b061028c8c64758dc7d9dd0248d4e"
+    },
+    {
+      "ediana_id": 42,
+      "response_siglum": "KARKAMIŠ A4c",
+      "principal_edition_refs": [
+        "Hawkins 2000a:186-187"
+      ],
+      "response_sha256": "a265993fef79911afffa799607587b4665746dd7bc962edf09cfef7333913e57"
+    },
+    {
+      "ediana_id": 43,
+      "response_siglum": "KARKAMIŠ A15a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:188-189"
+      ],
+      "response_sha256": "a265993fef79911afffa799607587b4665746dd7bc962edf09cfef7333913e57"
+    },
+    {
+      "ediana_id": 44,
+      "response_siglum": "KARKAMIŠ A15c",
+      "principal_edition_refs": [
+        "Hawkins 2000:189"
+      ],
+      "response_sha256": "a265993fef79911afffa799607587b4665746dd7bc962edf09cfef7333913e57"
+    },
+    {
+      "ediana_id": 45,
+      "response_siglum": "KARKAMIŠ A16a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:190-191"
+      ],
+      "response_sha256": "a265993fef79911afffa799607587b4665746dd7bc962edf09cfef7333913e57"
+    },
+    {
+      "ediana_id": 46,
+      "response_siglum": "KARKAMIŠ A17a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:191-192"
+      ],
+      "response_sha256": "a265993fef79911afffa799607587b4665746dd7bc962edf09cfef7333913e57"
+    },
+    {
+      "ediana_id": 47,
+      "response_siglum": "KARKAMIŠ A17c",
+      "principal_edition_refs": [
+        "Hawkins 2000a:192-193"
+      ],
+      "response_sha256": "a265993fef79911afffa799607587b4665746dd7bc962edf09cfef7333913e57"
+    },
+    {
+      "ediana_id": 48,
+      "response_siglum": "KARKAMIŠ A18a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:193-194"
+      ],
+      "response_sha256": "a265993fef79911afffa799607587b4665746dd7bc962edf09cfef7333913e57"
+    },
+    {
+      "ediana_id": 49,
+      "response_siglum": "KARKAMIŠ A18e",
+      "principal_edition_refs": [
+        "Hawkins 2000a:194-195"
+      ],
+      "response_sha256": "9f1f95fa9a0d8438084e3bd27587e7c21e324e9ae994ca99572bc10d5114613b"
+    },
+    {
+      "ediana_id": 50,
+      "response_siglum": "KARKAMIŠ A18j",
+      "principal_edition_refs": [
+        "Hawkins 2000a:195-196"
+      ],
+      "response_sha256": "9f1f95fa9a0d8438084e3bd27587e7c21e324e9ae994ca99572bc10d5114613b"
+    },
+    {
+      "ediana_id": 51,
+      "response_siglum": "KARKAMIŠ B33",
+      "principal_edition_refs": [],
+      "response_sha256": "9f1f95fa9a0d8438084e3bd27587e7c21e324e9ae994ca99572bc10d5114613b"
+    },
+    {
+      "ediana_id": 52,
+      "response_siglum": "KARKAMIŠ A15d",
+      "principal_edition_refs": [
+        "Hawkins 2000:197"
+      ],
+      "response_sha256": "9f1f95fa9a0d8438084e3bd27587e7c21e324e9ae994ca99572bc10d5114613b"
+    },
+    {
+      "ediana_id": 53,
+      "response_siglum": "KARKAMIŠ A16e",
+      "principal_edition_refs": [
+        "Hawkins 2000a:198"
+      ],
+      "response_sha256": "9f1f95fa9a0d8438084e3bd27587e7c21e324e9ae994ca99572bc10d5114613b"
+    },
+    {
+      "ediana_id": 54,
+      "response_siglum": "KARKAMIŠ A18b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:199"
+      ],
+      "response_sha256": "9f1f95fa9a0d8438084e3bd27587e7c21e324e9ae994ca99572bc10d5114613b"
+    },
+    {
+      "ediana_id": 55,
+      "response_siglum": "KARKAMIŠ A18i",
+      "principal_edition_refs": [
+        "Hawkins 2000a:200"
+      ],
+      "response_sha256": "9f1f95fa9a0d8438084e3bd27587e7c21e324e9ae994ca99572bc10d5114613b"
+    },
+    {
+      "ediana_id": 56,
+      "response_siglum": "KARKAMIŠ B39a",
+      "principal_edition_refs": [],
+      "response_sha256": "4fcbf126428a248d3ae0adfeec2ae45c9c1835ef06793266b775e85bf58d1e5e"
+    },
+    {
+      "ediana_id": 57,
+      "response_siglum": "KARKAMIŠ sherd",
+      "principal_edition_refs": [
+        "Hawkins 2000a:223"
+      ],
+      "response_sha256": "4fcbf126428a248d3ae0adfeec2ae45c9c1835ef06793266b775e85bf58d1e5e"
+    },
+    {
+      "ediana_id": 58,
+      "response_siglum": "KARKAMIŠ fragments a/b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:590f."
+      ],
+      "response_sha256": "4fcbf126428a248d3ae0adfeec2ae45c9c1835ef06793266b775e85bf58d1e5e"
+    },
+    {
+      "ediana_id": 59,
+      "response_siglum": "KARKAMIŠ N1 (KARKAMIŠ)",
+      "principal_edition_refs": [
+        "Dinçol, Dinçol, Hawkins, Marchetti & Peker 2014a"
+      ],
+      "response_sha256": "4fcbf126428a248d3ae0adfeec2ae45c9c1835ef06793266b775e85bf58d1e5e"
+    },
+    {
+      "ediana_id": 60,
+      "response_siglum": "KARKAMIŠ N2 (KARKAMIŠ)",
+      "principal_edition_refs": [],
+      "response_sha256": "4fcbf126428a248d3ae0adfeec2ae45c9c1835ef06793266b775e85bf58d1e5e"
+    },
+    {
+      "ediana_id": 61,
+      "response_siglum": "GÜRÇAY (KARKAMIŠ)",
+      "principal_edition_refs": [
+        "Marchetti & Peker 2014a"
+      ],
+      "response_sha256": "4fcbf126428a248d3ae0adfeec2ae45c9c1835ef06793266b775e85bf58d1e5e"
+    },
+    {
+      "ediana_id": 62,
+      "response_siglum": "MALATYA N1 (MALATYA)",
+      "principal_edition_refs": [
+        "Mora 2013a"
+      ],
+      "response_sha256": "4fcbf126428a248d3ae0adfeec2ae45c9c1835ef06793266b775e85bf58d1e5e"
+    },
+    {
+      "ediana_id": 63,
+      "response_siglum": "YUNUS (KARKAMIŠ)",
+      "principal_edition_refs": [
+        "Peker 2014a"
+      ],
+      "response_sha256": "465c971cb68475ec4f0f8327b0183841bdcce4414a0f5f9f1fe9482790ddb3bf"
+    },
+    {
+      "ediana_id": 64,
+      "response_siglum": "ADANA 1 (KARKAMIŠ)",
+      "principal_edition_refs": [
+        "Hawkins, Tosun & Akdoğan 2013a"
+      ],
+      "response_sha256": "465c971cb68475ec4f0f8327b0183841bdcce4414a0f5f9f1fe9482790ddb3bf"
+    },
+    {
+      "ediana_id": 65,
+      "response_siglum": "ŞARAGA (KARKAMIŠ)",
+      "principal_edition_refs": [
+        "Sasseville & Yakubovich 2016a"
+      ],
+      "response_sha256": "465c971cb68475ec4f0f8327b0183841bdcce4414a0f5f9f1fe9482790ddb3bf"
+    },
+    {
+      "ediana_id": 66,
+      "response_siglum": "KARKAMIŠ fragments",
+      "principal_edition_refs": [],
+      "response_sha256": "465c971cb68475ec4f0f8327b0183841bdcce4414a0f5f9f1fe9482790ddb3bf"
+    },
+    {
+      "ediana_id": 67,
+      "response_siglum": "MARAŞ 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:261-265"
+      ],
+      "response_sha256": "465c971cb68475ec4f0f8327b0183841bdcce4414a0f5f9f1fe9482790ddb3bf"
+    },
+    {
+      "ediana_id": 68,
+      "response_siglum": "MARAŞ 14",
+      "principal_edition_refs": [
+        "Hawkins 2000a:265-267"
+      ],
+      "response_sha256": "465c971cb68475ec4f0f8327b0183841bdcce4414a0f5f9f1fe9482790ddb3bf"
+    },
+    {
+      "ediana_id": 69,
+      "response_siglum": "MARAŞ 3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:267-269"
+      ],
+      "response_sha256": "465c971cb68475ec4f0f8327b0183841bdcce4414a0f5f9f1fe9482790ddb3bf"
+    },
+    {
+      "ediana_id": 70,
+      "response_siglum": "MARAŞ 5",
+      "principal_edition_refs": [
+        "Hawkins 2000a:269-270"
+      ],
+      "response_sha256": "f6688973402d309ed7b4e1fe30ccc942dc211065f44d3aa0dbfe58ad5efcd9ab"
+    },
+    {
+      "ediana_id": 71,
+      "response_siglum": "MARAŞ 11",
+      "principal_edition_refs": [
+        "Hawkins 2000a:270-271"
+      ],
+      "response_sha256": "f6688973402d309ed7b4e1fe30ccc942dc211065f44d3aa0dbfe58ad5efcd9ab"
+    },
+    {
+      "ediana_id": 72,
+      "response_siglum": "KÜRTÜL",
+      "principal_edition_refs": [
+        "Hawkins 2000a:271-272"
+      ],
+      "response_sha256": "f6688973402d309ed7b4e1fe30ccc942dc211065f44d3aa0dbfe58ad5efcd9ab"
+    },
+    {
+      "ediana_id": 73,
+      "response_siglum": "MARAŞ 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:273-274"
+      ],
+      "response_sha256": "f6688973402d309ed7b4e1fe30ccc942dc211065f44d3aa0dbfe58ad5efcd9ab"
+    },
+    {
+      "ediana_id": 74,
+      "response_siglum": "MARAŞ 9",
+      "principal_edition_refs": [
+        "Hawkins 2000a:274-275"
+      ],
+      "response_sha256": "f6688973402d309ed7b4e1fe30ccc942dc211065f44d3aa0dbfe58ad5efcd9ab"
+    },
+    {
+      "ediana_id": 75,
+      "response_siglum": "MARAŞ 12",
+      "principal_edition_refs": [
+        "Hawkins 2000a:275"
+      ],
+      "response_sha256": "f6688973402d309ed7b4e1fe30ccc942dc211065f44d3aa0dbfe58ad5efcd9ab"
+    },
+    {
+      "ediana_id": 76,
+      "response_siglum": "KARABURÇLU",
+      "principal_edition_refs": [],
+      "response_sha256": "f6688973402d309ed7b4e1fe30ccc942dc211065f44d3aa0dbfe58ad5efcd9ab"
+    },
+    {
+      "ediana_id": 77,
+      "response_siglum": "MARAŞ 13",
+      "principal_edition_refs": [
+        "Hawkins 2000a:276-277"
+      ],
+      "response_sha256": "49c78f5023e5d8b6c78a5cef3775415c619e64dc8eba58dee0690e8925092f02"
+    },
+    {
+      "ediana_id": 78,
+      "response_siglum": "MARAŞ 6 (LENINGRAD)",
+      "principal_edition_refs": [
+        "Hawkins 2000a:278-279"
+      ],
+      "response_sha256": "49c78f5023e5d8b6c78a5cef3775415c619e64dc8eba58dee0690e8925092f02"
+    },
+    {
+      "ediana_id": 79,
+      "response_siglum": "MARAŞ 7",
+      "principal_edition_refs": [
+        "Hawkins 2000a:279-280"
+      ],
+      "response_sha256": "49c78f5023e5d8b6c78a5cef3775415c619e64dc8eba58dee0690e8925092f02"
+    },
+    {
+      "ediana_id": 80,
+      "response_siglum": "MARAŞ 10",
+      "principal_edition_refs": [
+        "Hawkins 2000a:280"
+      ],
+      "response_sha256": "49c78f5023e5d8b6c78a5cef3775415c619e64dc8eba58dee0690e8925092f02"
+    },
+    {
+      "ediana_id": 81,
+      "response_siglum": "MARAŞ 15",
+      "principal_edition_refs": [
+        "Hawkins 2000a:281"
+      ],
+      "response_sha256": "49c78f5023e5d8b6c78a5cef3775415c619e64dc8eba58dee0690e8925092f02"
+    },
+    {
+      "ediana_id": 82,
+      "response_siglum": "BABYLON 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:391-394"
+      ],
+      "response_sha256": "49c78f5023e5d8b6c78a5cef3775415c619e64dc8eba58dee0690e8925092f02"
+    },
+    {
+      "ediana_id": 83,
+      "response_siglum": "BABYLON 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:394-396,397"
+      ],
+      "response_sha256": "49c78f5023e5d8b6c78a5cef3775415c619e64dc8eba58dee0690e8925092f02"
+    },
+    {
+      "ediana_id": 84,
+      "response_siglum": "BABYLON 3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:396-397"
+      ],
+      "response_sha256": "aab90008f3a5e70dca7284d573278d805f84778fefe216967cc183aaef36903f"
+    },
+    {
+      "ediana_id": 85,
+      "response_siglum": "HAMA 4",
+      "principal_edition_refs": [
+        "Hawkins 2000a:403-406"
+      ],
+      "response_sha256": "aab90008f3a5e70dca7284d573278d805f84778fefe216967cc183aaef36903f"
+    },
+    {
+      "ediana_id": 86,
+      "response_siglum": "HAMA 5",
+      "principal_edition_refs": [
+        "Hawkins 2000a:406-407"
+      ],
+      "response_sha256": "aab90008f3a5e70dca7284d573278d805f84778fefe216967cc183aaef36903f"
+    },
+    {
+      "ediana_id": 87,
+      "response_siglum": "RESTAN, QAL‘AT EL MUDIQ, HINES",
+      "principal_edition_refs": [
+        "Hawkins 2000a:408-409",
+        "Hawkins 2000a:408",
+        "Hawkins 2000a:407-408"
+      ],
+      "response_sha256": "aab90008f3a5e70dca7284d573278d805f84778fefe216967cc183aaef36903f"
+    },
+    {
+      "ediana_id": 88,
+      "response_siglum": "HAMA 8",
+      "principal_edition_refs": [
+        "Hawkins 2000a:409-410"
+      ],
+      "response_sha256": "aab90008f3a5e70dca7284d573278d805f84778fefe216967cc183aaef36903f"
+    },
+    {
+      "ediana_id": 89,
+      "response_siglum": "HAMA 9 (NIMRUD)",
+      "principal_edition_refs": [
+        "Hawkins 2000a:410-411"
+      ],
+      "response_sha256": "aab90008f3a5e70dca7284d573278d805f84778fefe216967cc183aaef36903f"
+    },
+    {
+      "ediana_id": 90,
+      "response_siglum": "HAMA 1-3, 6-7",
+      "principal_edition_refs": [
+        "Hawkins 2000a:411-414",
+        "Hawkins 2000a:411-414",
+        "Hawkins 2000a:411-414",
+        "Hawkins 2000a:412-414",
+        "Hawkins 2000a:412-414"
+      ],
+      "response_sha256": "aab90008f3a5e70dca7284d573278d805f84778fefe216967cc183aaef36903f"
+    },
+    {
+      "ediana_id": 91,
+      "response_siglum": "MEHARDE, SHEIZAR",
+      "principal_edition_refs": [
+        "Hawkins 2000a:415-419"
+      ],
+      "response_sha256": "284ae0327e9425ec4bbbda709d07392e380af8c78047d81a0dac6e4653b4135e"
+    },
+    {
+      "ediana_id": 92,
+      "response_siglum": "HAMA fragment 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:420"
+      ],
+      "response_sha256": "284ae0327e9425ec4bbbda709d07392e380af8c78047d81a0dac6e4653b4135e"
+    },
+    {
+      "ediana_id": 93,
+      "response_siglum": "HAMA fragment 5",
+      "principal_edition_refs": [
+        "Hawkins 2000a:421"
+      ],
+      "response_sha256": "284ae0327e9425ec4bbbda709d07392e380af8c78047d81a0dac6e4653b4135e"
+    },
+    {
+      "ediana_id": 94,
+      "response_siglum": "HAMA fragment 6",
+      "principal_edition_refs": [
+        "Hawkins 2000a:421-422"
+      ],
+      "response_sha256": "284ae0327e9425ec4bbbda709d07392e380af8c78047d81a0dac6e4653b4135e"
+    },
+    {
+      "ediana_id": 95,
+      "response_siglum": "HAMA fragment 7",
+      "principal_edition_refs": [
+        "Hawkins 2000a:422"
+      ],
+      "response_sha256": "284ae0327e9425ec4bbbda709d07392e380af8c78047d81a0dac6e4653b4135e"
+    },
+    {
+      "ediana_id": 96,
+      "response_siglum": "KULULU 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:442-444"
+      ],
+      "response_sha256": "284ae0327e9425ec4bbbda709d07392e380af8c78047d81a0dac6e4653b4135e"
+    },
+    {
+      "ediana_id": 97,
+      "response_siglum": "KULULU 4",
+      "principal_edition_refs": [
+        "Hawkins 2000a:445-447",
+        "See KULULU 4 (sides)"
+      ],
+      "response_sha256": "284ae0327e9425ec4bbbda709d07392e380af8c78047d81a0dac6e4653b4135e"
+    },
+    {
+      "ediana_id": 98,
+      "response_siglum": "BOHÇA",
+      "principal_edition_refs": [
+        "Hawkins 2000a:478-480"
+      ],
+      "response_sha256": "04f0b28549d3e920331c890fa89dcdf93c38f7a76146f73fb9252f90874a792e"
+    },
+    {
+      "ediana_id": 99,
+      "response_siglum": "ASSUR letter a",
+      "principal_edition_refs": [
+        "Hawkins 2000a:533-544,554f."
+      ],
+      "response_sha256": "04f0b28549d3e920331c890fa89dcdf93c38f7a76146f73fb9252f90874a792e"
+    },
+    {
+      "ediana_id": 100,
+      "response_siglum": "ASSUR letter b",
+      "principal_edition_refs": [
+        "Hawkins 2000a:533-545,554f."
+      ],
+      "response_sha256": "04f0b28549d3e920331c890fa89dcdf93c38f7a76146f73fb9252f90874a792e"
+    },
+    {
+      "ediana_id": 101,
+      "response_siglum": "ASSUR letter c",
+      "principal_edition_refs": [
+        "Hawkins 2000a:533-545,554f."
+      ],
+      "response_sha256": "04f0b28549d3e920331c890fa89dcdf93c38f7a76146f73fb9252f90874a792e"
+    },
+    {
+      "ediana_id": 102,
+      "response_siglum": "ASSUR letter d",
+      "principal_edition_refs": [
+        "Hawkins 2000a:533-546,554f."
+      ],
+      "response_sha256": "04f0b28549d3e920331c890fa89dcdf93c38f7a76146f73fb9252f90874a792e"
+    },
+    {
+      "ediana_id": 103,
+      "response_siglum": "ASSUR letter e",
+      "principal_edition_refs": [
+        "Hawkins 2000a:533-549,554f."
+      ],
+      "response_sha256": "04f0b28549d3e920331c890fa89dcdf93c38f7a76146f73fb9252f90874a792e"
+    },
+    {
+      "ediana_id": 104,
+      "response_siglum": "ASSUR letter f+g",
+      "principal_edition_refs": [
+        "Hawkins 2000a:533-555"
+      ],
+      "response_sha256": "04f0b28549d3e920331c890fa89dcdf93c38f7a76146f73fb9252f90874a792e"
+    },
+    {
+      "ediana_id": 105,
+      "response_siglum": "KARATEPE 1 Hu.",
+      "principal_edition_refs": [
+        "Hawkins 2000a:45-68"
+      ],
+      "response_sha256": "29406468dd3668eda089a9bd2796f6bbbd60946193faddebf2dbdbb79f29bcd2"
+    },
+    {
+      "ediana_id": 106,
+      "response_siglum": "KARATEPE 1 Ho.",
+      "principal_edition_refs": [
+        "Cf. KARATEPE 1 Hu."
+      ],
+      "response_sha256": "29406468dd3668eda089a9bd2796f6bbbd60946193faddebf2dbdbb79f29bcd2"
+    },
+    {
+      "ediana_id": 107,
+      "response_siglum": "KARATEPE 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:68-69"
+      ],
+      "response_sha256": "29406468dd3668eda089a9bd2796f6bbbd60946193faddebf2dbdbb79f29bcd2"
+    },
+    {
+      "ediana_id": 108,
+      "response_siglum": "KARATEPE 3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:68-69"
+      ],
+      "response_sha256": "29406468dd3668eda089a9bd2796f6bbbd60946193faddebf2dbdbb79f29bcd2"
+    },
+    {
+      "ediana_id": 109,
+      "response_siglum": "KARATEPE 4",
+      "principal_edition_refs": [
+        "Hawkins 2000a:68-70"
+      ],
+      "response_sha256": "29406468dd3668eda089a9bd2796f6bbbd60946193faddebf2dbdbb79f29bcd2"
+    },
+    {
+      "ediana_id": 110,
+      "response_siglum": "TELL AHMAR 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:227-230"
+      ],
+      "response_sha256": "29406468dd3668eda089a9bd2796f6bbbd60946193faddebf2dbdbb79f29bcd2"
+    },
+    {
+      "ediana_id": 111,
+      "response_siglum": "BOROWSKI 3",
+      "principal_edition_refs": [],
+      "response_sha256": "29406468dd3668eda089a9bd2796f6bbbd60946193faddebf2dbdbb79f29bcd2"
+    },
+    {
+      "ediana_id": 112,
+      "response_siglum": "TELL AHMAR 5",
+      "principal_edition_refs": [
+        "Hawkins 2000a:231-234",
+        "See TELL AHMAR 5",
+        "See TELL AHMAR 5"
+      ],
+      "response_sha256": "64ddba29309e84643722b32a0fd7e1a77cd8bdb804a31995b36329cf1edebbe8"
+    },
+    {
+      "ediana_id": 113,
+      "response_siglum": "TELL AHMAR 4",
+      "principal_edition_refs": [
+        "Hawkins 2000a:234-235"
+      ],
+      "response_sha256": "64ddba29309e84643722b32a0fd7e1a77cd8bdb804a31995b36329cf1edebbe8"
+    },
+    {
+      "ediana_id": 114,
+      "response_siglum": "ALEPPO 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:235-238"
+      ],
+      "response_sha256": "64ddba29309e84643722b32a0fd7e1a77cd8bdb804a31995b36329cf1edebbe8"
+    },
+    {
+      "ediana_id": 115,
+      "response_siglum": "TELL AHMAR 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:239-243"
+      ],
+      "response_sha256": "64ddba29309e84643722b32a0fd7e1a77cd8bdb804a31995b36329cf1edebbe8"
+    },
+    {
+      "ediana_id": 116,
+      "response_siglum": "TELL AHMAR 3 (LOUVRE)",
+      "principal_edition_refs": [
+        "Hawkins 2000a:243-245"
+      ],
+      "response_sha256": "64ddba29309e84643722b32a0fd7e1a77cd8bdb804a31995b36329cf1edebbe8"
+    },
+    {
+      "ediana_id": 117,
+      "response_siglum": "TELL AHMAR fragments 1—10",
+      "principal_edition_refs": [
+        "Hawkins 2000a:244-245"
+      ],
+      "response_sha256": "64ddba29309e84643722b32a0fd7e1a77cd8bdb804a31995b36329cf1edebbe8"
+    },
+    {
+      "ediana_id": 118,
+      "response_siglum": "ARSLANTAŞ",
+      "principal_edition_refs": [
+        "Hawkins 2000a:246-248,329"
+      ],
+      "response_sha256": "64ddba29309e84643722b32a0fd7e1a77cd8bdb804a31995b36329cf1edebbe8"
+    },
+    {
+      "ediana_id": 119,
+      "response_siglum": "MARAŞ 8",
+      "principal_edition_refs": [
+        "Hawkins 2000a:252-255"
+      ],
+      "response_sha256": "96c5c197bf0868a9ee438e471619c5778a2eaa04e555d5c25229b0698d0125e2"
+    },
+    {
+      "ediana_id": 120,
+      "response_siglum": "MARAŞ 4",
+      "principal_edition_refs": [
+        "Hawkins 2000a:255-258"
+      ],
+      "response_sha256": "96c5c197bf0868a9ee438e471619c5778a2eaa04e555d5c25229b0698d0125e2"
+    },
+    {
+      "ediana_id": 121,
+      "response_siglum": "İSKENDERUN",
+      "principal_edition_refs": [
+        "Hawkins 2000a:259-261"
+      ],
+      "response_sha256": "96c5c197bf0868a9ee438e471619c5778a2eaa04e555d5c25229b0698d0125e2"
+    },
+    {
+      "ediana_id": 122,
+      "response_siglum": "KARAHÖYÜK (ELBİSTAN)",
+      "principal_edition_refs": [
+        "See KARAHÖYÜK (ELBİSTAN): obv. (A)",
+        "Hawkins 2000a:288-295",
+        "See KARAHÖYÜK (ELBİSTAN): obv. (A)"
+      ],
+      "response_sha256": "96c5c197bf0868a9ee438e471619c5778a2eaa04e555d5c25229b0698d0125e2"
+    },
+    {
+      "ediana_id": 123,
+      "response_siglum": "GÜRÜN",
+      "principal_edition_refs": [
+        "See GÜRÜN (upper inscription)",
+        "Hawkins 2000a:295-299"
+      ],
+      "response_sha256": "96c5c197bf0868a9ee438e471619c5778a2eaa04e555d5c25229b0698d0125e2"
+    },
+    {
+      "ediana_id": 124,
+      "response_siglum": "KÖTÜKALE",
+      "principal_edition_refs": [
+        "Hawkins 2000a:299-301"
+      ],
+      "response_sha256": "96c5c197bf0868a9ee438e471619c5778a2eaa04e555d5c25229b0698d0125e2"
+    },
+    {
+      "ediana_id": 125,
+      "response_siglum": "İSPEKÇÜR",
+      "principal_edition_refs": [
+        "See İSPEKÇÜR: Side B (frag. c)",
+        "See İSPEKÇÜR: Side B (frag. c)",
+        "See İSPEKÇÜR: Side B (frag. c)",
+        "See İSPEKÇÜR: Side B (frag. c)",
+        "Hawkins 2000a:301-304",
+        "See İSPEKÇÜR: Side B (frag. c)"
+      ],
+      "response_sha256": "96c5c197bf0868a9ee438e471619c5778a2eaa04e555d5c25229b0698d0125e2"
+    },
+    {
+      "ediana_id": 126,
+      "response_siglum": "DARENDE",
+      "principal_edition_refs": [
+        "Hawkins 2000a:304-305",
+        "See DARENDE (left side)",
+        "See DARENDE (left side)"
+      ],
+      "response_sha256": "d0e9fbd299050e244434d0e9a1a662c21ac1df0aac922cc166b109ca8b0e052e"
+    },
+    {
+      "ediana_id": 127,
+      "response_siglum": "MALATYA 5",
+      "principal_edition_refs": [
+        "Hawkins 2000a:306-307"
+      ],
+      "response_sha256": "d0e9fbd299050e244434d0e9a1a662c21ac1df0aac922cc166b109ca8b0e052e"
+    },
+    {
+      "ediana_id": 128,
+      "response_siglum": "MALATYA 6",
+      "principal_edition_refs": [
+        "Hawkins 2000a:307-308"
+      ],
+      "response_sha256": "d0e9fbd299050e244434d0e9a1a662c21ac1df0aac922cc166b109ca8b0e052e"
+    },
+    {
+      "ediana_id": 129,
+      "response_siglum": "MALATYA 7",
+      "principal_edition_refs": [
+        "Hawkins 2000a:308-309"
+      ],
+      "response_sha256": "d0e9fbd299050e244434d0e9a1a662c21ac1df0aac922cc166b109ca8b0e052e"
+    },
+    {
+      "ediana_id": 130,
+      "response_siglum": "MALATYA 8",
+      "principal_edition_refs": [
+        "Hawkins 2000a:309-310"
+      ],
+      "response_sha256": "d0e9fbd299050e244434d0e9a1a662c21ac1df0aac922cc166b109ca8b0e052e"
+    },
+    {
+      "ediana_id": 131,
+      "response_siglum": "MALATYA 9",
+      "principal_edition_refs": [
+        "Hawkins 2000a: 310-311"
+      ],
+      "response_sha256": "d0e9fbd299050e244434d0e9a1a662c21ac1df0aac922cc166b109ca8b0e052e"
+    },
+    {
+      "ediana_id": 132,
+      "response_siglum": "MALATYA 10",
+      "principal_edition_refs": [
+        "Hawkins 2000a:311-312"
+      ],
+      "response_sha256": "d0e9fbd299050e244434d0e9a1a662c21ac1df0aac922cc166b109ca8b0e052e"
+    },
+    {
+      "ediana_id": 133,
+      "response_siglum": "MALATYA 11",
+      "principal_edition_refs": [
+        "Hawkins 2000a:312"
+      ],
+      "response_sha256": "2ae6efc6e5a224ae7b714ae774ad39b6fbdd91cc132a11904a7f4d7206f38805"
+    },
+    {
+      "ediana_id": 134,
+      "response_siglum": "MALATYA 12",
+      "principal_edition_refs": [
+        "Hawkins 2000a:313"
+      ],
+      "response_sha256": "2ae6efc6e5a224ae7b714ae774ad39b6fbdd91cc132a11904a7f4d7206f38805"
+    },
+    {
+      "ediana_id": 135,
+      "response_siglum": "MALATYA 14",
+      "principal_edition_refs": [
+        "Hawkins 2000a:313-314"
+      ],
+      "response_sha256": "2ae6efc6e5a224ae7b714ae774ad39b6fbdd91cc132a11904a7f4d7206f38805"
+    },
+    {
+      "ediana_id": 136,
+      "response_siglum": "IZGIN 1 (B+C+A)",
+      "principal_edition_refs": [
+        "Hawkins 2000a:314-318"
+      ],
+      "response_sha256": "2ae6efc6e5a224ae7b714ae774ad39b6fbdd91cc132a11904a7f4d7206f38805"
+    },
+    {
+      "ediana_id": 137,
+      "response_siglum": "IZGIN 2 (D)",
+      "principal_edition_refs": [
+        "Hawkins 2000a:314-318"
+      ],
+      "response_sha256": "2ae6efc6e5a224ae7b714ae774ad39b6fbdd91cc132a11904a7f4d7206f38805"
+    },
+    {
+      "ediana_id": 138,
+      "response_siglum": "MALATYA 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:318-320"
+      ],
+      "response_sha256": "2ae6efc6e5a224ae7b714ae774ad39b6fbdd91cc132a11904a7f4d7206f38805"
+    },
+    {
+      "ediana_id": 139,
+      "response_siglum": "MALATYA 4",
+      "principal_edition_refs": [
+        "Hawkins 2000a:320-321"
+      ],
+      "response_sha256": "2ae6efc6e5a224ae7b714ae774ad39b6fbdd91cc132a11904a7f4d7206f38805"
+    },
+    {
+      "ediana_id": 140,
+      "response_siglum": "MALATYA 3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:321-322"
+      ],
+      "response_sha256": "45c80a2854018f087f25d7ab7f70402b5f781998148dab83882620fce59d2df3"
+    },
+    {
+      "ediana_id": 141,
+      "response_siglum": "ŞIRZI",
+      "principal_edition_refs": [
+        "Hawkins 2000a:322-324",
+        "See ŞIRZI (side)"
+      ],
+      "response_sha256": "45c80a2854018f087f25d7ab7f70402b5f781998148dab83882620fce59d2df3"
+    },
+    {
+      "ediana_id": 142,
+      "response_siglum": "PALANGA",
+      "principal_edition_refs": [
+        "Hawkins 2000a:325-327"
+      ],
+      "response_sha256": "45c80a2854018f087f25d7ab7f70402b5f781998148dab83882620fce59d2df3"
+    },
+    {
+      "ediana_id": 143,
+      "response_siglum": "MALATYA 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:327"
+      ],
+      "response_sha256": "45c80a2854018f087f25d7ab7f70402b5f781998148dab83882620fce59d2df3"
+    },
+    {
+      "ediana_id": 144,
+      "response_siglum": "MALATYA 13",
+      "principal_edition_refs": [
+        "See MALATYA 13: Left side",
+        "Hawkins 2000a:328-329",
+        "See MALATYA 13: Left side"
+      ],
+      "response_sha256": "45c80a2854018f087f25d7ab7f70402b5f781998148dab83882620fce59d2df3"
+    },
+    {
+      "ediana_id": 145,
+      "response_siglum": "BOYBEYPINARI 1-2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:334-338",
+        "Hawkins 2000a:334-340"
+      ],
+      "response_sha256": "45c80a2854018f087f25d7ab7f70402b5f781998148dab83882620fce59d2df3"
+    },
+    {
+      "ediana_id": 146,
+      "response_siglum": "MALPINAR",
+      "principal_edition_refs": [
+        "Hawkins 2000a:340-344"
+      ],
+      "response_sha256": "45c80a2854018f087f25d7ab7f70402b5f781998148dab83882620fce59d2df3"
+    },
+    {
+      "ediana_id": 147,
+      "response_siglum": "ADIYAMAN 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:344-345"
+      ],
+      "response_sha256": "77136e55c6adb2e95a47a1328a351f0b447c1a6a3f2aa745a455c03c04d69545"
+    },
+    {
+      "ediana_id": 148,
+      "response_siglum": "ANCOZ 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:345-347"
+      ],
+      "response_sha256": "77136e55c6adb2e95a47a1328a351f0b447c1a6a3f2aa745a455c03c04d69545"
+    },
+    {
+      "ediana_id": 149,
+      "response_siglum": "ANCOZ 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:348"
+      ],
+      "response_sha256": "77136e55c6adb2e95a47a1328a351f0b447c1a6a3f2aa745a455c03c04d69545"
+    },
+    {
+      "ediana_id": 150,
+      "response_siglum": "ANCOZ 3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:348-349"
+      ],
+      "response_sha256": "77136e55c6adb2e95a47a1328a351f0b447c1a6a3f2aa745a455c03c04d69545"
+    },
+    {
+      "ediana_id": 151,
+      "response_siglum": "ANCOZ 4",
+      "principal_edition_refs": [
+        "Hawkins 2000a:348-349"
+      ],
+      "response_sha256": "77136e55c6adb2e95a47a1328a351f0b447c1a6a3f2aa745a455c03c04d69545"
+    },
+    {
+      "ediana_id": 152,
+      "response_siglum": "ANCOZ 5 - full",
+      "principal_edition_refs": [
+        "Hawkins 2000a:349-350 / Poetto 2010b"
+      ],
+      "response_sha256": "77136e55c6adb2e95a47a1328a351f0b447c1a6a3f2aa745a455c03c04d69545"
+    },
+    {
+      "ediana_id": 153,
+      "response_siglum": "ANCOZ 6",
+      "principal_edition_refs": [
+        "Hawkins 2000a:350-351"
+      ],
+      "response_sha256": "77136e55c6adb2e95a47a1328a351f0b447c1a6a3f2aa745a455c03c04d69545"
+    },
+    {
+      "ediana_id": 154,
+      "response_siglum": "ADIYAMAN 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:351-352"
+      ],
+      "response_sha256": "1cfa48a87d503ceed01c62d6131c7aefbb092fc0de24c97c22b4ec12b384f4ef"
+    },
+    {
+      "ediana_id": 155,
+      "response_siglum": "SAMSAT 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:353"
+      ],
+      "response_sha256": "1cfa48a87d503ceed01c62d6131c7aefbb092fc0de24c97c22b4ec12b384f4ef"
+    },
+    {
+      "ediana_id": 156,
+      "response_siglum": "SAMSAT 3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:353-354"
+      ],
+      "response_sha256": "1cfa48a87d503ceed01c62d6131c7aefbb092fc0de24c97c22b4ec12b384f4ef"
+    },
+    {
+      "ediana_id": 157,
+      "response_siglum": "SAMSAT fragments",
+      "principal_edition_refs": [
+        "Hawkins 2000a:354-355"
+      ],
+      "response_sha256": "1cfa48a87d503ceed01c62d6131c7aefbb092fc0de24c97c22b4ec12b384f4ef"
+    },
+    {
+      "ediana_id": 158,
+      "response_siglum": "ANCOZ 7",
+      "principal_edition_refs": [
+        "Hawkins 2000a:356-357"
+      ],
+      "response_sha256": "1cfa48a87d503ceed01c62d6131c7aefbb092fc0de24c97c22b4ec12b384f4ef"
+    },
+    {
+      "ediana_id": 159,
+      "response_siglum": "ANCOZ 8",
+      "principal_edition_refs": [
+        "Hawkins 2000a:358-359"
+      ],
+      "response_sha256": "1cfa48a87d503ceed01c62d6131c7aefbb092fc0de24c97c22b4ec12b384f4ef"
+    },
+    {
+      "ediana_id": 160,
+      "response_siglum": "ANCOZ 9",
+      "principal_edition_refs": [
+        "Hawkins 2000a:359"
+      ],
+      "response_sha256": "1cfa48a87d503ceed01c62d6131c7aefbb092fc0de24c97c22b4ec12b384f4ef"
+    },
+    {
+      "ediana_id": 161,
+      "response_siglum": "ANCOZ 10",
+      "principal_edition_refs": [
+        "Hawkins 2000a:359-360",
+        "Hawkins 2000a:359-360"
+      ],
+      "response_sha256": "f686341630630afa9a9dfc532805f37876a2fadeb66062fc93ffee57d8c1913d"
+    },
+    {
+      "ediana_id": 162,
+      "response_siglum": "TELL TAYINAT 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:365-367"
+      ],
+      "response_sha256": "f686341630630afa9a9dfc532805f37876a2fadeb66062fc93ffee57d8c1913d"
+    },
+    {
+      "ediana_id": 163,
+      "response_siglum": "TELL TAYINAT 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:367-375",
+        "See TELL TAYINAT 2: line 1",
+        "See TELL TAYINAT 2: line 1",
+        "See TELL TAYINAT 2: line 1",
+        "See TELL TAYINAT 2: line 1",
+        "See TELL TAYINAT 2: line 1"
+      ],
+      "response_sha256": "f686341630630afa9a9dfc532805f37876a2fadeb66062fc93ffee57d8c1913d"
+    },
+    {
+      "ediana_id": 164,
+      "response_siglum": "JISR EL HADID fragments 1-3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:378-380",
+        "See JISR EL HADID fragments: Fragment 1",
+        "See JISR EL HADID fragments: Fragment 1"
+      ],
+      "response_sha256": "f686341630630afa9a9dfc532805f37876a2fadeb66062fc93ffee57d8c1913d"
+    },
+    {
+      "ediana_id": 165,
+      "response_siglum": "TULEIL 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:381-382"
+      ],
+      "response_sha256": "f686341630630afa9a9dfc532805f37876a2fadeb66062fc93ffee57d8c1913d"
+    },
+    {
+      "ediana_id": 166,
+      "response_siglum": "TULEIL 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:382-383"
+      ],
+      "response_sha256": "f686341630630afa9a9dfc532805f37876a2fadeb66062fc93ffee57d8c1913d"
+    },
+    {
+      "ediana_id": 167,
+      "response_siglum": "KIRÇOĞLU",
+      "principal_edition_refs": [
+        "Hawkins 2000a:383-384"
+      ],
+      "response_sha256": "f686341630630afa9a9dfc532805f37876a2fadeb66062fc93ffee57d8c1913d"
+    },
+    {
+      "ediana_id": 168,
+      "response_siglum": "AFRIN",
+      "principal_edition_refs": [
+        "Hawkins 2000a:386-387"
+      ],
+      "response_sha256": "f7fd0fb889f195f069344d0179d45a1acffd82b8096816263f059b73e7423043"
+    },
+    {
+      "ediana_id": 169,
+      "response_siglum": "KIZILDAĞ 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:433-435,437-442 / Hawkins 1995a: 103-107"
+      ],
+      "response_sha256": "f7fd0fb889f195f069344d0179d45a1acffd82b8096816263f059b73e7423043"
+    },
+    {
+      "ediana_id": 170,
+      "response_siglum": "KIZILDAĞ 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:433-435,437-442 / Hawkins 1995a: 103-107"
+      ],
+      "response_sha256": "f7fd0fb889f195f069344d0179d45a1acffd82b8096816263f059b73e7423043"
+    },
+    {
+      "ediana_id": 171,
+      "response_siglum": "KIZILDAĞ 3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:433-435,437-442 / Hawkins 1995a: 103-107"
+      ],
+      "response_sha256": "f7fd0fb889f195f069344d0179d45a1acffd82b8096816263f059b73e7423043"
+    },
+    {
+      "ediana_id": 172,
+      "response_siglum": "KIZILDAĞ 5",
+      "principal_edition_refs": [
+        "Hawkins 2000a:435-436 / Hawkins 1995a: 103-107"
+      ],
+      "response_sha256": "f7fd0fb889f195f069344d0179d45a1acffd82b8096816263f059b73e7423043"
+    },
+    {
+      "ediana_id": 173,
+      "response_siglum": "KIZILDAĞ 4",
+      "principal_edition_refs": [
+        "Hawkins 2000a:435-436,438-442 / Hawkins 1995a: 103-107"
+      ],
+      "response_sha256": "f7fd0fb889f195f069344d0179d45a1acffd82b8096816263f059b73e7423043"
+    },
+    {
+      "ediana_id": 174,
+      "response_siglum": "KARADAĞ 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:436,438-442 / Hawkins 1995a: 103-107"
+      ],
+      "response_sha256": "f7fd0fb889f195f069344d0179d45a1acffd82b8096816263f059b73e7423043"
+    },
+    {
+      "ediana_id": 175,
+      "response_siglum": "KARADAĞ 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:437,438-442 / Hawkins 1995a: 103-107"
+      ],
+      "response_sha256": "fe3ec95854d10fdd3961f71c9c4156665575affdf89f5e00a9bc6e7ca2ca4aab"
+    },
+    {
+      "ediana_id": 176,
+      "response_siglum": "BURUNKAYA",
+      "principal_edition_refs": [
+        "Hawkins 2000a:437-442 / Hawkins 1995a: 103-107"
+      ],
+      "response_sha256": "fe3ec95854d10fdd3961f71c9c4156665575affdf89f5e00a9bc6e7ca2ca4aab"
+    },
+    {
+      "ediana_id": 177,
+      "response_siglum": "ÇİFTLİK",
+      "principal_edition_refs": [
+        "Hawkins 2000a:448-451"
+      ],
+      "response_sha256": "fe3ec95854d10fdd3961f71c9c4156665575affdf89f5e00a9bc6e7ca2ca4aab"
+    },
+    {
+      "ediana_id": 178,
+      "response_siglum": "TOPADA",
+      "principal_edition_refs": [
+        "Hawkins 2000a:451-461"
+      ],
+      "response_sha256": "fe3ec95854d10fdd3961f71c9c4156665575affdf89f5e00a9bc6e7ca2ca4aab"
+    },
+    {
+      "ediana_id": 179,
+      "response_siglum": "SUVASA",
+      "principal_edition_refs": [
+        "Hawkins 2000a:462-463",
+        "See SUVASA inscription A",
+        "See SUVASA inscription A",
+        "See SUVASA inscription A"
+      ],
+      "response_sha256": "fe3ec95854d10fdd3961f71c9c4156665575affdf89f5e00a9bc6e7ca2ca4aab"
+    },
+    {
+      "ediana_id": 180,
+      "response_siglum": "SULTANHAN",
+      "principal_edition_refs": [
+        "See SULTANHAN (stele, sides)",
+        "See SULTANHAN (stele, sides)",
+        "Hawkins 2000a:463-472",
+        "See SULTANHAN (stele, sides)"
+      ],
+      "response_sha256": "fe3ec95854d10fdd3961f71c9c4156665575affdf89f5e00a9bc6e7ca2ca4aab"
+    },
+    {
+      "ediana_id": 181,
+      "response_siglum": "KAYSERİ",
+      "principal_edition_refs": [
+        "Hawkins 2000a:472-475"
+      ],
+      "response_sha256": "fe3ec95854d10fdd3961f71c9c4156665575affdf89f5e00a9bc6e7ca2ca4aab"
+    },
+    {
+      "ediana_id": 182,
+      "response_siglum": "AKSARAY",
+      "principal_edition_refs": [
+        "Hawkins 2000a:475-478"
+      ],
+      "response_sha256": "cf0e1ef26097a30d87fdf1dd72367a889998c6029523dee53405d752369eeb9e"
+    },
+    {
+      "ediana_id": 183,
+      "response_siglum": "KARABURUN",
+      "principal_edition_refs": [
+        "Hawkins 2000a:480-483"
+      ],
+      "response_sha256": "cf0e1ef26097a30d87fdf1dd72367a889998c6029523dee53405d752369eeb9e"
+    },
+    {
+      "ediana_id": 184,
+      "response_siglum": "HİSARCIK 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:483-485"
+      ],
+      "response_sha256": "cf0e1ef26097a30d87fdf1dd72367a889998c6029523dee53405d752369eeb9e"
+    },
+    {
+      "ediana_id": 185,
+      "response_siglum": "KULULU 5",
+      "principal_edition_refs": [
+        "Hawkins 2000a:485-487"
+      ],
+      "response_sha256": "cf0e1ef26097a30d87fdf1dd72367a889998c6029523dee53405d752369eeb9e"
+    },
+    {
+      "ediana_id": 186,
+      "response_siglum": "KULULU 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:487-490"
+      ],
+      "response_sha256": "cf0e1ef26097a30d87fdf1dd72367a889998c6029523dee53405d752369eeb9e"
+    },
+    {
+      "ediana_id": 187,
+      "response_siglum": "KULULU 3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:490-491"
+      ],
+      "response_sha256": "cf0e1ef26097a30d87fdf1dd72367a889998c6029523dee53405d752369eeb9e"
+    },
+    {
+      "ediana_id": 188,
+      "response_siglum": "EĞREK",
+      "principal_edition_refs": [
+        "Hawkins 2000a:492-493"
+      ],
+      "response_sha256": "cf0e1ef26097a30d87fdf1dd72367a889998c6029523dee53405d752369eeb9e"
+    },
+    {
+      "ediana_id": 189,
+      "response_siglum": "ERKİLET 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:493-495"
+      ],
+      "response_sha256": "a0b864cd79e9139c59ef95a1053a8255a12a72ba5b4850cf31a1e50dbb694d31"
+    },
+    {
+      "ediana_id": 190,
+      "response_siglum": "EĞRİKÖY",
+      "principal_edition_refs": [
+        "Hawkins 2000a:495-496"
+      ],
+      "response_sha256": "a0b864cd79e9139c59ef95a1053a8255a12a72ba5b4850cf31a1e50dbb694d31"
+    },
+    {
+      "ediana_id": 191,
+      "response_siglum": "HİSARCIK 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:496-497"
+      ],
+      "response_sha256": "a0b864cd79e9139c59ef95a1053a8255a12a72ba5b4850cf31a1e50dbb694d31"
+    },
+    {
+      "ediana_id": 192,
+      "response_siglum": "ÇALAPVERDİ 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:497-498"
+      ],
+      "response_sha256": "a0b864cd79e9139c59ef95a1053a8255a12a72ba5b4850cf31a1e50dbb694d31"
+    },
+    {
+      "ediana_id": 193,
+      "response_siglum": "TEKİRDERBENT 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:498-499"
+      ],
+      "response_sha256": "a0b864cd79e9139c59ef95a1053a8255a12a72ba5b4850cf31a1e50dbb694d31"
+    },
+    {
+      "ediana_id": 194,
+      "response_siglum": "KULULU 6",
+      "principal_edition_refs": [
+        "Hawkins 2000a:500-501"
+      ],
+      "response_sha256": "a0b864cd79e9139c59ef95a1053a8255a12a72ba5b4850cf31a1e50dbb694d31"
+    },
+    {
+      "ediana_id": 195,
+      "response_siglum": "KULULU 8",
+      "principal_edition_refs": [
+        "Hawkins 2000a:501-502"
+      ],
+      "response_sha256": "a0b864cd79e9139c59ef95a1053a8255a12a72ba5b4850cf31a1e50dbb694d31"
+    },
+    {
+      "ediana_id": 196,
+      "response_siglum": "KULULU 7",
+      "principal_edition_refs": [
+        "Hawkins 2000a:502"
+      ],
+      "response_sha256": "a7973cf81a5f225559e68c95b8e99f04e7747dfa1a7e742694f020e0a5b9920e"
+    },
+    {
+      "ediana_id": 197,
+      "response_siglum": "KULULU lead strip 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:503-513",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1"
+      ],
+      "response_sha256": "a7973cf81a5f225559e68c95b8e99f04e7747dfa1a7e742694f020e0a5b9920e"
+    },
+    {
+      "ediana_id": 198,
+      "response_siglum": "KULULU lead strip 2",
+      "principal_edition_refs": [
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1"
+      ],
+      "response_sha256": "a7973cf81a5f225559e68c95b8e99f04e7747dfa1a7e742694f020e0a5b9920e"
+    },
+    {
+      "ediana_id": 199,
+      "response_siglum": "KULULU lead fragment 1",
+      "principal_edition_refs": [
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1"
+      ],
+      "response_sha256": "a7973cf81a5f225559e68c95b8e99f04e7747dfa1a7e742694f020e0a5b9920e"
+    },
+    {
+      "ediana_id": 200,
+      "response_siglum": "KULULU lead fragment 3",
+      "principal_edition_refs": [
+        "See KULULU lead strip 1: obverse - register 1"
+      ],
+      "response_sha256": "a7973cf81a5f225559e68c95b8e99f04e7747dfa1a7e742694f020e0a5b9920e"
+    },
+    {
+      "ediana_id": 201,
+      "response_siglum": "KULULU lead strip 3 (+ frag. 2)",
+      "principal_edition_refs": [
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1",
+        "See KULULU lead strip 1: obverse - register 1"
+      ],
+      "response_sha256": "a7973cf81a5f225559e68c95b8e99f04e7747dfa1a7e742694f020e0a5b9920e"
+    },
+    {
+      "ediana_id": 202,
+      "response_siglum": "NİĞDE 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:513-514"
+      ],
+      "response_sha256": "a7973cf81a5f225559e68c95b8e99f04e7747dfa1a7e742694f020e0a5b9920e"
+    },
+    {
+      "ediana_id": 203,
+      "response_siglum": "ANDAVAL",
+      "principal_edition_refs": [
+        "Hawkins 2000a:514-516"
+      ],
+      "response_sha256": "c481e167129ff1e3ed64ba341055a0edc29d2d10cef1b962ef9aa05d603b520c"
+    },
+    {
+      "ediana_id": 204,
+      "response_siglum": "İVRİZ 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:516-518"
+      ],
+      "response_sha256": "c481e167129ff1e3ed64ba341055a0edc29d2d10cef1b962ef9aa05d603b520c"
+    },
+    {
+      "ediana_id": 205,
+      "response_siglum": "BOR",
+      "principal_edition_refs": [
+        "Hawkins 2000a:518-521"
+      ],
+      "response_sha256": "c481e167129ff1e3ed64ba341055a0edc29d2d10cef1b962ef9aa05d603b520c"
+    },
+    {
+      "ediana_id": 206,
+      "response_siglum": "BULGARMADEN",
+      "principal_edition_refs": [
+        "Hawkins 2000a:521-525"
+      ],
+      "response_sha256": "c481e167129ff1e3ed64ba341055a0edc29d2d10cef1b962ef9aa05d603b520c"
+    },
+    {
+      "ediana_id": 207,
+      "response_siglum": "NİĞDE 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:526-527"
+      ],
+      "response_sha256": "c481e167129ff1e3ed64ba341055a0edc29d2d10cef1b962ef9aa05d603b520c"
+    },
+    {
+      "ediana_id": 208,
+      "response_siglum": "PORSUK",
+      "principal_edition_refs": [
+        "Hawkins 2000a:527-528"
+      ],
+      "response_sha256": "c481e167129ff1e3ed64ba341055a0edc29d2d10cef1b962ef9aa05d603b520c"
+    },
+    {
+      "ediana_id": 209,
+      "response_siglum": "VELİİSA",
+      "principal_edition_refs": [
+        "Hawkins 2000a:529"
+      ],
+      "response_sha256": "c481e167129ff1e3ed64ba341055a0edc29d2d10cef1b962ef9aa05d603b520c"
+    },
+    {
+      "ediana_id": 210,
+      "response_siglum": "İVRİZ fragments 1-3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:529-530",
+        "See İVRİZ fragments: Frag. 1",
+        "See İVRİZ fragments: Frag. 1"
+      ],
+      "response_sha256": "c01ccb49514f03fcc3c8ac73754a8ad9001a8906585f351b56bdaf73ee28b014"
+    },
+    {
+      "ediana_id": 211,
+      "response_siglum": "BOROWSKI 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:556-557"
+      ],
+      "response_sha256": "c01ccb49514f03fcc3c8ac73754a8ad9001a8906585f351b56bdaf73ee28b014"
+    },
+    {
+      "ediana_id": 212,
+      "response_siglum": "BOROWSKI 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:558"
+      ],
+      "response_sha256": "c01ccb49514f03fcc3c8ac73754a8ad9001a8906585f351b56bdaf73ee28b014"
+    },
+    {
+      "ediana_id": 213,
+      "response_siglum": "BEIRUT",
+      "principal_edition_refs": [
+        "Hawkins 2000a:558-559",
+        "Hawkins 2000a:230-231"
+      ],
+      "response_sha256": "c01ccb49514f03fcc3c8ac73754a8ad9001a8906585f351b56bdaf73ee28b014"
+    },
+    {
+      "ediana_id": 214,
+      "response_siglum": "ANKARA",
+      "principal_edition_refs": [
+        "Hawkins 2000a:559-561"
+      ],
+      "response_sha256": "c01ccb49514f03fcc3c8ac73754a8ad9001a8906585f351b56bdaf73ee28b014"
+    },
+    {
+      "ediana_id": 215,
+      "response_siglum": "İSTANBUL (“ATHENS”)",
+      "principal_edition_refs": [
+        "Hawkins 2000a:561-562"
+      ],
+      "response_sha256": "c01ccb49514f03fcc3c8ac73754a8ad9001a8906585f351b56bdaf73ee28b014"
+    },
+    {
+      "ediana_id": 216,
+      "response_siglum": "ALEPPO 3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:562-563"
+      ],
+      "response_sha256": "c01ccb49514f03fcc3c8ac73754a8ad9001a8906585f351b56bdaf73ee28b014"
+    },
+    {
+      "ediana_id": 217,
+      "response_siglum": "GAZİANTEP",
+      "principal_edition_refs": [
+        "Hawkins 2000a:563-564"
+      ],
+      "response_sha256": "64fa3fdae8577fa8ca939a02dc2b006b8d8af839f2fce22849024b51fbe23242"
+    },
+    {
+      "ediana_id": 218,
+      "response_siglum": "ASMACIK",
+      "principal_edition_refs": [
+        "Hawkins 2000a:564-565"
+      ],
+      "response_sha256": "64fa3fdae8577fa8ca939a02dc2b006b8d8af839f2fce22849024b51fbe23242"
+    },
+    {
+      "ediana_id": 219,
+      "response_siglum": "TÜNP 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:565-566"
+      ],
+      "response_sha256": "64fa3fdae8577fa8ca939a02dc2b006b8d8af839f2fce22849024b51fbe23242"
+    },
+    {
+      "ediana_id": 220,
+      "response_siglum": "GELB",
+      "principal_edition_refs": [
+        "Hawkins 2000a:567-568",
+        "See GELB: Side A"
+      ],
+      "response_sha256": "64fa3fdae8577fa8ca939a02dc2b006b8d8af839f2fce22849024b51fbe23242"
+    },
+    {
+      "ediana_id": 221,
+      "response_siglum": "ALİŞAR",
+      "principal_edition_refs": [
+        "Hawkins 2000a:568-569"
+      ],
+      "response_sha256": "64fa3fdae8577fa8ca939a02dc2b006b8d8af839f2fce22849024b51fbe23242"
+    },
+    {
+      "ediana_id": 222,
+      "response_siglum": "TRAGANA (LOCRIS)",
+      "principal_edition_refs": [
+        "Hawkins 2000a:569"
+      ],
+      "response_sha256": "64fa3fdae8577fa8ca939a02dc2b006b8d8af839f2fce22849024b51fbe23242"
+    },
+    {
+      "ediana_id": 223,
+      "response_siglum": "NIMRUD",
+      "principal_edition_refs": [
+        "Hawkins 2000a:570"
+      ],
+      "response_sha256": "64fa3fdae8577fa8ca939a02dc2b006b8d8af839f2fce22849024b51fbe23242"
+    },
+    {
+      "ediana_id": 224,
+      "response_siglum": "PERSEPOLIS",
+      "principal_edition_refs": [
+        "Hawkins 2000a:570-571"
+      ],
+      "response_sha256": "5076345212979ce9469ad342fed64a7fd11d2c5c43c8f8dc85a78a2766675103"
+    },
+    {
+      "ediana_id": 225,
+      "response_siglum": "LİDAR bullae",
+      "principal_edition_refs": [
+        "Hawkins 2000a:574-575"
+      ],
+      "response_sha256": "5076345212979ce9469ad342fed64a7fd11d2c5c43c8f8dc85a78a2766675103"
+    },
+    {
+      "ediana_id": 226,
+      "response_siglum": "MALATYA bulla (MALATYA 15)",
+      "principal_edition_refs": [
+        "Hawkins 2000a: 575-576"
+      ],
+      "response_sha256": "5076345212979ce9469ad342fed64a7fd11d2c5c43c8f8dc85a78a2766675103"
+    },
+    {
+      "ediana_id": 227,
+      "response_siglum": "ZİNCİRLİ signet",
+      "principal_edition_refs": [
+        "Hawkins 2000a:576"
+      ],
+      "response_sha256": "5076345212979ce9469ad342fed64a7fd11d2c5c43c8f8dc85a78a2766675103"
+    },
+    {
+      "ediana_id": 228,
+      "response_siglum": "PORADA seal",
+      "principal_edition_refs": [
+        "Hawkins 2000a:576-577"
+      ],
+      "response_sha256": "5076345212979ce9469ad342fed64a7fd11d2c5c43c8f8dc85a78a2766675103"
+    },
+    {
+      "ediana_id": 229,
+      "response_siglum": "DELAPORTE seal",
+      "principal_edition_refs": [
+        "See DELAPORTE seal: Top",
+        "Hawkins 2000a:577-578"
+      ],
+      "response_sha256": "5076345212979ce9469ad342fed64a7fd11d2c5c43c8f8dc85a78a2766675103"
+    },
+    {
+      "ediana_id": 230,
+      "response_siglum": "BOROWSKI seal 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:578"
+      ],
+      "response_sha256": "5076345212979ce9469ad342fed64a7fd11d2c5c43c8f8dc85a78a2766675103"
+    },
+    {
+      "ediana_id": 231,
+      "response_siglum": "NINEVEH seal",
+      "principal_edition_refs": [
+        "Hawkins 2000a:578-579"
+      ],
+      "response_sha256": "881c8b23d13db35f8c1aa8f3783e66010177b049b8d56c3d8f6d130e93875c8e"
+    },
+    {
+      "ediana_id": 232,
+      "response_siglum": "HOGARTH seal 1",
+      "principal_edition_refs": [
+        "Hawkins 2000a:579"
+      ],
+      "response_sha256": "881c8b23d13db35f8c1aa8f3783e66010177b049b8d56c3d8f6d130e93875c8e"
+    },
+    {
+      "ediana_id": 233,
+      "response_siglum": "HOGARTH seal 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:579-580"
+      ],
+      "response_sha256": "881c8b23d13db35f8c1aa8f3783e66010177b049b8d56c3d8f6d130e93875c8e"
+    },
+    {
+      "ediana_id": 234,
+      "response_siglum": "GULBENKIAN seal",
+      "principal_edition_refs": [
+        "Hawkins 2000a:580"
+      ],
+      "response_sha256": "881c8b23d13db35f8c1aa8f3783e66010177b049b8d56c3d8f6d130e93875c8e"
+    },
+    {
+      "ediana_id": 235,
+      "response_siglum": "GELB seals",
+      "principal_edition_refs": [
+        "Hawkins 2000a:580-581"
+      ],
+      "response_sha256": "881c8b23d13db35f8c1aa8f3783e66010177b049b8d56c3d8f6d130e93875c8e"
+    },
+    {
+      "ediana_id": 236,
+      "response_siglum": "NINEVEH bullae 1-7",
+      "principal_edition_refs": [
+        "Hawkins 2000a:581-582"
+      ],
+      "response_sha256": "881c8b23d13db35f8c1aa8f3783e66010177b049b8d56c3d8f6d130e93875c8e"
+    },
+    {
+      "ediana_id": 237,
+      "response_siglum": "KHORSABAD bullae",
+      "principal_edition_refs": [
+        "Hawkins 2000a:583"
+      ],
+      "response_sha256": "881c8b23d13db35f8c1aa8f3783e66010177b049b8d56c3d8f6d130e93875c8e"
+    },
+    {
+      "ediana_id": 238,
+      "response_siglum": "BOROWSKI seal 2",
+      "principal_edition_refs": [
+        "Hawkins 2000a:583-584"
+      ],
+      "response_sha256": "1d236ec7fef0cda7e13a8648585b07f2e4d7949f882e4838d24551d777f2d580"
+    },
+    {
+      "ediana_id": 239,
+      "response_siglum": "HOGARTH seal 3",
+      "principal_edition_refs": [
+        "Hawkins 2000a:584"
+      ],
+      "response_sha256": "1d236ec7fef0cda7e13a8648585b07f2e4d7949f882e4838d24551d777f2d580"
+    },
+    {
+      "ediana_id": 240,
+      "response_siglum": "DÜLÜK/GAZİANTEP seals",
+      "principal_edition_refs": [
+        "Hawkins 2000a:585-586",
+        "Hawkins 2000a:585-586"
+      ],
+      "response_sha256": "1d236ec7fef0cda7e13a8648585b07f2e4d7949f882e4838d24551d777f2d580"
+    },
+    {
+      "ediana_id": 241,
+      "response_siglum": "BOSSERT seal",
+      "principal_edition_refs": [
+        "Hawkins 2000a:586"
+      ],
+      "response_sha256": "1d236ec7fef0cda7e13a8648585b07f2e4d7949f882e4838d24551d777f2d580"
+    },
+    {
+      "ediana_id": 242,
+      "response_siglum": "YALE seal",
+      "principal_edition_refs": [
+        "Hawkins 2000a:587"
+      ],
+      "response_sha256": "1d236ec7fef0cda7e13a8648585b07f2e4d7949f882e4838d24551d777f2d580"
+    },
+    {
+      "ediana_id": 243,
+      "response_siglum": "ALTINTEPE pithos inscriptions",
+      "principal_edition_refs": [
+        "Not in corpus"
+      ],
+      "response_sha256": "1d236ec7fef0cda7e13a8648585b07f2e4d7949f882e4838d24551d777f2d580"
+    },
+    {
+      "ediana_id": 244,
+      "response_siglum": "KIRŞEHİR",
+      "principal_edition_refs": [
+        "Akdoğan & Hawkins 2010a"
+      ],
+      "response_sha256": "1d236ec7fef0cda7e13a8648585b07f2e4d7949f882e4838d24551d777f2d580"
+    },
+    {
+      "ediana_id": 245,
+      "response_siglum": "KIRŞEHİR fragment",
+      "principal_edition_refs": [
+        "Weeden 2013b"
+      ],
+      "response_sha256": "76f9665428c05f5a4ffbd408f6251ed02ff36f82b7b931c0a2a1ba856830a407"
+    },
+    {
+      "ediana_id": 246,
+      "response_siglum": "ISTANBUL 2",
+      "principal_edition_refs": [
+        "Taş & Weeden 2011a"
+      ],
+      "response_sha256": "76f9665428c05f5a4ffbd408f6251ed02ff36f82b7b931c0a2a1ba856830a407"
+    },
+    {
+      "ediana_id": 247,
+      "response_siglum": "GEMEREK",
+      "principal_edition_refs": [
+        "Hawkins & Akdoğan 2011a"
+      ],
+      "response_sha256": "76f9665428c05f5a4ffbd408f6251ed02ff36f82b7b931c0a2a1ba856830a407"
+    },
+    {
+      "ediana_id": 248,
+      "response_siglum": "EREǦLİ 2",
+      "principal_edition_refs": [
+        "Poetto 2002a"
+      ],
+      "response_sha256": "76f9665428c05f5a4ffbd408f6251ed02ff36f82b7b931c0a2a1ba856830a407"
+    },
+    {
+      "ediana_id": 249,
+      "response_siglum": "POTOROO",
+      "principal_edition_refs": [
+        "Hawkins 2010a"
+      ],
+      "response_sha256": "76f9665428c05f5a4ffbd408f6251ed02ff36f82b7b931c0a2a1ba856830a407"
+    },
+    {
+      "ediana_id": 250,
+      "response_siglum": "ÇINEKÖY",
+      "principal_edition_refs": [
+        "Tekoğlu & Lemaire 2000a"
+      ],
+      "response_sha256": "76f9665428c05f5a4ffbd408f6251ed02ff36f82b7b931c0a2a1ba856830a407"
+    },
+    {
+      "ediana_id": 251,
+      "response_siglum": "ANCOZ 11",
+      "principal_edition_refs": [
+        "Poetto 2004d"
+      ],
+      "response_sha256": "76f9665428c05f5a4ffbd408f6251ed02ff36f82b7b931c0a2a1ba856830a407"
+    },
+    {
+      "ediana_id": 252,
+      "response_siglum": "ANCOZ 12",
+      "principal_edition_refs": [
+        "Poetto 2010e"
+      ],
+      "response_sha256": "7923fd3a1ad6e65d54e3a32619b5dfae8f20d10d0aebd17e2988c476e5331eff"
+    },
+    {
+      "ediana_id": 253,
+      "response_siglum": "KÂHTA 1",
+      "principal_edition_refs": [
+        "Simon 2014e"
+      ],
+      "response_sha256": "7923fd3a1ad6e65d54e3a32619b5dfae8f20d10d0aebd17e2988c476e5331eff"
+    },
+    {
+      "ediana_id": 254,
+      "response_siglum": "DÜLÜK BABA TEPESİ 1",
+      "principal_edition_refs": [
+        "Simon 2014f"
+      ],
+      "response_sha256": "7923fd3a1ad6e65d54e3a32619b5dfae8f20d10d0aebd17e2988c476e5331eff"
+    },
+    {
+      "ediana_id": 255,
+      "response_siglum": "TELL AHMAR 6",
+      "principal_edition_refs": [
+        "Hawkins 2006a"
+      ],
+      "response_sha256": "7923fd3a1ad6e65d54e3a32619b5dfae8f20d10d0aebd17e2988c476e5331eff"
+    },
+    {
+      "ediana_id": 256,
+      "response_siglum": "ALEPPO 4",
+      "principal_edition_refs": [
+        "Hawkins 2011b:38-40"
+      ],
+      "response_sha256": "7923fd3a1ad6e65d54e3a32619b5dfae8f20d10d0aebd17e2988c476e5331eff"
+    },
+    {
+      "ediana_id": 257,
+      "response_siglum": "ALEPPO 5",
+      "principal_edition_refs": [
+        "Hawkins 2011b:40"
+      ],
+      "response_sha256": "7923fd3a1ad6e65d54e3a32619b5dfae8f20d10d0aebd17e2988c476e5331eff"
+    },
+    {
+      "ediana_id": 258,
+      "response_siglum": "ALEPPO 6",
+      "principal_edition_refs": [
+        "Hawkins 2011b:40-44"
+      ],
+      "response_sha256": "7923fd3a1ad6e65d54e3a32619b5dfae8f20d10d0aebd17e2988c476e5331eff"
+    },
+    {
+      "ediana_id": 259,
+      "response_siglum": "ALEPPO 7",
+      "principal_edition_refs": [
+        "Hawkins 2011b:44-51"
+      ],
+      "response_sha256": "15ca40a4c7d19a91d71b0e81ac9d6e8d30ce4ec5efe297c08b49d5bdea2e4c6d"
+    },
+    {
+      "ediana_id": 260,
+      "response_siglum": "ARSUZ 1 (AMUQ)",
+      "principal_edition_refs": [
+        "Dinçol, Dinçol, Hawkins, Peker & Öztan 2015a"
+      ],
+      "response_sha256": "15ca40a4c7d19a91d71b0e81ac9d6e8d30ce4ec5efe297c08b49d5bdea2e4c6d"
+    },
+    {
+      "ediana_id": 261,
+      "response_siglum": "ARSUZ 2 (AMUQ)",
+      "principal_edition_refs": [
+        "Dinçol, Dinçol, Hawkins, Peker & Öztan 2015a"
+      ],
+      "response_sha256": "15ca40a4c7d19a91d71b0e81ac9d6e8d30ce4ec5efe297c08b49d5bdea2e4c6d"
+    },
+    {
+      "ediana_id": 262,
+      "response_siglum": "PANCARLI (AMUQ)",
+      "principal_edition_refs": [
+        "Herrmann, van den Hout & Beyazlar 2016a"
+      ],
+      "response_sha256": "15ca40a4c7d19a91d71b0e81ac9d6e8d30ce4ec5efe297c08b49d5bdea2e4c6d"
+    },
+    {
+      "ediana_id": 263,
+      "response_siglum": "JISR EL HADID 4",
+      "principal_edition_refs": [
+        "Dinçol, Dinçol, Hawkins & Peker 2014a"
+      ],
+      "response_sha256": "15ca40a4c7d19a91d71b0e81ac9d6e8d30ce4ec5efe297c08b49d5bdea2e4c6d"
+    },
+    {
+      "ediana_id": 264,
+      "response_siglum": "TALL ŠṬĪB",
+      "principal_edition_refs": [
+        "Gonnet 2010a"
+      ],
+      "response_sha256": "15ca40a4c7d19a91d71b0e81ac9d6e8d30ce4ec5efe297c08b49d5bdea2e4c6d"
+    },
+    {
+      "ediana_id": 265,
+      "response_siglum": "SÜDBURG",
+      "principal_edition_refs": [
+        "Hawkins 1995a:9-65 / Oreshko 2016a"
+      ],
+      "response_sha256": "15ca40a4c7d19a91d71b0e81ac9d6e8d30ce4ec5efe297c08b49d5bdea2e4c6d"
+    },
+    {
+      "ediana_id": 266,
+      "response_siglum": "FRAKTİN",
+      "principal_edition_refs": [
+        "Ehringhaus 2005a:59-65"
+      ],
+      "response_sha256": "8299d36a7d0f36b5ad523da1e92888adb3058a1a8950d81c1d044b2fdf73e6e3"
+    },
+    {
+      "ediana_id": 267,
+      "response_siglum": "ALEPPO 1",
+      "principal_edition_refs": [
+        "Werner 1991a:50-51"
+      ],
+      "response_sha256": "8299d36a7d0f36b5ad523da1e92888adb3058a1a8950d81c1d044b2fdf73e6e3"
+    },
+    {
+      "ediana_id": 268,
+      "response_siglum": "YALBURT FRAGMENT 1",
+      "principal_edition_refs": [
+        "Poetto 1993a / Hawkins 1995a:66-85"
+      ],
+      "response_sha256": "8299d36a7d0f36b5ad523da1e92888adb3058a1a8950d81c1d044b2fdf73e6e3"
+    },
+    {
+      "ediana_id": 269,
+      "response_siglum": "YALBURT Fragment 2",
+      "principal_edition_refs": [
+        "See YALBURT Fragment 1"
+      ],
+      "response_sha256": "8299d36a7d0f36b5ad523da1e92888adb3058a1a8950d81c1d044b2fdf73e6e3"
+    },
+    {
+      "ediana_id": 270,
+      "response_siglum": "YALBURT Fragment 3",
+      "principal_edition_refs": [
+        "See YALBURT Fragment 1"
+      ],
+      "response_sha256": "8299d36a7d0f36b5ad523da1e92888adb3058a1a8950d81c1d044b2fdf73e6e3"
+    },
+    {
+      "ediana_id": 271,
+      "response_siglum": "YALBURT Fragment A",
+      "principal_edition_refs": [
+        "See YALBURT Fragment 1"
+      ],
+      "response_sha256": "8299d36a7d0f36b5ad523da1e92888adb3058a1a8950d81c1d044b2fdf73e6e3"
+    },
+    {
+      "ediana_id": 272,
+      "response_siglum": "YALBURT Fragment B",
+      "principal_edition_refs": [
+        "See YALBURT Fragment 1"
+      ],
+      "response_sha256": "8299d36a7d0f36b5ad523da1e92888adb3058a1a8950d81c1d044b2fdf73e6e3"
+    },
+    {
+      "ediana_id": 273,
+      "response_siglum": "YALBURT Fragment C",
+      "principal_edition_refs": [
+        "See YALBURT Fragment 1"
+      ],
+      "response_sha256": "6af182e97a327d06beb906eec183b603b26ac723eaf73e53d32854461cd3da0e"
+    },
+    {
+      "ediana_id": 274,
+      "response_siglum": "YALBURT Fragment 4",
+      "principal_edition_refs": [],
+      "response_sha256": "6af182e97a327d06beb906eec183b603b26ac723eaf73e53d32854461cd3da0e"
+    },
+    {
+      "ediana_id": 275,
+      "response_siglum": "YALBURT Fragment D",
+      "principal_edition_refs": [
+        "See YALBURT Fragment 1"
+      ],
+      "response_sha256": "6af182e97a327d06beb906eec183b603b26ac723eaf73e53d32854461cd3da0e"
+    },
+    {
+      "ediana_id": 276,
+      "response_siglum": "YALBURT Fragment E",
+      "principal_edition_refs": [
+        "See YALBURT Fragment 1"
+      ],
+      "response_sha256": "6af182e97a327d06beb906eec183b603b26ac723eaf73e53d32854461cd3da0e"
+    },
+    {
+      "ediana_id": 277,
+      "response_siglum": "EMİRGAZİ 1A",
+      "principal_edition_refs": [
+        "UNPUBLISHED_PERSONAL_COMMUNICATION_FROM_HAWKINS"
+      ],
+      "response_sha256": "6af182e97a327d06beb906eec183b603b26ac723eaf73e53d32854461cd3da0e"
+    },
+    {
+      "ediana_id": 278,
+      "response_siglum": "EMİRGAZİ 1B",
+      "principal_edition_refs": [
+        "See EMİRGAZİ 1A"
+      ],
+      "response_sha256": "6af182e97a327d06beb906eec183b603b26ac723eaf73e53d32854461cd3da0e"
+    },
+    {
+      "ediana_id": 279,
+      "response_siglum": "EMİRGAZİ 1C",
+      "principal_edition_refs": [
+        "See EMİRGAZİ 1A"
+      ],
+      "response_sha256": "6af182e97a327d06beb906eec183b603b26ac723eaf73e53d32854461cd3da0e"
+    },
+    {
+      "ediana_id": 280,
+      "response_siglum": "EMİRGAZİ 1D",
+      "principal_edition_refs": [
+        "See EMİRGAZİ 1A"
+      ],
+      "response_sha256": "3d9421859bef66583e5d333bf07f68b88b221ad35ecc0bafaa413c766df272e8"
+    },
+    {
+      "ediana_id": 281,
+      "response_siglum": "EMİRGAZİ 2",
+      "principal_edition_refs": [
+        "UNPUBLISHED_PERSONAL_COMMUNICATION_FROM_HAWKINS"
+      ],
+      "response_sha256": "3d9421859bef66583e5d333bf07f68b88b221ad35ecc0bafaa413c766df272e8"
+    },
+    {
+      "ediana_id": 282,
+      "response_siglum": "EMİRGAZİ 3",
+      "principal_edition_refs": [
+        "Alp 1973a / Hawkins 1995a:78"
+      ],
+      "response_sha256": "3d9421859bef66583e5d333bf07f68b88b221ad35ecc0bafaa413c766df272e8"
+    },
+    {
+      "ediana_id": 283,
+      "response_siglum": "KÖYLÜTOLU YAYLA",
+      "principal_edition_refs": [
+        "E. Masson 1980a"
+      ],
+      "response_sha256": "3d9421859bef66583e5d333bf07f68b88b221ad35ecc0bafaa413c766df272e8"
+    },
+    {
+      "ediana_id": 284,
+      "response_siglum": "KOCAOĞUZ",
+      "principal_edition_refs": [
+        "Oreshko 2013a:386-400"
+      ],
+      "response_sha256": "3d9421859bef66583e5d333bf07f68b88b221ad35ecc0bafaa413c766df272e8"
+    },
+    {
+      "ediana_id": 285,
+      "response_siglum": "KARAKUYU/KARABEL",
+      "principal_edition_refs": [
+        "Oreshko 2013a:373-386 /"
+      ],
+      "response_sha256": "3d9421859bef66583e5d333bf07f68b88b221ad35ecc0bafaa413c766df272e8"
+    },
+    {
+      "ediana_id": 286,
+      "response_siglum": "ANKARA 2",
+      "principal_edition_refs": [
+        "Hawkins 2005a"
+      ],
+      "response_sha256": "3d9421859bef66583e5d333bf07f68b88b221ad35ecc0bafaa413c766df272e8"
+    }
+  ],
+  "failures": []
+}

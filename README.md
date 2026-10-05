@@ -15,3 +15,9 @@ The first acquisition target is the eDiAna Luwian-hieroglyphic corpus, whose pro
 Before expert adjudication, the project will exhaust lawful catalogue discovery, object/edition concordance, provenance, chronology, bibliography, sign-label lineage, source dependence, deterministic validation and explicit uncertainty. Disputed readings and palaeographic/linguistic judgments remain human-review gates.
 
 See `research/pre-expert-maximum.json`, `docs/ROADMAP.md`, and `ai-skill/SKILL.md`.
+
+## 2.0.0 milestone
+
+All **287 eDiAna digital entries** now have explicit [identity and bibliography dossiers](docs/DIGITAL-ENTRY-DOSSIERS.md). These carry 274 bibliographic assertions on 262 entries, typed internal references/notices, 32 object classes and 118 secondary period candidates. One period conflict is preserved. Physical-object counts and direct edition verification remain open.
+
+See [current assessment](docs/PRE-EXPERT-STATUS.md). Validate offline with `python scripts/reconcile.py` and `python -m pytest -q`.

@@ -15,6 +15,16 @@
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
       "required": true
+    },
+    {
+      "role": "digital_entry_dossiers",
+      "path": "research/digital-entry-dossiers.json",
+      "required": true
+    },
+    {
+      "role": "coverage",
+      "path": "analysis/current-status.json",
+      "required": true
     }
   ],
   "behavioral_gates": [

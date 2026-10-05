@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "milestone": "COMPLETE_DIGITAL_IDENTITY_AND_BIBLIOGRAPHY_SPINE",
+  "version": "2.0.0",
+  "digital_text_entries": 287,
+  "principal_reference_entries": 280,
+  "principal_reference_assertions": 348,
+  "distinct_reference_items": 289,
+  "bibliographic_reference_assertions": 274,
+  "cross_reference_assertions": 71,
+  "source_notices": 3,
+  "bibliographic_reference_entries": 262,
+  "object_class_assertions": 32,
+  "object_class_unknown": 255,
+  "period_candidate_entries": 118,
+  "period_conflict_entries": 1,
+  "period_unknown": 169,
+  "canonical_objects": 0,
+  "reading_assertions": 0,
+  "expert_verified_entries": 0,
+  "source_edges": 635,
+  "acquisition_failures": [],
+  "input_sha256": {
+    "research/ediana-list-snapshot.json": "ec9cde442e4de174cc56c1353328a52e7740b91173f2553a3260b5aa2b422a7e",
+    "research/ediana-edition-snapshot.json": "3fe7070f705a486a0c4bdc7106869a7b2d0e81f78d058e021d8d2324390bb6aa",
+    "research/monumental-link-snapshot.json": "c480ca875bb0b1d4392e5dbf11a0e0980f5d1c0fa29d352080e160efb189d364",
+    "research/ediana-hieroglyphic-entry-register.json": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464"
+  },
+  "register_sha256": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf"
+}

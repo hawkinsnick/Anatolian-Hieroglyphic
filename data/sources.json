@@ -17,6 +17,24 @@
       "id": "hawkins-2000",
       "role": "authoritative_bibliographic_spine",
       "status": "ACCESS_RIGHTS_REVIEW_REQUIRED"
+    },
+    {
+      "id": "EDIANA-LIST",
+      "title": "eDiAna Hieroglyphic Luwian list and principal-reference fields",
+      "url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+      "role": "DERIVATIVE_DIGITAL_IDENTITY_AND_BIBLIOGRAPHY",
+      "rights_scope": "Identifiers and factual bibliographic metadata only; no transcription, translation or images",
+      "snapshot_paths": [
+        "research/ediana-list-snapshot.json",
+        "research/ediana-edition-snapshot.json"
+      ]
+    },
+    {
+      "id": "HITTITE-MONUMENTS-LIST",
+      "url": "https://www.hittitemonuments.com/hllist.htm",
+      "role": "SECONDARY_DISCOVERY_PERIOD_CANDIDATES",
+      "snapshot_path": "research/monumental-link-snapshot.json",
+      "rights_scope": "Factual names, attributed period labels and outbound links only"
     }
   ]
 }
