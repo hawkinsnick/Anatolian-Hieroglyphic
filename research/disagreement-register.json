@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Anatolian-Hieroglyphic",
+  "items": [
+    {
+      "id": "AH-DIS-001",
+      "scope": "period assignment",
+      "kind": "chronology",
+      "status": "1_PRESERVED_CONFLICT_169_UNKNOWN",
+      "boundary": "Do not infer period from corpus ordering or source family."
+    },
+    {
+      "id": "AH-DIS-002",
+      "scope": "grouped/fragment sigla",
+      "kind": "identity",
+      "status": "ACTIVE_RECONCILIATION",
+      "boundary": "Digital entries, fragments, faces and physical objects are different units."
+    },
+    {
+      "id": "AH-DIS-003",
+      "scope": "eDiAna readings",
+      "kind": "source_lineage",
+      "status": "DEPENDENT",
+      "boundary": "eDiAna reports modernized transliterations/recent findings and Hawkins new readings; digital entry is not an independent epigraphic witness."
+    },
+    {
+      "id": "AH-DIS-004",
+      "scope": "sign inventories/variants",
+      "kind": "palaeography",
+      "status": "EDITION_ACCESS_BLOCKED",
+      "boundary": "Do not collapse authority-specific signs or disputed variants before source access/expert adjudication."
+    }
+  ]
+}
