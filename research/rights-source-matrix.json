@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Anatolian-Hieroglyphic",
+  "sources": [
+    {
+      "id": "eDiAna-Hieroglyphic-2025",
+      "rights": "INTERFACE/DATA_REUSE_REQUIRES_COMPONENT_REVIEW",
+      "use": "current project conservatively retains identity/bibliographic metadata and hashes; bulk linguistic/text republication only when exact rights basis is established"
+    },
+    {
+      "id": "Hawkins-1995",
+      "role": "Empire basic corpus",
+      "rights": "COPYRIGHTED_PUBLICATION",
+      "use": "bibliography/page/object locators and independently authored factual metadata; systematic text/facsimile derivative requires permission/clear terms"
+    },
+    {
+      "id": "Hawkins-2000-CHLI-I",
+      "role": "Post-Empire foundational corpus",
+      "rights": "COPYRIGHTED_PUBLICATION",
+      "use": "bibliography/page/object locators and independently authored factual metadata; systematic text/facsimile derivative requires permission/clear terms"
+    },
+    {
+      "id": "ACLT",
+      "role": "initial Post-Empire annotation lineage in eDiAna",
+      "rights": "REUSE_TERMS_REQUIRE_VERIFICATION",
+      "use": "source lineage/locator until terms establish systematic redistribution"
+    },
+    {
+      "id": "later-primary-publications",
+      "role": "post-CHLI discoveries/re-editions",
+      "rights": "ITEM_PUBLICATION_SPECIFIC",
+      "use": "admit only with explicit provenance and rights"
+    }
+  ],
+  "rule": "Metadata facts, edition locators and project-authored reconciliation do not authorize reproduction of protected transliterations, facsimiles, sign tables or photographs."
+}
