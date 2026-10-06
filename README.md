@@ -25,3 +25,7 @@ See [current assessment](docs/PRE-EXPERT-STATUS.md). Validate offline with `pyth
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
+
+
+## Linear A method-parity gate
+Anatolian Hieroglyphic has reached the machine-resolvable method-parity baseline for its current lawful identity/bibliography layer: 287 digital entries, explicit source dependence, disagreement/rights controls, browser/API/exports, validation and expert boundaries. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json`. Do not convert digital entries into physical-object counts, treat eDiAna/Hawkins as independent witnesses, or reconstruct protected CHLI readings/sign apparatus from derivative sources. Further material critical-corpus growth is rights/access bound.
