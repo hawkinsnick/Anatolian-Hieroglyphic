@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Anatolian-Hieroglyphic",
+  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-06",
+  "assessment": "OPEN_ENGINEERING_RIGHTS_FRONTIER",
+  "blockers": [
+    {
+      "id": "AH-BLK-001",
+      "class": "RIGHTS_ACCESS",
+      "status": "BLOCKED",
+      "scope": "Hawkins 1995/2000",
+      "needed": "systematic structured critical-edition/sign/facsimile access and redistribution rights"
+    },
+    {
+      "id": "AH-BLK-002",
+      "class": "RIGHTS_ACCESS",
+      "status": "BLOCKED",
+      "scope": "authority sign inventories",
+      "needed": "rights-compatible authoritative sign tables/concordances"
+    },
+    {
+      "id": "AH-BLK-003",
+      "class": "OBJECT_RECONCILIATION",
+      "status": "RIGHTS_ACCESS_BOUND",
+      "needed": "authority/object catalogue evidence to resolve grouped aliases/fragments and 255 unknown object classes"
+    },
+    {
+      "id": "AH-BLK-004",
+      "class": "ENGINEERING",
+      "status": "OPEN",
+      "needed": "API, loss-aware exports, parity validation, explicit disagreement/rights interfaces and CI"
+    },
+    {
+      "id": "AH-BLK-005",
+      "class": "SCIENTIFIC_REVIEW",
+      "status": "DOWNSTREAM",
+      "needed": "expert adjudication of readings, sign variants, object identity and chronology"
+    }
+  ],
+  "completion_rule": "Close engineering and retain the 287-entry identity/bibliography spine; do not reconstruct protected CHLI text/sign apparatus through derivative digital sources."
+}
