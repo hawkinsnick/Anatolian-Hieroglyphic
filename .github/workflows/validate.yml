@@ -35,3 +35,11 @@ jobs:
               body: fs.readFileSync('docs/RELEASE-2.0.md', 'utf8'),
               draft: false, prerelease: false
             });
+      - name: Validate method-parity interfaces
+        run: |
+          python scripts/test_preexpert_parity.py
+          python scripts/build_corpus_browser.py
+          test -s workbench/corpus-browser.html
+          python scripts/research_api.py entries --text KARKAMI --limit 2 > /tmp/ah-api.json
+          python scripts/export_research_layer.py json /tmp/ah.json
+          test -s /tmp/ah.json.manifest.json
