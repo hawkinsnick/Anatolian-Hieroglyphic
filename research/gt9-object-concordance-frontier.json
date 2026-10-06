@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Anatolian Hieroglyphic / Hieroglyphic Luwian",
+  "checked": "2026-10-06",
+  "target": "DEFENSIBLE_SCORE_GT_9",
+  "sources": [
+    {
+      "id": "AH-OBJ-CDLI-P519398",
+      "authority": "Cuneiform Digital Library Initiative",
+      "designation": "CHLI BABYLON 03",
+      "cdli_id": "P519398",
+      "museum": "Vorderasiatisches Museum, Berlin",
+      "museum_number": "VA Bab 01507",
+      "provenience": "Babylon",
+      "object_type": "bowl",
+      "material": "stone",
+      "period": "Neo-Babylonian",
+      "role": "public object-identity concordance seed",
+      "boundary": "Object metadata does not independently verify Hawkins reading/sign apparatus."
+    },
+    {
+      "id": "AH-CORP-ACLT2",
+      "authority": "Annotated Corpus of Luwian Texts 2",
+      "role": "public comparative digital corpus",
+      "boundary": "ACLT2 and eDiANA are related/dependent digital traditions; differences may be compared but agreement is not independent epigraphic replication."
+    },
+    {
+      "id": "AH-CHLI-III-2024",
+      "authority": "Hawkins, CHLI III",
+      "role": "critical-edition expansion target",
+      "scope": "Empire inscriptions plus new Iron Age inscriptions; revised transliterations/translations; concordance",
+      "status": "PUBLISHED_CRITICAL_SOURCE_RIGHTS_ACCESS_REQUIRED_FOR_SYSTEMATIC_DERIVATIVE",
+      "boundary": "Bibliographic/table-of-contents facts may guide acquisition; do not reconstruct protected apparatus from previews."
+    }
+  ],
+  "next_actions": [
+    "Crosswalk public CDLI/museum artifact metadata to the 287-entry identity spine where exact CHLI designations match.",
+    "Use ACLT2 only as a dependent comparison witness and explicitly record divergences from eDiANA.",
+    "Add CHLI III (2024) to the critical-edition acquisition/permission queue; it materially changes the completeness frontier beyond Hawkins 1995/2000."
+  ]
+}
