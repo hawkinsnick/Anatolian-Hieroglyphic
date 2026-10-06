@@ -21,3 +21,7 @@ See `research/pre-expert-maximum.json`, `docs/ROADMAP.md`, and `ai-skill/SKILL.m
 All **287 eDiAna digital entries** now have explicit [identity and bibliography dossiers](docs/DIGITAL-ENTRY-DOSSIERS.md). These carry 274 bibliographic assertions on 262 entries, typed internal references/notices, 32 object classes and 118 secondary period candidates. One period conflict is preserved. Physical-object counts and direct edition verification remain open.
 
 See [current assessment](docs/PRE-EXPERT-STATUS.md). Validate offline with `python scripts/reconcile.py` and `python -m pytest -q`.
+
+
+## Offline corpus browser
+Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
