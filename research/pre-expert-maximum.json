@@ -44,5 +44,10 @@
     "scripts/export_research_layer.py",
     "scripts/test_preexpert_parity.py",
     "docs/RIGHTS-ONLY-READINESS.md"
-  ]
+  ],
+  "gt9_assessment": {
+    "status": "REQUIRES_EXTERNAL_EVIDENCE",
+    "reason": "A >9 evidence-depth assessment requires reconciliation with CHLI Volume III (2024) and authoritative sign/object evidence; current lawful layer is a 287-entry identity/bibliography spine with zero reading assertions.",
+    "rule": "Software completeness alone does not raise the scholarly score."
+  }
 }
