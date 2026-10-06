@@ -3,7 +3,7 @@
   "corpus": "Anatolian-Hieroglyphic",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
   "checked": "2026-10-06",
-  "assessment": "OPEN_ENGINEERING_RIGHTS_FRONTIER",
+  "assessment": "RIGHTS_ACCESS_DOMINANT_PRE_EXPERT_ENGINEERING_COMPLETE",
   "blockers": [
     {
       "id": "AH-BLK-001",
@@ -28,7 +28,7 @@
     {
       "id": "AH-BLK-004",
       "class": "ENGINEERING",
-      "status": "OPEN",
+      "status": "COMPLETE",
       "needed": "API, loss-aware exports, parity validation, explicit disagreement/rights interfaces and CI"
     },
     {
