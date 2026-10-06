@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "target": "PRE_EXPERT_MAXIMUM",
+  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
   "established": [
     {
       "gate": "empty_repo_initialized",
@@ -13,28 +13,10 @@
   ],
   "remaining_nonexpert_work": [
     {
-      "id": "AH-PRE-001",
-      "scope": "Empire inscriptions",
-      "action": "Register Hawkins/eDiAna inscription identities, object IDs, provenance, chronology and edition locators.",
-      "blocked_by": "source_acquisition_and_rights_review"
-    },
-    {
-      "id": "AH-PRE-002",
-      "scope": "Post-Empire inscriptions",
-      "action": "Register Hawkins/eDiAna identities and edition lineage.",
-      "blocked_by": "source_acquisition_and_rights_review"
-    },
-    {
-      "id": "AH-PRE-003",
-      "scope": "sign inventories",
-      "action": "Encode authority-specific sign labels and concordances without collapsing disputed variants.",
-      "blocked_by": "edition_access"
-    },
-    {
-      "id": "AH-PRE-004",
-      "scope": "source dependence",
-      "action": "Map eDiAna assertions to cited editions and distinguish digital derivation from independent witness evidence.",
-      "blocked_by": "source_lineage_reconciliation"
+      "id": "AH-PRE-RIGHTS",
+      "scope": "critical text/sign/object evidence",
+      "action": "Resume systematic collation when rights-compatible Hawkins/CHLI, sign-inventory and object evidence becomes available.",
+      "blocked_by": "rights_access"
     }
   ],
   "human_only_boundary": [
@@ -51,5 +33,16 @@
       "decision": "adjudicate linguistic analyses not explicit in authoritative sources"
     }
   ],
-  "completion_rule": "Every discoverable inscription/object and source route receives a completed, access/rights-blocked, or human-only disposition before expert review."
+  "completion_rule": "Every discoverable inscription/object and source route receives a completed, access/rights-blocked, or human-only disposition before expert review.",
+  "checked": "2026-10-06",
+  "parity_controls": [
+    "research/source-lineage.json",
+    "research/disagreement-register.json",
+    "research/rights-source-matrix.json",
+    "research/residual-blocker-ledger.json",
+    "scripts/research_api.py",
+    "scripts/export_research_layer.py",
+    "scripts/test_preexpert_parity.py",
+    "docs/RIGHTS-ONLY-READINESS.md"
+  ]
 }
