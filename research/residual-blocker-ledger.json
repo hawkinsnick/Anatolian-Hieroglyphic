@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "corpus": "Anatolian-Hieroglyphic",
-  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
+  "target": "COLLECTION_SCORE_GT_9_PRE_EXPERT",
   "checked": "2026-10-06",
   "assessment": "RIGHTS_ACCESS_DOMINANT_PRE_EXPERT_ENGINEERING_COMPLETE",
   "blockers": [
@@ -36,7 +36,15 @@
       "class": "SCIENTIFIC_REVIEW",
       "status": "DOWNSTREAM",
       "needed": "expert adjudication of readings, sign variants, object identity and chronology"
+    },
+    {
+      "id": "AH-BLK-006",
+      "class": "CRITICAL_EDITION_EXPANSION",
+      "status": "RIGHTS_ACCESS",
+      "scope": "Hawkins CHLI III (2024)",
+      "needed": "rights-compatible systematic use of Empire corpus, new Iron Age inscriptions, revised transliterations/translations and concordance; do not infer from previews"
     }
   ],
-  "completion_rule": "Close engineering and retain the 287-entry identity/bibliography spine; do not reconstruct protected CHLI text/sign apparatus through derivative digital sources."
+  "completion_rule": "Close engineering and retain the 287-entry identity/bibliography spine; do not reconstruct protected CHLI text/sign apparatus through derivative digital sources.",
+  "open_object_frontier": "research/gt9-object-concordance-frontier.json"
 }
