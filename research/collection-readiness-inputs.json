@@ -1,0 +1,47 @@
+{
+  "native_review_links": [
+    "research/expert-review-packet.json",
+    "LICENSING.md"
+  ],
+  "public_payload_rule": "Identifiers and source pointers only; no new transcriptions or source images. Restricted A/B derivatives stay local.",
+  "record_sets": [
+    {
+      "id_key": "id",
+      "name": "observed-ediana-IDs",
+      "path": "research/ediana-identity-spine.json",
+      "pointer": "/observed_stable_ids",
+      "unit": "observed_digital_identity"
+    },
+    {
+      "count_path": "research/ediana-hieroglyphic-entry-register.json",
+      "count_pointer": "/public_list/entry_count",
+      "id_key": "ediana_id",
+      "name": "portable-entry-subset",
+      "path": "research/ediana-hieroglyphic-entry-register.json",
+      "pointer": "/explicit_nonmonumental_or_portable_entries",
+      "unit": "classified_digital_entry"
+    }
+  ],
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "schema_version": "1.0",
+  "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique objects. Discovery outside these views remains open.",
+  "source_discovery_rule": "Declare new native source/task registers here so offline replay and the collection report include them.",
+  "source_files": [
+    "data/sources.json",
+    "research/acquisition-queue.json",
+    "research/bibliographic-expansion.json",
+    "research/catalogue-register.json",
+    "research/chli-iii-structure.json",
+    "research/chli-volume-crosswalk.json",
+    "research/coverage-class-register.json",
+    "research/ediana-hieroglyphic-entry-register.json",
+    "research/edition-reconciliation-pilot.json",
+    "research/evidence-matrix.json",
+    "research/machine-work-ledger.json",
+    "research/monumental-discovery-register.json",
+    "research/pre-expert-gate-summary.json",
+    "research/pre-expert-maximum.json",
+    "research/rights-register.json",
+    "research/source-lineage.json"
+  ]
+}
