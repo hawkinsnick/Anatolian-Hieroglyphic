@@ -9,7 +9,7 @@
     "uncertainty": "Retain damage, restorations, unreadable signs and competing segmentations; do not silently normalize them."
   },
   "enumerated_record_keys": 51,
-  "evidence_fingerprint": "c84a714666da6cab32a93d7f980047417c875f19573d515bc33d43be6634c61b",
+  "evidence_fingerprint": "05aca578ea7e37e18004f2464cb5f11dfe287490d07ddebc1bc4116ec8e7a618",
   "ledger_path": "research/collection-work-ledger.json",
   "native_review_links": [
     "research/expert-review-packet.json",
@@ -25,5 +25,5 @@
   "schema_version": "1.0",
   "scientific_approval_granted": false,
   "selection": "Select record_keys from ledger; for restricted A/B records use the existing local derivative and authenticated native audit",
-  "source_lead_count": 16
+  "source_lead_count": 19
 }

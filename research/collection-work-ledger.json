@@ -2,9 +2,9 @@
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
   "config_sha256": "d2be8968b143f0aa7c616fa32b90a4cf77abbe721dce7e67837b781399cc7398",
-  "evidence_fingerprint": "c84a714666da6cab32a93d7f980047417c875f19573d515bc33d43be6634c61b",
+  "evidence_fingerprint": "05aca578ea7e37e18004f2464cb5f11dfe287490d07ddebc1bc4116ec8e7a618",
   "input_sha256": {
-    "data/sources.json": "cbc64023519f4f45c6dacc35f673f417a048f23b5201857b05d69b18306147bf",
+    "data/sources.json": "6cb2bde6c110e794adc90fe58f30ce817b33d4b37db4c90d2fef5537c48f3b37",
     "research/acquisition-queue.json": "2bf0bec1786e2013f7ecef32e6dff086b24db00d6417512bb6a93bc9378e0a61",
     "research/bibliographic-expansion.json": "572a8253c0f649c7ac687ba96a7ece9e8ee3fed8f116f5dc5490bffcb3728f24",
     "research/catalogue-register.json": "2c6ff01f9e38ddd2ed350e53d0fbdb236e6ceda79cd06e98a11c2603a231b39d",
@@ -15,10 +15,10 @@
     "research/ediana-identity-spine.json": "eb0adda427cdbd1b70d721e4358f6ae7036cb3c55d887f981349a39611dfd481",
     "research/edition-reconciliation-pilot.json": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
     "research/evidence-matrix.json": "8d979be07efae9161b83d334d90fdfb234830ed42805e6535a141a0490fa931b",
-    "research/machine-work-ledger.json": "8b98ee5bfb1999d0da92d6cd749066821bbe3fb680b4e78338351f3ea7f580eb",
+    "research/machine-work-ledger.json": "75fe01598ba68cdb4692e68a86cd40854dd377f7c44316848714976b8b7c9cd2",
     "research/monumental-discovery-register.json": "de7877e2ea0fff5bb3269549644a5fa4d112d1b06b537dd4ff482c9a168728b6",
-    "research/pre-expert-gate-summary.json": "525be24159cb0d62cf717aafbb28068a6657d193836f9af0a001869a3d4ba2ca",
-    "research/pre-expert-maximum.json": "7bc9149f13e703377949011edc82ada01ae87a0c4fbe8f8a49c013f1baab1652",
+    "research/pre-expert-gate-summary.json": "0bd74ec61f2fc0767df6091a2509a5b5f0714e3eca3b80a31529e620efe838d0",
+    "research/pre-expert-maximum.json": "d620af7eda5d6a5ba6a3d5fe6a9f5d585a6c14e28020d6d1fc16d593562dc36d",
     "research/rights-register.json": "557fcc83b2431ad40b4af9352bfcdfbac0d9a1b5bff935b517dc0278d4c5005c",
     "research/source-lineage.json": "346bf0d80f0fdfc4f62c8b5c894fcb04c7089a3c021e2c762c47caa0365f3023"
   },
@@ -1042,6 +1042,24 @@
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/3/title",
+      "kind": "title",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/3/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/4/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/records/0/title",
       "kind": "title",
       "source_path": "research/bibliographic-expansion.json"
@@ -1136,7 +1154,7 @@
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/items/0",
-      "native_status": "EDIANA_287_TEXT_ENTRY_DENOMINATOR_COMPLETE_RECONCILIATION_ACTIVE",
+      "native_status": "DIGITAL_METADATA_MILESTONE_COMPLETE_RECONCILIATION_ACTIVE",
       "native_task_id": "AH-PRE-001",
       "source_path": "research/machine-work-ledger.json",
       "task": null
@@ -1145,7 +1163,7 @@
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/items/1",
-      "native_status": "ACCESS_RIGHTS_BLOCKED",
+      "native_status": "DIGITAL_METADATA_MILESTONE_COMPLETE_RECONCILIATION_ACTIVE",
       "native_task_id": "AH-PRE-002",
       "source_path": "research/machine-work-ledger.json",
       "task": null
@@ -1163,7 +1181,7 @@
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/items/3",
-      "native_status": "PARTIAL",
+      "native_status": "DIGITAL_METADATA_MILESTONE_COMPLETE_RECONCILIATION_ACTIVE",
       "native_task_id": "AH-PRE-004",
       "source_path": "research/machine-work-ledger.json",
       "task": null
@@ -1191,36 +1209,9 @@
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/remaining_nonexpert_work/0",
       "native_status": null,
-      "native_task_id": "AH-PRE-001",
+      "native_task_id": "AH-PRE-RIGHTS",
       "source_path": "research/pre-expert-maximum.json",
-      "task": "Register Hawkins/eDiAna inscription identities, object IDs, provenance, chronology and edition locators."
-    },
-    {
-      "blocker_is_not_established_by_a_label": true,
-      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
-      "json_pointer": "/remaining_nonexpert_work/1",
-      "native_status": null,
-      "native_task_id": "AH-PRE-002",
-      "source_path": "research/pre-expert-maximum.json",
-      "task": "Register Hawkins/eDiAna identities and edition lineage."
-    },
-    {
-      "blocker_is_not_established_by_a_label": true,
-      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
-      "json_pointer": "/remaining_nonexpert_work/2",
-      "native_status": null,
-      "native_task_id": "AH-PRE-003",
-      "source_path": "research/pre-expert-maximum.json",
-      "task": "Encode authority-specific sign labels and concordances without collapsing disputed variants."
-    },
-    {
-      "blocker_is_not_established_by_a_label": true,
-      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
-      "json_pointer": "/remaining_nonexpert_work/3",
-      "native_status": null,
-      "native_task_id": "AH-PRE-004",
-      "source_path": "research/pre-expert-maximum.json",
-      "task": "Map eDiAna assertions to cited editions and distinguish digital derivation from independent witness evidence."
+      "task": "Resume systematic collation when rights-compatible Hawkins/CHLI, sign-inventory and object evidence becomes available."
     },
     {
       "blocker_is_not_established_by_a_label": true,
