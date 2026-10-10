@@ -1,0 +1,12 @@
+{
+  "name": "anatolian-hieroglyphic-research",
+  "version": "0.1.0",
+  "canonical_project": "hawkinsnick/Anatolian-Hieroglyphic",
+  "governing_file": "ai-skill/SKILL.md",
+  "authority_profile": "ai-skill/references/authority-profile.json",
+  "bundle_index": "ai-skill/generated/research-bundle-index.json",
+  "validation_status": "NOT_CERTIFIED",
+  "master_contract_0_3_1": "NOT_CERTIFIED",
+  "scientific_gate": "Evidence-first; native project classifications and exclusions remain authoritative",
+  "note": "Inventory manifest only. This does not certify compatibility with the hardened master AI skill contract, artifact hashes, or scholarly conclusions."
+}
