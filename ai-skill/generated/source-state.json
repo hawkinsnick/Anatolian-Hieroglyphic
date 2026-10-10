@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0.0",
+  "canonical_repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "source_commit": "5d96e1adddbcd5c27749c967dd643c93a5bf5655",
+  "source_tree": "5d96e1adddbcd5c27749c967dd643c93a5bf5655",
+  "source_state_kind": "baseline_reference",
+  "validation_status": "NOT_EXECUTED",
+  "master_contract_0_3_1": "NOT_CERTIFIED",
+  "note": "Baseline only; no claim of bundle freshness, input hash verification, or scientific certification."
+}
