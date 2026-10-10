@@ -1,0 +1,14 @@
+{
+  "contract_version": "0.3.1",
+  "behavioral_gates": {
+    "corpus_is_authoritative": true,
+    "missing_means_unknown": true,
+    "cross_corpus_equivalence_requires_explicit_evidence": true,
+    "preserve_uncertainty": true,
+    "preserve_source_independence": true,
+    "preserve_rights": true
+  },
+  "scientific_approval_granted": false,
+  "native_bundle": "ai-skill/generated/research-bundle-index.json",
+  "adapter": "ai-skill/generated/fleet-contract-index.json"
+}

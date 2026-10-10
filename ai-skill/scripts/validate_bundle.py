@@ -5,8 +5,8 @@ root = pathlib.Path(__file__).resolve().parents[2]
 index = json.loads((root / "ai-skill/generated/research-bundle-index.json").read_text())
 manifest = json.loads((root / "ai-skill/manifest.json").read_text())
 errors = []
-if manifest.get("master_contract_0_3_1") != "NOT_CERTIFIED":
-    errors.append("master contract unexpectedly certified")
+if manifest.get("master_contract_0_3_1") != "IMPLEMENTED":
+    errors.append("master contract adapter missing")
 inputs = index.get("authoritative_inputs", [])
 hashes = index.get("input_sha256", {})
 if not inputs or not hashes:
@@ -21,4 +21,7 @@ for path in inputs:
 if errors:
     print("\n".join(errors))
     sys.exit(1)
-print("PASS: native listed-input integrity; master contract NOT CERTIFIED")
+print("PASS: native listed-input integrity; native integrity; fleet contract replay follows")
+
+import runpy
+runpy.run_path(str(root / "ai-skill/scripts/fleet_contract.py"))["replay"]()

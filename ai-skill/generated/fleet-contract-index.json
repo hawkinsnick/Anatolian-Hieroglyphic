@@ -1,0 +1,126 @@
+{
+  "schema_version": "0.3.1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "native_bundle_schema_preserved": true,
+  "contract": {
+    "corpus_is_authoritative": true,
+    "missing_means_unknown": true,
+    "cross_corpus_equivalence_requires_explicit_evidence": true,
+    "preserve_uncertainty": true,
+    "preserve_source_independence": true,
+    "preserve_rights": true
+  },
+  "scientific_approval_granted": false,
+  "artifacts": [
+    {
+      "path": "LICENSE",
+      "sha256": "a6483079a3962d57e0174a735f70813ce644e4371869e1108114dfee6cfd5674",
+      "bytes": 582
+    },
+    {
+      "path": "LICENSE-CODE",
+      "sha256": "da0ea24fe99ee55dffa4fdcc54c2c533be08b240a37fcf093b6e5a716d5cd74a",
+      "bytes": 324
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "5edfc0fb2115359539dbe6b76bbbc429ce041c1b4a8700d5bf45573dad45ff8e",
+      "bytes": 908
+    },
+    {
+      "path": "LICENSING.md",
+      "sha256": "c08e96121a8c08e93aa828887a05f18991ea7fd3bc27a20da4ebb0ccc7fd02f6",
+      "bytes": 1581
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "1f01b9eee2ac2494d6dd1cdf20d3b7dbf49b89014f24ae4bbf083a4a2715580e",
+      "bytes": 850
+    },
+    {
+      "path": "ai-skill/SKILL.md",
+      "sha256": "33b6ee72002b9eaabc21d815b22f63a6f8f948f86d59139eec38df8dc800a730",
+      "bytes": 2584
+    },
+    {
+      "path": "ai-skill/generated/research-bundle-index.json",
+      "sha256": "9b79f64924640bade88be7742720ac4cb4f76e686fadaf5f376d1d729950f4c0",
+      "bytes": 1404
+    },
+    {
+      "path": "ai-skill/manifest.json",
+      "sha256": "5b521cc90e38bb6685ad3f386fd251d2e14191a525a474044dc74e348134c4db",
+      "bytes": 751
+    },
+    {
+      "path": "ai-skill/references/authority-profile.json",
+      "sha256": "cff72c16958c5e9c0d8480c3d508f2e631e8b4904fbb442a7f4fe87c6fd9f525",
+      "bytes": 834
+    },
+    {
+      "path": "ai-skill/references/corpus-project-contract.md",
+      "sha256": "7056ad68998c2e9da4378ea3bf09168c5fd9ebee5dbc5e63b74624e5fdc71e43",
+      "bytes": 1563
+    },
+    {
+      "path": "ai-skill/references/fleet-contract.json",
+      "sha256": "f9c398ef91b08847483c40a0a7759bb44aed7bb6214f81738b23a70117c7212c",
+      "bytes": 473
+    },
+    {
+      "path": "ai-skill/scripts/fleet_contract.py",
+      "sha256": "e0df5afe8d83a17cd72758ea7e7fb1a96307bcb76173ebe74137c39680dadf48",
+      "bytes": 3316
+    },
+    {
+      "path": "ai-skill/scripts/validate_bundle.py",
+      "sha256": "89e4d3b19a622d0c02d72c77c2a3fd0d606c0d3d85dd5638b7609e874fbca1c4",
+      "bytes": 1234
+    },
+    {
+      "path": "analysis/current-status.json",
+      "sha256": "710e36fe6e61131acd6c09ff71030e028efb0aba7de04411ede25eeb3e822322",
+      "bytes": 1278
+    },
+    {
+      "path": "data/sources.json",
+      "sha256": "6cb2bde6c110e794adc90fe58f30ce817b33d4b37db4c90d2fef5537c48f3b37",
+      "bytes": 1514
+    },
+    {
+      "path": "project.json",
+      "sha256": "b6c5dc1df23c6dd1f1235cbaba4639149c0cff5a6b2c8959e25562d31ecbe662",
+      "bytes": 425
+    },
+    {
+      "path": "research/digital-entry-dossiers.json",
+      "sha256": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf",
+      "bytes": 545735
+    },
+    {
+      "path": "research/ediana-edition-snapshot.json",
+      "sha256": "3fe7070f705a486a0c4bdc7106869a7b2d0e81f78d058e021d8d2324390bb6aa",
+      "bytes": 73676
+    },
+    {
+      "path": "research/ediana-hieroglyphic-entry-register.json",
+      "sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "bytes": 6707
+    },
+    {
+      "path": "research/ediana-list-snapshot.json",
+      "sha256": "ec9cde442e4de174cc56c1353328a52e7740b91173f2553a3260b5aa2b422a7e",
+      "bytes": 19848
+    },
+    {
+      "path": "research/monumental-link-snapshot.json",
+      "sha256": "c480ca875bb0b1d4392e5dbf11a0e0980f5d1c0fa29d352080e160efb189d364",
+      "bytes": 54831
+    },
+    {
+      "path": "research/pre-expert-maximum.json",
+      "sha256": "d620af7eda5d6a5ba6a3d5fe6a9f5d585a6c14e28020d6d1fc16d593562dc36d",
+      "bytes": 1867
+    }
+  ]
+}
