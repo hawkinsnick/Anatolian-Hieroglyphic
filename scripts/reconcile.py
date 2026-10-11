@@ -1,5 +1,5 @@
 """Offline, reproducible identity/bibliography reconciliation. No reading admission."""
-import argparse, collections, hashlib, json, pathlib, re, unicodedata
+import argparse, collections, hashlib, json, pathlib, re, unicodedata, subprocess, sys
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 INPUTS=['research/ediana-list-snapshot.json','research/ediana-edition-snapshot.json','research/monumental-link-snapshot.json','research/ediana-hieroglyphic-entry-register.json']
 def load(path): return json.loads((ROOT/path).read_text())
@@ -45,7 +45,7 @@ def construct(listing, editions, monuments, portable):
         entries.append({'id':key,'ediana_id':i,'siglum':siglum,'identity_type':'DIGITAL_TEXT_ENTRY','canonical_object_admitted':False,'physical_object_count':None,'review_status':'UNADJUDICATED_METADATA','source_url':listing['source_url']+f'?corpus=hieroglyphic&docid={i}','list_locator':f'#h_luwian_table span[docid="{i}"]','object_class':{'value':cls['object_class'] if cls else 'UNKNOWN','basis':'EXPLICIT_SIGLUM_WORDING' if cls else 'NO_SUPPORTED_ASSERTION','source_id':'EDIANA-LIST'},'period_candidates':[{'value':h['period'],'uncertain':h['period_uncertain'],'source_siglum':h['source_siglum'],'source_url':h['target_url'],'basis':'EXACT_NFC_CASE_WHITESPACE_LABEL_MATCH_ONLY','status':'SECONDARY_DISCOVERY_CANDIDATE'} for h in hits],'period_status':'CANDIDATE_MATCH' if hits else 'UNKNOWN','edition_status':'PRINCIPAL_REFERENCE_CAPTURED' if locators else 'UNKNOWN','edition_locators':locators,'group_decomposition':'UNRESOLVED','linguistic_assertions':[]})
         edges.append({'from':key,'to':'EDIANA-LIST','relation':'IDENTIFIED_BY','independent_witness':False})
     return {'schema_version':'2.0','milestone':'COMPLETE_DIGITAL_IDENTITY_AND_BIBLIOGRAPHY_SPINE','denominator':{'type':'DIGITAL_TEXT_ENTRIES','count':287,'physical_object_count':None},'entries':entries,'bibliographic_authorities':sorted(authorities.values(),key=lambda x:x['id']),'source_edges':edges}
-def outputs():
+def outputs(include_bundle=False):
     listing,editions,monuments,portable=[load(p) for p in INPUTS]
     register=construct(listing,editions,monuments,portable)
     es=register['entries']
@@ -58,12 +58,22 @@ def outputs():
         lines.append(f"| [{e['ediana_id']}]({e['source_url']}) | {esc(e['siglum'])} | {e['object_class']['value']} | {period} | {esc(edition)} |")
     lines += ['','## Next machine work','','Authority-supported object classes and dates; explicit aliases and group membership; direct CHLI I/III edition checks. Principal references do not establish current-edition completeness. Expert gates cover disputed readings, sign identity and linguistic interpretation.','']
     bundle={'schema_version':'2.0','project':'Anatolian-Hieroglyphic','version':'2.0.0','milestone':register['milestone'],'authoritative_inputs':INPUTS+['research/digital-entry-dossiers.json','analysis/current-status.json'],'input_sha256':summary['input_sha256'],'register_sha256':summary['register_sha256'],'guardrails':['287 digital entries are not 287 physical objects.','Bibliographic citation is not direct edition collation.','Discovery period candidates are not adjudicated datings.','Unknown object class is not monumental.','Derivative sources are not independent witnesses.','No new reading or linguistic interpretation admitted.']}
-    return {'research/digital-entry-dossiers.json':encode(register),'analysis/current-status.json':encode(summary),'docs/DIGITAL-ENTRY-DOSSIERS.md':'\n'.join(lines),'ai-skill/generated/research-bundle-index.json':encode(bundle)}
+    result={'research/digital-entry-dossiers.json':encode(register),'analysis/current-status.json':encode(summary),'docs/DIGITAL-ENTRY-DOSSIERS.md':'\n'.join(lines)}
+    if include_bundle: result['ai-skill/generated/research-bundle-index.json']=encode(bundle)
+    return result
+def validate_native_bundle(index):
+    expected=json.loads(outputs(True)['ai-skill/generated/research-bundle-index.json'])
+    for key,value in expected.items():
+        if key=='authoritative_inputs': need(set(value)<=set(index.get(key,[])),'native input removed')
+        elif key=='input_sha256': need(all(index.get(key,{}).get(p)==h for p,h in value.items()),'native input hash drift')
+        else: need(index.get(key)==value,'native bundle field drift: '+key)
 def main():
     p=argparse.ArgumentParser();p.add_argument('--write',action='store_true');args=p.parse_args()
     for name,content in outputs().items():
         path=ROOT/name
         if args.write: path.parent.mkdir(parents=True,exist_ok=True);path.write_text(content)
         else: need(path.exists() and path.read_text()==content,'stale derived artifact: '+name)
+    if args.write: subprocess.run([sys.executable,str(ROOT/'ai-skill/scripts/build_bundle.py')],check=True)
+    validate_native_bundle(load('ai-skill/generated/research-bundle-index.json'))
     print('identity/bibliography reconciliation valid')
 if __name__=='__main__':main()
