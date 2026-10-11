@@ -44,8 +44,8 @@
     {
       "path": "ai-skill/scripts/build_bundle.py",
       "role": "native_authority",
-      "sha256": "506258212d294ab6fda8a941abda01c3bf4e5a2fe8fb975ab49e42aee1b90320",
-      "bytes": 2222
+      "sha256": "b14bafc9187aaa283794afbb4126c9b7eda7463980b89e11852039351611f850",
+      "bytes": 2377
     },
     {
       "path": "ai-skill/scripts/publish_sync.py",
@@ -126,5 +126,5 @@
       "bytes": 1867
     }
   ],
-  "source_commit": "ac46c780eace41be869d39a8fc5a4a004e6ac505"
+  "source_commit": "2f5d04fca7544f3b5e01520ee129c2d7d5cab02f"
 }

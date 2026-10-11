@@ -44,7 +44,7 @@
     },
     {
       "path": "ai-skill/generated/research-bundle-index.json",
-      "sha256": "9ddb83103fdea45add71155d3da1df1d031a35d9bdda3d2b10146d7815e014f5",
+      "sha256": "bd8d872060ab1786c4b05fb667266bd41470a6694c1a7b4b2b4371a97f1dff32",
       "bytes": 4910
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "path": "ai-skill/scripts/build_bundle.py",
-      "sha256": "506258212d294ab6fda8a941abda01c3bf4e5a2fe8fb975ab49e42aee1b90320",
-      "bytes": 2222
+      "sha256": "b14bafc9187aaa283794afbb4126c9b7eda7463980b89e11852039351611f850",
+      "bytes": 2377
     },
     {
       "path": "ai-skill/scripts/fleet_contract.py",
