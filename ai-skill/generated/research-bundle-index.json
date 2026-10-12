@@ -15,7 +15,9 @@
     "research/ediana-list-snapshot.json": "ec9cde442e4de174cc56c1353328a52e7740b91173f2553a3260b5aa2b422a7e",
     "research/ediana-edition-snapshot.json": "3fe7070f705a486a0c4bdc7106869a7b2d0e81f78d058e021d8d2324390bb6aa",
     "research/monumental-link-snapshot.json": "c480ca875bb0b1d4392e5dbf11a0e0980f5d1c0fa29d352080e160efb189d364",
-    "research/ediana-hieroglyphic-entry-register.json": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464"
+    "research/ediana-hieroglyphic-entry-register.json": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+    "research/digital-entry-dossiers.json": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf",
+    "analysis/current-status.json": "710e36fe6e61131acd6c09ff71030e028efb0aba7de04411ede25eeb3e822322"
   },
   "register_sha256": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf",
   "guardrails": [
@@ -25,5 +27,104 @@
     "Unknown object class is not monumental.",
     "Derivative sources are not independent witnesses.",
     "No new reading or linguistic interpretation admitted."
-  ]
+  ],
+  "artifacts": [
+    {
+      "path": "ai-skill/SKILL.md",
+      "role": "native_authority",
+      "sha256": "cc92ea7460597833a343957c11e3282f7d95b329d30ca85a7f4bb993c83779f5",
+      "bytes": 3565
+    },
+    {
+      "path": "ai-skill/references/authority-profile.json",
+      "role": "native_authority",
+      "sha256": "ce092b685cf402544ce50f13601abd0014858c52c8f8d4f806979c2133bd3337",
+      "bytes": 1206
+    },
+    {
+      "path": "ai-skill/scripts/build_bundle.py",
+      "role": "native_authority",
+      "sha256": "b14bafc9187aaa283794afbb4126c9b7eda7463980b89e11852039351611f850",
+      "bytes": 2377
+    },
+    {
+      "path": "ai-skill/scripts/publish_sync.py",
+      "role": "native_authority",
+      "sha256": "d8eba15aaa833fc4071e98bdd22da53385bce1c5cbafc973443cb42f7e39cc0e",
+      "bytes": 2836
+    },
+    {
+      "path": "ai-skill/scripts/validate_bundle.py",
+      "role": "native_authority",
+      "sha256": "3092ea486d0b8ce0d54f7c11ebc0a0e799b96ef7b347c7c5a994aa0431d1a823",
+      "bytes": 1544
+    },
+    {
+      "path": "analysis/current-status.json",
+      "role": "native_authority",
+      "sha256": "710e36fe6e61131acd6c09ff71030e028efb0aba7de04411ede25eeb3e822322",
+      "bytes": 1278
+    },
+    {
+      "path": "data/sources.json",
+      "role": "native_authority",
+      "sha256": "6cb2bde6c110e794adc90fe58f30ce817b33d4b37db4c90d2fef5537c48f3b37",
+      "bytes": 1514
+    },
+    {
+      "path": "docs/AI-INTEGRITY.md",
+      "role": "native_authority",
+      "sha256": "8619d2ac88ca104eb10570b6c5c83021da5e5cdb57a7af1de076131d185207b0",
+      "bytes": 1766
+    },
+    {
+      "path": "project.json",
+      "role": "native_authority",
+      "sha256": "b6c5dc1df23c6dd1f1235cbaba4639149c0cff5a6b2c8959e25562d31ecbe662",
+      "bytes": 425
+    },
+    {
+      "path": "research/cross-corpus-dependencies.json",
+      "role": "native_authority",
+      "sha256": "96d8163fe5ea1b3e204a46b53f6e1457c65eb41277a33b544f9528dacf142512",
+      "bytes": 463
+    },
+    {
+      "path": "research/digital-entry-dossiers.json",
+      "role": "native_authority",
+      "sha256": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf",
+      "bytes": 545735
+    },
+    {
+      "path": "research/ediana-edition-snapshot.json",
+      "role": "native_authority",
+      "sha256": "3fe7070f705a486a0c4bdc7106869a7b2d0e81f78d058e021d8d2324390bb6aa",
+      "bytes": 73676
+    },
+    {
+      "path": "research/ediana-hieroglyphic-entry-register.json",
+      "role": "native_authority",
+      "sha256": "dbf8796677c566e302e6d36c9055de8b77b76888d66573ae06958a8e5bfa3464",
+      "bytes": 6707
+    },
+    {
+      "path": "research/ediana-list-snapshot.json",
+      "role": "native_authority",
+      "sha256": "ec9cde442e4de174cc56c1353328a52e7740b91173f2553a3260b5aa2b422a7e",
+      "bytes": 19848
+    },
+    {
+      "path": "research/monumental-link-snapshot.json",
+      "role": "native_authority",
+      "sha256": "c480ca875bb0b1d4392e5dbf11a0e0980f5d1c0fa29d352080e160efb189d364",
+      "bytes": 54831
+    },
+    {
+      "path": "research/pre-expert-maximum.json",
+      "role": "native_authority",
+      "sha256": "d620af7eda5d6a5ba6a3d5fe6a9f5d585a6c14e28020d6d1fc16d593562dc36d",
+      "bytes": 1867
+    }
+  ],
+  "source_commit": "2f5d04fca7544f3b5e01520ee129c2d7d5cab02f"
 }

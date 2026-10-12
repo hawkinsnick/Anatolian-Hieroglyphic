@@ -31,3 +31,11 @@ def test_no_reference_is_not_a_bibliographic_edition():
 def test_no_source_orphans():
  r=m.construct(*inputs());targets={a["id"] for a in r["bibliographic_authorities"]}|{s["id"] for s in m.load("data/sources.json")["sources"]}
  assert all(e["to"] in targets for e in r["source_edges"])
+
+
+def test_native_bundle_fields_preserved():
+ import json,copy,pytest
+ index=json.loads((ROOT/"ai-skill/generated/research-bundle-index.json").read_text())
+ m.validate_native_bundle(index)
+ hostile=copy.deepcopy(index);hostile["register_sha256"]="0"*64
+ with pytest.raises(ValueError,match="native bundle field drift"):m.validate_native_bundle(hostile)

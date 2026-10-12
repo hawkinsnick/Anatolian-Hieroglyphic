@@ -25,3 +25,8 @@ print("PASS: native listed-input integrity; native integrity; fleet contract rep
 
 import runpy
 runpy.run_path(str(root / "ai-skill/scripts/fleet_contract.py"))["replay"]()
+
+# Native dependency policies are checked as part of every AI bundle validation.
+import pathlib as _guard_pathlib, runpy as _guard_runpy
+_guard_root=_guard_pathlib.Path(__file__).resolve().parents[2]
+_guard_runpy.run_path(str(_guard_root/'scripts/check_cross_corpus_dependencies.py'))['validate'](_guard_root)

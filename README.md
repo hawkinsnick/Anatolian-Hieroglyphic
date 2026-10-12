@@ -31,3 +31,7 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 Anatolian Hieroglyphic has reached the machine-resolvable method-parity baseline for its current lawful identity/bibliography layer: 287 digital entries, explicit source dependence, disagreement/rights controls, browser/API/exports, validation and expert boundaries. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json`. Do not convert digital entries into physical-object counts, treat eDiAna/Hawkins as independent witnesses, or reconstruct protected CHLI readings/sign apparatus from derivative sources. Further material critical-corpus growth is rights/access bound.
 
 Fleet research-contract implementation and replay: [admission guide](docs/FLEET-ADMISSION.md).
+
+## AI integrity checkpoint — 2026-10-11
+
+[AI integrity controls](docs/AI-INTEGRITY.md) document source-bound bundle publication and checked cross-corpus dependency safeguards. Reading coverage and scholarly acceptance are unchanged.
