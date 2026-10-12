@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import argparse,json,pathlib
-R=pathlib.Path(__file__).resolve().parents[1];FILES={"entries":"research/ediana-hieroglyphic-entry-register.json","editions":"research/ediana-edition-snapshot.json","lineage":"research/source-lineage.json","disagreements":"research/disagreement-register.json","rights":"research/rights-source-matrix.json"}
+R=pathlib.Path(__file__).resolve().parents[1];FILES={"entries":"research/digital-entry-dossiers.json","editions":"research/ediana-edition-snapshot.json","lineage":"research/source-lineage.json","disagreements":"research/disagreement-register.json","rights":"research/rights-source-matrix.json"}
 def rows(k):
  v=json.loads((R/FILES[k]).read_text())
  if isinstance(v,list):return v

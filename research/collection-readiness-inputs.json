@@ -7,19 +7,10 @@
   "record_sets": [
     {
       "id_key": "id",
-      "name": "observed-ediana-IDs",
-      "path": "research/ediana-identity-spine.json",
-      "pointer": "/observed_stable_ids",
-      "unit": "observed_digital_identity"
-    },
-    {
-      "count_path": "research/ediana-hieroglyphic-entry-register.json",
-      "count_pointer": "/public_list/entry_count",
-      "id_key": "ediana_id",
-      "name": "portable-entry-subset",
-      "path": "research/ediana-hieroglyphic-entry-register.json",
-      "pointer": "/explicit_nonmonumental_or_portable_entries",
-      "unit": "classified_digital_entry"
+      "name": "ediana-digital-entry-dossiers",
+      "path": "research/digital-entry-dossiers.json",
+      "pointer": "/entries",
+      "unit": "digital_text_entry_dossier"
     }
   ],
   "repository": "hawkinsnick/Anatolian-Hieroglyphic",
@@ -27,23 +18,29 @@
   "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique objects. Discovery outside these views remains open.",
   "source_discovery_rule": "Declare new native source/task registers here so offline replay and the collection report include them.",
   "source_files": [
+    "analysis/current-status.json",
     "data/sources.json",
+    "docs/AI-INTEGRITY.md",
+    "docs/COVERAGE-EXPANSION-2026-10-12.md",
+    "docs/DIGITAL-ENTRY-DOSSIERS.md",
     "research/acquisition-queue.json",
     "research/bibliographic-expansion.json",
     "research/catalogue-register.json",
     "research/chli-iii-structure.json",
     "research/chli-volume-crosswalk.json",
     "research/coverage-class-register.json",
+    "research/cross-corpus-dependencies.json",
+    "research/ediana-edition-snapshot.json",
     "research/ediana-hieroglyphic-entry-register.json",
+    "research/ediana-list-snapshot.json",
     "research/edition-reconciliation-pilot.json",
     "research/evidence-matrix.json",
     "research/machine-work-ledger.json",
     "research/monumental-discovery-register.json",
+    "research/monumental-link-snapshot.json",
     "research/pre-expert-gate-summary.json",
     "research/pre-expert-maximum.json",
     "research/rights-register.json",
-    "research/source-lineage.json",
-    "research/cross-corpus-dependencies.json",
-    "docs/AI-INTEGRITY.md"
+    "research/source-lineage.json"
   ]
 }

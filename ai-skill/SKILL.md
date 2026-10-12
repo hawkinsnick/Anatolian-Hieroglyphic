@@ -23,3 +23,8 @@ Follow `ai-skill/references/corpus-project-contract.md`. Read `ai-skill/generate
 ## Enforced assertion, dependency and bundle integrity
 
 Read `docs/AI-INTEGRITY.md` and the required `research/cross-corpus-dependencies.json` before source counts or cross-corpus analysis. Use qualified assertion views when provided; original source literals must travel with their reconciliation, uncertainty and identity context. The dependency register does not certify physical identity or linguistic affinity. Shared catalogue references and duplicated digital sources are not independent witnesses. Missing links mean unknown, not independent. `scripts/check_cross_corpus_dependencies.py` screens declared record selections and rejects pooled physical/witness counts and phonetic transfer. Native AI bundle validation checks the dependency projection and local evidence hashes. Bundle publication validates the exact source parent and never rebases or force-pushes the validated artifact. Software and packaging checks do not establish expert or model-behavior acceptance.
+
+## Expanded evidence access
+
+Use the full 287-row digital-entry dossier view for combined queries and API/export access. Treat prior observed-ID and portable-subset registers as overlapping context. Preserve unknown classes, period candidates, source notices and unverified edition locators; do not infer physical object identity or reading completeness.
+Read `docs/COVERAGE-EXPANSION-2026-10-12.md` for acquisition, scope and rights boundaries.
