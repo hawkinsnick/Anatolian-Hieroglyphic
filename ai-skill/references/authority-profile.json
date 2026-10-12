@@ -40,11 +40,37 @@
       "role": "ai_integrity_guide",
       "path": "docs/AI-INTEGRITY.md",
       "required": true
+    },
+    {
+      "path": "research/ediana-list-snapshot.json",
+      "required": true,
+      "role": "coverage_expansion"
+    },
+    {
+      "path": "research/ediana-edition-snapshot.json",
+      "required": true,
+      "role": "coverage_expansion"
+    },
+    {
+      "path": "research/monumental-link-snapshot.json",
+      "required": true,
+      "role": "coverage_expansion"
+    },
+    {
+      "path": "docs/DIGITAL-ENTRY-DOSSIERS.md",
+      "required": true,
+      "role": "coverage_expansion"
+    },
+    {
+      "path": "docs/COVERAGE-EXPANSION-2026-10-12.md",
+      "required": true,
+      "role": "coverage_expansion"
     }
   ],
   "behavioral_gates": [
     "No decipherment from graphic similarity.",
     "No independent-witness claim from a digital derivative of an edition.",
-    "Preserve Empire/Post-Empire and authority-specific distinctions."
+    "Preserve Empire/Post-Empire and authority-specific distinctions.",
+    "Do not pool expansion catalogue identifiers, overlapping dossier views, casts or fragments as unique ancient objects; direct edition collation and linguistic admission remain separate."
   ]
 }

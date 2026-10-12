@@ -35,3 +35,9 @@ Fleet research-contract implementation and replay: [admission guide](docs/FLEET-
 ## AI integrity checkpoint — 2026-10-11
 
 [AI integrity controls](docs/AI-INTEGRITY.md) document source-bound bundle publication and checked cross-corpus dependency safeguards. Reading coverage and scholarly acceptance are unchanged.
+
+## Coverage expansion — 2026-10-12
+
+Use the full 287-row digital-entry dossier view for combined queries and API/export access. Treat prior observed-ID and portable-subset registers as overlapping context. Preserve unknown classes, period candidates, source notices and unverified edition locators; do not infer physical object identity or reading completeness.
+
+See [docs/COVERAGE-EXPANSION-2026-10-12.md](docs/COVERAGE-EXPANSION-2026-10-12.md).
