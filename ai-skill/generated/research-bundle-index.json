@@ -32,14 +32,14 @@
     {
       "path": "ai-skill/SKILL.md",
       "role": "native_authority",
-      "sha256": "cc92ea7460597833a343957c11e3282f7d95b329d30ca85a7f4bb993c83779f5",
-      "bytes": 3565
+      "sha256": "8ae8d76bf909c49c5a00b63288c99ebe0ccd6413fa6760fa72a26696784ee917",
+      "bytes": 4012
     },
     {
       "path": "ai-skill/references/authority-profile.json",
       "role": "native_authority",
-      "sha256": "ce092b685cf402544ce50f13601abd0014858c52c8f8d4f806979c2133bd3337",
-      "bytes": 1206
+      "sha256": "a5d598bfbd8e235d399649d85ae333a6f9a97d9d30aeeebd5747d96bb7f4535a",
+      "bytes": 2024
     },
     {
       "path": "ai-skill/scripts/build_bundle.py",
@@ -76,6 +76,18 @@
       "role": "native_authority",
       "sha256": "8619d2ac88ca104eb10570b6c5c83021da5e5cdb57a7af1de076131d185207b0",
       "bytes": 1766
+    },
+    {
+      "path": "docs/COVERAGE-EXPANSION-2026-10-12.md",
+      "role": "native_authority",
+      "sha256": "2fbd928ce8ba7c0f276a537800d1e620a44a2e7367b7fc2cfc8c05d8699fc0b3",
+      "bytes": 1611
+    },
+    {
+      "path": "docs/DIGITAL-ENTRY-DOSSIERS.md",
+      "role": "native_authority",
+      "sha256": "387a40ed51e7f423e164ae58e9f522a4e9228b7dcfe7b13462bdf77aa7ba59f3",
+      "bytes": 46152
     },
     {
       "path": "project.json",
@@ -126,5 +138,5 @@
       "bytes": 1867
     }
   ],
-  "source_commit": "a5fdc41cfddb478ff8957c524ccecfa2288f8548"
+  "source_commit": "9824536881c4ce43c34c0f03079fe20a5aa57da9"
 }
