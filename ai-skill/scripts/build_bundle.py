@@ -8,6 +8,7 @@ index.update(json.loads(native['ai-skill/generated/research-bundle-index.json'])
 paths=set(index.get('authoritative_inputs',[]))|set(index.get('files',[]))|{a['path'] for a in index.get('artifacts',[])}|{a['path'] for a in profile['required_authorities'] if a.get('required',True)}
 paths|={'ai-skill/SKILL.md','ai-skill/references/authority-profile.json','ai-skill/scripts/build_bundle.py','ai-skill/scripts/validate_bundle.py'}
 paths|={'scripts/test_native_evidence_query.py', 'scripts/evidence_query.py', 'analysis/evidence-query-coverage.json', 'research/evidence-query-profile.json', 'docs/EVIDENCE-AND-ALTERNATIVES.md'}
+paths|={'analysis/attribution-review-audit.json', 'research/attribution-review.json', 'scripts/attribution_review.py', 'scripts/test_attribution_review.py', 'docs/ATTRIBUTION-REVIEW.md'}
 if any(p.startswith('ai-skill/generated/') for p in paths):raise ValueError('native source inputs cannot include generated bundle cycles')
 old={a['path']:a for a in index.get('artifacts',[])};artifacts=[]
 for p in sorted(paths):
