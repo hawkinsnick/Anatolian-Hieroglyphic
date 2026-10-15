@@ -1,0 +1,137 @@
+{
+  "format": "corpus-native-evidence-query-coverage-v1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "profile_sha256": "35271577950a95e85e5f06cd9d58fea530f506d9daa6bba12681ef755dd3e5a1",
+  "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+  "collections": [
+    {
+      "name": "digital-entry-dossiers",
+      "native_unit": "digital text-entry dossier",
+      "record_count": 287,
+      "scope": "Bibliographic locators and discovery candidates are not critical readings.",
+      "example_ids": [
+        "EDIANA-HL-000",
+        "EDIANA-HL-001",
+        "EDIANA-HL-002"
+      ],
+      "provenance": {
+        "path": "research/digital-entry-dossiers.json",
+        "sha256": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf",
+        "pointer": "/entries",
+        "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+        "role": "digital-entry-dossiers",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "edition-metadata-pilot",
+      "native_unit": "edition metadata pilot entry",
+      "record_count": 7,
+      "scope": "No inferred join to other ID systems.",
+      "example_ids": [
+        "KOCAOĞUZ",
+        "KARKAMIŠ A11a",
+        "KARKAMIŠ A11b+c"
+      ],
+      "provenance": {
+        "path": "research/edition-reconciliation-pilot.json",
+        "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+        "role": "edition-metadata-pilot",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "disagreement-register",
+      "native_unit": "research disagreement/control item",
+      "record_count": 4,
+      "scope": "Period conflict and unknown assignments retain source scope.",
+      "example_ids": [
+        "AH-DIS-001",
+        "AH-DIS-002",
+        "AH-DIS-003"
+      ],
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "5a0d5b8ca7cfdd146eabbfac02e7e1cfbfdff8b2dfcbeeda1374fd00c78cde08",
+        "pointer": "/items",
+        "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    }
+  ],
+  "context_resources": [
+    {
+      "path": "research/digital-entry-dossiers.json",
+      "sha256": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+      "role": "digital-entry-dossiers",
+      "encoding": "json"
+    },
+    {
+      "path": "research/edition-reconciliation-pilot.json",
+      "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+      "role": "edition-metadata-pilot",
+      "encoding": "json"
+    },
+    {
+      "path": "research/disagreement-register.json",
+      "sha256": "5a0d5b8ca7cfdd146eabbfac02e7e1cfbfdff8b2dfcbeeda1374fd00c78cde08",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+      "role": "disagreement-register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/source-lineage.json",
+      "sha256": "346bf0d80f0fdfc4f62c8b5c894fcb04c7089a3c021e2c762c47caa0365f3023",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/rights-source-matrix.json",
+      "sha256": "22ab0c875e806ba332c9da5e7ed67b0aff0e74638e972e93a7ddbfb465c675f8",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "data/sources.json",
+      "sha256": "6cb2bde6c110e794adc90fe58f30ce817b33d4b37db4c90d2fef5537c48f3b37",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "5edfc0fb2115359539dbe6b76bbbc429ce041c1b4a8700d5bf45573dad45ff8e",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "text"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "1f01b9eee2ac2494d6dd1cdf20d3b7dbf49b89014f24ae4bbf083a4a2715580e",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "text"
+    }
+  ],
+  "scholarly_limits": [
+    "Bibliographic citations marked direct_edition_checked=false remain uninspected leads. Secondary label matching does not certify chronology or physical object identity."
+  ],
+  "alternative_pair_count": null,
+  "independent_witness_count": null,
+  "boundary": "These are views of existing source records, not new witnesses or adjudications. Counts retain their declared native units and must not be summed as unique objects. Registers may contain project hypotheses or untraced alternatives. Only explicitly attributed, aligned readings can support an editorial comparison; no alternative-pair or independent-witness count is inferred by this tool."
+}

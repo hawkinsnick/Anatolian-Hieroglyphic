@@ -41,3 +41,7 @@ Fleet research-contract implementation and replay: [admission guide](docs/FLEET-
 Use the full 287-row digital-entry dossier view for combined queries and API/export access. Treat prior observed-ID and portable-subset registers as overlapping context. Preserve unknown classes, period candidates, source notices and unverified edition locators; do not infer physical object identity or reading completeness.
 
 See [docs/COVERAGE-EXPANSION-2026-10-12.md](docs/COVERAGE-EXPANSION-2026-10-12.md).
+
+## Evidence and alternative-reading queries
+
+[Query source evidence and unresolved alternatives](docs/EVIDENCE-AND-ALTERNATIVES.md) using exact native IDs, full source records, pinned artifact locators and explicit corpus-specific scope. [Coverage by native view](analysis/evidence-query-coverage.json) keeps catalogue entries, reading versions, assertions and research issues distinct. This interface adds no source collation, canonical reading or expert acceptance.
