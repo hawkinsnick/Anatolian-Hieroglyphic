@@ -1,0 +1,85 @@
+{
+  "format": "corpus-native-evidence-query-v1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "collections": [
+    {
+      "name": "digital-entry-dossiers",
+      "path": "research/digital-entry-dossiers.json",
+      "pointer": "/entries",
+      "id_pointer": "/id",
+      "unit": "digital text-entry dossier",
+      "scope": "Bibliographic locators and discovery candidates are not critical readings."
+    },
+    {
+      "name": "edition-metadata-pilot",
+      "path": "research/edition-reconciliation-pilot.json",
+      "pointer": "/records",
+      "id_pointer": "/id",
+      "unit": "edition metadata pilot entry",
+      "scope": "No inferred join to other ID systems."
+    },
+    {
+      "name": "disagreement-register",
+      "path": "research/disagreement-register.json",
+      "pointer": "/items",
+      "id_pointer": "/id",
+      "unit": "research disagreement/control item",
+      "scope": "Period conflict and unknown assignments retain source scope."
+    }
+  ],
+  "relations": [],
+  "artifacts": [
+    {
+      "path": "research/digital-entry-dossiers.json",
+      "sha256": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf",
+      "encoding": "json",
+      "role": "digital-entry-dossiers"
+    },
+    {
+      "path": "research/edition-reconciliation-pilot.json",
+      "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+      "encoding": "json",
+      "role": "edition-metadata-pilot"
+    },
+    {
+      "path": "research/disagreement-register.json",
+      "sha256": "5a0d5b8ca7cfdd146eabbfac02e7e1cfbfdff8b2dfcbeeda1374fd00c78cde08",
+      "encoding": "json",
+      "role": "disagreement-register"
+    },
+    {
+      "path": "research/source-lineage.json",
+      "sha256": "346bf0d80f0fdfc4f62c8b5c894fcb04c7089a3c021e2c762c47caa0365f3023",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "research/rights-source-matrix.json",
+      "sha256": "22ab0c875e806ba332c9da5e7ed67b0aff0e74638e972e93a7ddbfb465c675f8",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "data/sources.json",
+      "sha256": "6cb2bde6c110e794adc90fe58f30ce817b33d4b37db4c90d2fef5537c48f3b37",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "5edfc0fb2115359539dbe6b76bbbc429ce041c1b4a8700d5bf45573dad45ff8e",
+      "encoding": "text",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "1f01b9eee2ac2494d6dd1cdf20d3b7dbf49b89014f24ae4bbf083a4a2715580e",
+      "encoding": "text",
+      "role": "corpus-level source/rights/context register"
+    }
+  ],
+  "scholarly_limits": [
+    "Bibliographic citations marked direct_edition_checked=false remain uninspected leads. Secondary label matching does not certify chronology or physical object identity."
+  ],
+  "native_artifacts_snapshot_commit": "277321ab9a45ad67e810eaba03df8545b90584d2"
+}
