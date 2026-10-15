@@ -39,13 +39,13 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "8ae8d76bf909c49c5a00b63288c99ebe0ccd6413fa6760fa72a26696784ee917",
-      "bytes": 4012
+      "sha256": "ff8901777f23e42af593c884e3c19e9010be4af7d84a8eaa1978e49344aff937",
+      "bytes": 5158
     },
     {
       "path": "ai-skill/generated/research-bundle-index.json",
-      "sha256": "fb66b04857c9d9c551dd66a3575c4f4e7d926790eabacdf2c9c2bdc221ab5813",
-      "bytes": 5316
+      "sha256": "37243fbb3fff11af72dd06eb2757cc4ffaa5e57e65a5e547df3e0a60c183bbcf",
+      "bytes": 6330
     },
     {
       "path": "ai-skill/manifest.json",
@@ -69,8 +69,8 @@
     },
     {
       "path": "ai-skill/scripts/build_bundle.py",
-      "sha256": "b14bafc9187aaa283794afbb4126c9b7eda7463980b89e11852039351611f850",
-      "bytes": 2377
+      "sha256": "d62be74a10e773aba42e069ed604a93b4a97d80fbf89049ba08b12f0170bfb70",
+      "bytes": 2573
     },
     {
       "path": "ai-skill/scripts/fleet_contract.py",
@@ -93,6 +93,11 @@
       "bytes": 1278
     },
     {
+      "path": "analysis/evidence-query-coverage.json",
+      "sha256": "ae6f55b2ccc85b9515b70d86fcb24b61564fb95b6912a398b85af93183366516",
+      "bytes": 5660
+    },
+    {
       "path": "data/sources.json",
       "sha256": "6cb2bde6c110e794adc90fe58f30ce817b33d4b37db4c90d2fef5537c48f3b37",
       "bytes": 1514
@@ -111,6 +116,11 @@
       "path": "docs/DIGITAL-ENTRY-DOSSIERS.md",
       "sha256": "387a40ed51e7f423e164ae58e9f522a4e9228b7dcfe7b13462bdf77aa7ba59f3",
       "bytes": 46152
+    },
+    {
+      "path": "docs/EVIDENCE-AND-ALTERNATIVES.md",
+      "sha256": "6df92e2b4053bcb7255506ce7c3fe5aaf841a65ac28c4f8038d7de288688f863",
+      "bytes": 3956
     },
     {
       "path": "project.json",
@@ -143,6 +153,11 @@
       "bytes": 19848
     },
     {
+      "path": "research/evidence-query-profile.json",
+      "sha256": "35271577950a95e85e5f06cd9d58fea530f506d9daa6bba12681ef755dd3e5a1",
+      "bytes": 3070
+    },
+    {
       "path": "research/monumental-link-snapshot.json",
       "sha256": "c480ca875bb0b1d4392e5dbf11a0e0980f5d1c0fa29d352080e160efb189d364",
       "bytes": 54831
@@ -151,6 +166,16 @@
       "path": "research/pre-expert-maximum.json",
       "sha256": "d620af7eda5d6a5ba6a3d5fe6a9f5d585a6c14e28020d6d1fc16d593562dc36d",
       "bytes": 1867
+    },
+    {
+      "path": "scripts/evidence_query.py",
+      "sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+      "bytes": 11289
+    },
+    {
+      "path": "scripts/test_native_evidence_query.py",
+      "sha256": "ddd2af2ce39904014c8a58122278e524e7ae9d504c47218e26f1ba581bb581f4",
+      "bytes": 6771
     }
   ]
 }
