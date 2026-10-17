@@ -1,0 +1,21 @@
+{
+  "format": "specialist-source-study-audit-v1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "study_id": "HL-URBS-CITY-20261017",
+  "study_sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
+  "code_sha256": "2174833f4857bc0916afe1137134cc530e737b5700e8dfb5e93f395446311935",
+  "source_count": 1,
+  "claim_count": 2,
+  "result_status": "FOUR_ATTRIBUTED_SOURCE_ASSERTIONS_ADMITTED_PROPOSED_ANALYSIS_NOT_ACCEPTED",
+  "packet_status": "PREPARED_NOT_REVIEWED",
+  "reviewer": null,
+  "expert_acceptance_added": false,
+  "inputs": [
+    {
+      "path": "research/rights-source-matrix.json",
+      "sha256": "22ab0c875e806ba332c9da5e7ed67b0aff0e74638e972e93a7ddbfb465c675f8",
+      "role": "existing component boundaries"
+    }
+  ],
+  "source_replay_required_for_primary_verification": true
+}

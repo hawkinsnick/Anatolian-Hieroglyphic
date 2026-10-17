@@ -85,12 +85,48 @@
       "path": "analysis/task-pilot-example.json",
       "role": "specialist_task_pilot",
       "required": true
+    },
+    {
+      "path": "research/source-study-2026-10-17.json",
+      "role": "bounded_source_study",
+      "required": true
+    },
+    {
+      "path": "scripts/source_study.py",
+      "role": "bounded_source_study",
+      "required": true
+    },
+    {
+      "path": "scripts/test_source_study.py",
+      "role": "bounded_source_study",
+      "required": true
+    },
+    {
+      "path": "docs/SOURCE-STUDY-2026-10-17.md",
+      "role": "bounded_source_study",
+      "required": true
+    },
+    {
+      "path": "review/source-study-packet.json",
+      "role": "bounded_source_study",
+      "required": true
+    },
+    {
+      "path": "review/source-study-response.json",
+      "role": "bounded_source_study",
+      "required": true
+    },
+    {
+      "path": "analysis/source-study-audit.json",
+      "role": "bounded_source_study",
+      "required": true
     }
   ],
   "behavioral_gates": [
     "No decipherment from graphic similarity.",
     "No independent-witness claim from a digital derivative of an edition.",
     "Preserve Empire/Post-Empire and authority-specific distinctions.",
-    "Do not pool expansion catalogue identifiers, overlapping dossier views, casts or fragments as unique ancient objects; direct edition collation and linguistic admission remain separate."
+    "Do not pool expansion catalogue identifiers, overlapping dossier views, casts or fragments as unique ancient objects; direct edition collation and linguistic admission remain separate.",
+    "Source-study author assertions and prepared review packets are not canonical readings, independent witnesses, delivered linguistic annotations or expert acceptance."
   ]
 }

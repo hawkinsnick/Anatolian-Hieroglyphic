@@ -57,3 +57,8 @@ redistribution rights. Label any model-generated analysis separately and cite it
 ## Specialist task pilot
 
 Read `docs/RESEARCH-TASK-PILOT.md` and `analysis/task-pilot-example.json` for the seven-case edition-metadata trace. The sign-reading study is not executed: these records supply reported edition routes, not admitted sign occurrences. Preserve KOCAOĞUZ's disputed period and every native qualification. Do not join the seven cases to the 287 digital-entry dossiers by label similarity, certify physical identity, infer a reading, or treat a reported CHLI locator as directly consulted. Require source admission, rights, attributed reading-level evidence and exact loci before comparing signs or words. No named scholar participation, endorsement or independent review is established by the pilot.
+
+
+## Source study and review handoff (2026-10-17)
+
+Route source-study questions through `docs/SOURCE-STUDY-2026-10-17.md`, `research/source-study-2026-10-17.json` and the native evidence-query `source-study` collection. Preserve source attribution, exact locators, reuse terms and uncertainty. The prepared `review/source-study-packet.json` and draft response do not establish specialist participation or acceptance. No canonical readings or calibration results are added by this study.

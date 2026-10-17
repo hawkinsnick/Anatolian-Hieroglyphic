@@ -20,3 +20,8 @@ reading, expert acceptance or redistribution permission is added by this change.
 ## 2026-10-16 — bounded specialist research-task pilot
 
 Added a source-bound executed pilot, researcher walkthrough, reproducibility and adversarial controls. Source records, rights, calibration and expert-acceptance states remain unchanged. Individual and master AI instructions route to the actual admitted evidence.
+
+
+## 2026-10-17 — bounded source study
+
+Added attributed source-study records, reproducible native evidence bindings and unfilled specialist review packets. See [the scope, results and remaining gates](docs/SOURCE-STUDY-2026-10-17.md). No canonical reading or expert acceptance added.

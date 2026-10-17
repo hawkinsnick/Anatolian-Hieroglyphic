@@ -41,3 +41,6 @@ Expected: documentary routing only, disputed chronology preserved, no sign-readi
 Review status is PREPARED_NOT_REVIEWED. Ask a qualified reviewer to verify a specific reported edition locator using the actual source, recording the consulted version/locus, access/rights, expertise/conflicts, reasoning, dissent and maintainer decision. A submitted form or software pass does not certify expertise or adopt a reading.
 
 Native [rights controls](../research/rights-source-matrix.json), [source lineage](../research/source-lineage.json) and [research-delivery controls](RESEARCH-DELIVERY.md) remain governing. This pilot adds no protected transcription, photograph, sign table, linguistic annotation or new reuse permission.
+
+
+Subsequent bounded source work: [Source study and specialist handoff](SOURCE-STUDY-2026-10-17.md). Its scope and evidence are separate from this historical pilot.

@@ -1,0 +1,178 @@
+{
+  "format": "specialist-source-study-v1",
+  "checked_utc": "2026-10-17T15:15:26.637730+00:00",
+  "canonical_readings_added": 0,
+  "expert_acceptance_added": false,
+  "calibration_executed": false,
+  "messages_sent": false,
+  "review_status": "PREPARED_NOT_REVIEWED",
+  "scholar_relationship": "Source authorship is not project participation, endorsement or independent review.",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "study_id": "HL-URBS-CITY-20261017",
+  "question": "What exactly does Goedegebuure2024 report for non-ligatured mi with URBS, and how does her proposed city analysis differ from a name analysis?",
+  "input_pins": [
+    {
+      "path": "research/rights-source-matrix.json",
+      "sha256": "22ab0c875e806ba332c9da5e7ed67b0aff0e74638e972e93a7ddbfb465c675f8",
+      "role": "existing component boundaries"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "GOEDEGEBUURE2024",
+      "citation": "Petra M. Goedegebuure (2024), The Luwian word for city, town, Anatolian Studies74,47–73. DOI10.1017/S0066154624000085.",
+      "receipt": {
+        "id": "luwian-city-pdf",
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E40561507836B56497F24AD7445B9BAB/S0066154624000085a.pdf/the-luwian-word-for-city-town.pdf",
+        "final_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E40561507836B56497F24AD7445B9BAB/S0066154624000085a.pdf/the-luwian-word-for-city-town.pdf",
+        "status": 200,
+        "bytes": 2676160,
+        "sha256": "4e90f97bb286cf201b97eef736120c9bc406d3a435734285666fb4b9ce52e583",
+        "content_type": "application/pdf"
+      },
+      "local_verification_filename": "luwian-city-pdf.pdf",
+      "rights": "CC BY4.0, explicit publisher statement on printed p.47. Attribution required; these selected text-table assertions retain CC BY4.0 and are not relicensed CC BY-NC. Third-party photographs/figures and full edition apparatus are excluded.",
+      "consultation_pages": [
+        {
+          "pdf_ordinal": 1,
+          "printed_page": "47",
+          "inspection": "Licence and authorship visually checked"
+        },
+        {
+          "pdf_ordinal": 3,
+          "printed_page": "49",
+          "inspection": "Argument/qualification text visually checked"
+        },
+        {
+          "pdf_ordinal": 4,
+          "printed_page": "50",
+          "inspection": "All four Table1 rows visually checked"
+        },
+        {
+          "pdf_ordinal": 9,
+          "printed_page": "55",
+          "inspection": "§4.4 and reported alternatives text and rendered page checked"
+        },
+        {
+          "pdf_ordinal": 19,
+          "printed_page": "65",
+          "inspection": "Conclusion and proposed analysis visually checked"
+        }
+      ],
+      "source_payload_redistributed": false,
+      "independent_object_witness_established": false
+    }
+  ],
+  "attestation_assertions": [
+    {
+      "assertion_id": "HL-CITY-T1-1",
+      "source_id": "GOEDEGEBUURE2024",
+      "reported_case_literal": "acc.s.c. (unmarked)",
+      "reported_form_literal": "URBS-mi-ní",
+      "reported_attestation_literal": "KARAHÖYÜK § 3",
+      "reported_century_BCE_literal": "12th",
+      "source_locator": {
+        "printed_page": 50,
+        "pdf_ordinal": 4,
+        "table": "1",
+        "row": 1
+      },
+      "rights": "CC BY4.0; Goedegebuure2024; text-table fields selected and serialized as JSON; no figures reproduced.",
+      "canonical_acceptance": false,
+      "physical_occurrence_geometry": null,
+      "native_entry_join": null
+    },
+    {
+      "assertion_id": "HL-CITY-T1-2",
+      "source_id": "GOEDEGEBUURE2024",
+      "reported_case_literal": "dat.-loc.s.?",
+      "reported_form_literal": "URBS-mi-ni",
+      "reported_attestation_literal": "KÖYLÜTOLU 1",
+      "reported_century_BCE_literal": "Tudḫaliya IV, late 13th",
+      "source_locator": {
+        "printed_page": 50,
+        "pdf_ordinal": 4,
+        "table": "1",
+        "row": 2
+      },
+      "rights": "CC BY4.0; Goedegebuure2024; text-table fields selected and serialized as JSON; no figures reproduced.",
+      "canonical_acceptance": false,
+      "physical_occurrence_geometry": null,
+      "native_entry_join": null
+    },
+    {
+      "assertion_id": "HL-CITY-T1-3",
+      "source_id": "GOEDEGEBUURE2024",
+      "reported_case_literal": "dat.-loc.s.",
+      "reported_form_literal": "URBS-mi-ni?",
+      "reported_attestation_literal": "GÜRÜN § 3b (upper inscription)",
+      "reported_century_BCE_literal": "12th / 11th",
+      "source_locator": {
+        "printed_page": 50,
+        "pdf_ordinal": 4,
+        "table": "1",
+        "row": 3
+      },
+      "rights": "CC BY4.0; Goedegebuure2024; text-table fields selected and serialized as JSON; no figures reproduced.",
+      "canonical_acceptance": false,
+      "physical_occurrence_geometry": null,
+      "native_entry_join": null
+    },
+    {
+      "assertion_id": "HL-CITY-T1-4",
+      "source_id": "GOEDEGEBUURE2024",
+      "reported_case_literal": "acc.pl.c.",
+      "reported_form_literal": "URBS-mi-ní-zi/a",
+      "reported_attestation_literal": "KARAHÖYÜK § 16",
+      "reported_century_BCE_literal": "12th",
+      "source_locator": {
+        "printed_page": 50,
+        "pdf_ordinal": 4,
+        "table": "1",
+        "row": 4
+      },
+      "rights": "CC BY4.0; Goedegebuure2024; text-table fields selected and serialized as JSON; no figures reproduced.",
+      "canonical_acceptance": false,
+      "physical_occurrence_geometry": null,
+      "native_entry_join": null
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "HL-CITY-PROPOSAL",
+      "category": "author_linguistic_interpretation",
+      "source_id": "GOEDEGEBUURE2024",
+      "locator": "p.65 §6; pp.55ff §4.4",
+      "assertion": "Goedegebuure proposes /allamminna/i-/ for the city lexeme and analyses KARAHÖYÜK §1 accordingly. The competing name analysis is reported in her discussion, not independently rechecked in its earlier publications.",
+      "canonical_acceptance": false
+    },
+    {
+      "claim_id": "HL-CITY-MI-SCOPE",
+      "category": "author_orthographic_argument",
+      "source_id": "GOEDEGEBUURE2024",
+      "locator": "pp.49–50, Table1 and surrounding discussion",
+      "assertion": "The four selected table rows support her discussion of separate mi signs. Keep uncertainty in grammatical classification separate from uncertainty attached to the written form. These are her reported attestations, not four new objects or independent witnesses.",
+      "canonical_acceptance": false
+    }
+  ],
+  "comparison": {
+    "directly_consulted_modern_studies": 1,
+    "earlier_name_analysis_directly_consulted": false,
+    "reported_analysis_alternative": "name",
+    "author_proposed_analysis": "city",
+    "preferred_by_project": null,
+    "native_287_entry_join": null,
+    "scope": "A new bounded CC BY source-study layer; existing287 identity/bibliography dossiers and seven-case metadata pilot remain unchanged. No full inscription, source photographs or graphical baseline is created."
+  },
+  "review_questions": [
+    "Are all four selected Table1 fields and source locators transcribed faithfully, with the two different question-mark scopes preserved?",
+    "Does the proposed lexical analysis follow from the argument, and what counterevidence or alternative analyses should remain attached?",
+    "Can earlier name analyses and exact inscription loci be consulted independently before describing a fully collated competing-edition pair?"
+  ],
+  "remaining_gates": [
+    "Independent linguistic/epigraphic review of the proposed analysis",
+    "Direct consultation of the earlier analyses and inscription editions",
+    "Exact native-entry/object joins and graphical geometry if required"
+  ],
+  "result_status": "FOUR_ATTRIBUTED_SOURCE_ASSERTIONS_ADMITTED_PROPOSED_ANALYSIS_NOT_ACCEPTED"
+}

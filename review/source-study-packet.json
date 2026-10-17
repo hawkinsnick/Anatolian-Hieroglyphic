@@ -1,0 +1,76 @@
+{
+  "format": "specialist-source-review-packet-v1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "study_id": "HL-URBS-CITY-20261017",
+  "status": "PREPARED_NOT_REVIEWED",
+  "study_provenance": {
+    "path": "research/source-study-2026-10-17.json",
+    "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
+    "pointer": "",
+    "native_artifacts_snapshot_commit": null,
+    "role": "bounded directly consulted source study",
+    "encoding": "json"
+  },
+  "profile_sha256": "7b00de8f38a7712c16e510db7735afb7e9accfbdd53bc50d7a3b87123c23b9b6",
+  "question": "What exactly does Goedegebuure2024 report for non-ligatured mi with URBS, and how does her proposed city analysis differ from a name analysis?",
+  "review_questions": [
+    "Are all four selected Table1 fields and source locators transcribed faithfully, with the two different question-mark scopes preserved?",
+    "Does the proposed lexical analysis follow from the argument, and what counterevidence or alternative analyses should remain attached?",
+    "Can earlier name analyses and exact inscription loci be consulted independently before describing a fully collated competing-edition pair?"
+  ],
+  "source_requirements": [
+    {
+      "source_id": "GOEDEGEBUURE2024",
+      "citation": "Petra M. Goedegebuure (2024), The Luwian word for city, town, Anatolian Studies74,47–73. DOI10.1017/S0066154624000085.",
+      "receipt": {
+        "id": "luwian-city-pdf",
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E40561507836B56497F24AD7445B9BAB/S0066154624000085a.pdf/the-luwian-word-for-city-town.pdf",
+        "final_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E40561507836B56497F24AD7445B9BAB/S0066154624000085a.pdf/the-luwian-word-for-city-town.pdf",
+        "status": 200,
+        "bytes": 2676160,
+        "sha256": "4e90f97bb286cf201b97eef736120c9bc406d3a435734285666fb4b9ce52e583",
+        "content_type": "application/pdf"
+      },
+      "locators": [
+        {
+          "pdf_ordinal": 1,
+          "printed_page": "47",
+          "inspection": "Licence and authorship visually checked"
+        },
+        {
+          "pdf_ordinal": 3,
+          "printed_page": "49",
+          "inspection": "Argument/qualification text visually checked"
+        },
+        {
+          "pdf_ordinal": 4,
+          "printed_page": "50",
+          "inspection": "All four Table1 rows visually checked"
+        },
+        {
+          "pdf_ordinal": 9,
+          "printed_page": "55",
+          "inspection": "§4.4 and reported alternatives text and rendered page checked"
+        },
+        {
+          "pdf_ordinal": 19,
+          "printed_page": "65",
+          "inspection": "Conclusion and proposed analysis visually checked"
+        }
+      ],
+      "rights": "CC BY4.0, explicit publisher statement on printed p.47. Attribution required; these selected text-table assertions retain CC BY4.0 and are not relicensed CC BY-NC. Third-party photographs/figures and full edition apparatus are excluded."
+    }
+  ],
+  "native_dossier_command": "python scripts/research_delivery.py --dossier HL-URBS-CITY-20261017 --collection source-study",
+  "response_form": "review/source-study-response.json",
+  "reviewer": null,
+  "assessment": null,
+  "scientific_approval_granted": false,
+  "native_changes_applied": false,
+  "remaining_gates": [
+    "Independent linguistic/epigraphic review of the proposed analysis",
+    "Direct consultation of the earlier analyses and inscription editions",
+    "Exact native-entry/object joins and graphical geometry if required"
+  ],
+  "boundary": "Packet preparation and structural validation do not authenticate expertise, source independence or epigraphic truth. No outreach is sent."
+}

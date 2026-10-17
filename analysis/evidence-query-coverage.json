@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Anatolian-Hieroglyphic",
-  "profile_sha256": "c7f0df7bfb4505a2b3cfaa26b27508389f0816276dade03b8a8c82c4333cee06",
+  "profile_sha256": "7b00de8f38a7712c16e510db7735afb7e9accfbdd53bc50d7a3b87123c23b9b6",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -79,6 +79,42 @@
         "role": "bounded attribution review",
         "encoding": "json"
       }
+    },
+    {
+      "name": "source-study",
+      "native_unit": "bounded source-acquisition or scholarly-argument study",
+      "record_count": 1,
+      "scope": "Source-specific assertions and qualifications; not canonical readings, objects, gold or independent review.",
+      "example_ids": [
+        "HL-URBS-CITY-20261017"
+      ],
+      "provenance": {
+        "path": "research/source-study-2026-10-17.json",
+        "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded directly consulted source study",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "city-source-assertions",
+      "native_unit": "selected author-reported Table1 assertion",
+      "record_count": 4,
+      "scope": "Four CC BY4.0 text-table rows, retaining source notation and uncertainty; no automatic join to287 native identity dossiers or canonical acceptance.",
+      "example_ids": [
+        "HL-CITY-T1-1",
+        "HL-CITY-T1-2",
+        "HL-CITY-T1-3"
+      ],
+      "provenance": {
+        "path": "research/source-study-2026-10-17.json",
+        "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
+        "pointer": "/attestation_assertions",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded directly consulted source study",
+        "encoding": "json"
+      }
     }
   ],
   "context_resources": [
@@ -153,11 +189,20 @@
       "native_artifacts_snapshot_commit": null,
       "role": "bounded attribution review",
       "encoding": "json"
+    },
+    {
+      "path": "research/source-study-2026-10-17.json",
+      "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded directly consulted source study",
+      "encoding": "json"
     }
   ],
   "scholarly_limits": [
     "Bibliographic citations marked direct_edition_checked=false remain uninspected leads. Secondary label matching does not certify chronology or physical object identity.",
-    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total.",
+    "The2026-10-17 source-study collection adds bounded documentary/author assertions only. Read its result_status, source rights and remaining_gates; prepared review packets grant no human acceptance."
   ],
   "alternative_pair_count": null,
   "independent_witness_count": null,

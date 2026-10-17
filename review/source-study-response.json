@@ -1,0 +1,35 @@
+{
+  "format": "native-review-submission-v1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "target": {
+    "collection": "source-study",
+    "id": "HL-URBS-CITY-20261017",
+    "provenance": {
+      "path": "research/source-study-2026-10-17.json",
+      "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded directly consulted source study",
+      "encoding": "json"
+    }
+  },
+  "profile_sha256": "7b00de8f38a7712c16e510db7735afb7e9accfbdd53bc50d7a3b87123c23b9b6",
+  "status": "DRAFT_NOT_REVIEWED",
+  "reviewer": {
+    "name": "",
+    "affiliation": "",
+    "expertise": "",
+    "identity_reference": "",
+    "conflicts": "",
+    "source_dependence": "",
+    "date": ""
+  },
+  "evidence_consulted": [],
+  "decision": "",
+  "reasoning": "",
+  "confidence": "",
+  "counterevidence": "",
+  "unresolved_objections": "",
+  "scientific_approval_granted": false,
+  "native_changes_applied": false
+}
