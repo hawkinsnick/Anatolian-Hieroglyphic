@@ -32,20 +32,20 @@
     {
       "path": "ai-skill/SKILL.md",
       "role": "native_authority",
-      "sha256": "0911b706cc3bbf7cb34b34079d7da7d9b3a446f78433c002b9632ca343f1cb26",
-      "bytes": 7151
+      "sha256": "2158b83db8d285603adbf71a4b4839ae5d9d33b2f7db4b0a02bef304a7135688",
+      "bytes": 7875
     },
     {
       "path": "ai-skill/references/authority-profile.json",
       "role": "native_authority",
-      "sha256": "a5d598bfbd8e235d399649d85ae333a6f9a97d9d30aeeebd5747d96bb7f4535a",
-      "bytes": 2024
+      "sha256": "3a399c798231d64896ab172f49f76f59beec6a38b0c0b2e86781e15512a214f4",
+      "bytes": 2502
     },
     {
       "path": "ai-skill/scripts/build_bundle.py",
       "role": "native_authority",
-      "sha256": "c7a2605234e09aaa78c46edc5cb513917f1efa40d48227857ebffac412069a58",
-      "bytes": 2951
+      "sha256": "c4e35aaef012051fdd28d4abbd8377c12c7ad63576301a9ae811a3ea32746b0a",
+      "bytes": 3083
     },
     {
       "path": "ai-skill/scripts/publish_sync.py",
@@ -80,8 +80,14 @@
     {
       "path": "analysis/research-delivery.json",
       "role": "native_authority",
-      "sha256": "f726860d90c90a62bd651dbdf7ad1de1dac999e8f553cef245d9719d0888984f",
+      "sha256": "397e4fa4f31fda55897d4369deae0ecabecfd189e514f0f7bdd1622fe3a8690f",
       "bytes": 7143
+    },
+    {
+      "path": "analysis/task-pilot-example.json",
+      "role": "native_authority",
+      "sha256": "c645bc1c1ed5c2e82ca976bb5ed3aae678d8b247d1a2402292cab60c9f1b9a93",
+      "bytes": 10770
     },
     {
       "path": "data/sources.json",
@@ -124,6 +130,12 @@
       "role": "native_authority",
       "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
       "bytes": 4065
+    },
+    {
+      "path": "docs/RESEARCH-TASK-PILOT.md",
+      "role": "native_authority",
+      "sha256": "7de7df4d988b7501e502654fcb3d0f685744dda82c8a37d74812d2508ad47f47",
+      "bytes": 4133
     },
     {
       "path": "project.json",
@@ -204,6 +216,12 @@
       "bytes": 10075
     },
     {
+      "path": "scripts/task_pilot.py",
+      "role": "native_authority",
+      "sha256": "224d8bd1b3f1987bfed86a0846f0a6d41326c711d68ff469c8446177648c39e8",
+      "bytes": 3829
+    },
+    {
       "path": "scripts/test_attribution_review.py",
       "role": "native_authority",
       "sha256": "d81e1c610325e822a1e079db18a619defe57654d7318a13a8be336760b37cae0",
@@ -220,7 +238,13 @@
       "role": "native_authority",
       "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
       "bytes": 5678
+    },
+    {
+      "path": "scripts/test_task_pilot.py",
+      "role": "native_authority",
+      "sha256": "5bd3525be207bd8aedbcbf238ad0528e59a1d44d8a6b163ff38f8e3d4f616fbc",
+      "bytes": 936
     }
   ],
-  "source_commit": "ffbe70e16fe9b519371821d1f0d85ad26bb2f8f8"
+  "source_commit": "22aefef3f9bb97d3c8981607cf4ae81fd6710f08"
 }
