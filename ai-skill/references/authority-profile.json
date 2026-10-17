@@ -65,6 +65,26 @@
       "path": "docs/COVERAGE-EXPANSION-2026-10-12.md",
       "required": true,
       "role": "coverage_expansion"
+    },
+    {
+      "path": "scripts/task_pilot.py",
+      "role": "specialist_task_pilot",
+      "required": true
+    },
+    {
+      "path": "scripts/test_task_pilot.py",
+      "role": "specialist_task_pilot",
+      "required": true
+    },
+    {
+      "path": "docs/RESEARCH-TASK-PILOT.md",
+      "role": "specialist_task_pilot",
+      "required": true
+    },
+    {
+      "path": "analysis/task-pilot-example.json",
+      "role": "specialist_task_pilot",
+      "required": true
     }
   ],
   "behavioral_gates": [

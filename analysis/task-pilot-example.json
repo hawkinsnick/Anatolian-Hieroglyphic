@@ -1,0 +1,205 @@
+{
+  "format": "anatolian-hieroglyphic-task-pilot-v1",
+  "pilot_id": "HL-EDITION-TRACE-7-v1",
+  "question": "Which existing metadata dossiers provide routes for a future sign-reading study, and which evidence is still missing?",
+  "selection": "All seven existing edition-metadata-pilot records; no inferred join to the 287 digital-entry dossiers.",
+  "reproduction": {
+    "code_sha256": "224d8bd1b3f1987bfed86a0846f0a6d41326c711d68ff469c8446177648c39e8",
+    "source_sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+    "rights_path": "research/rights-source-matrix.json",
+    "rights_sha256": "22ab0c875e806ba332c9da5e7ed67b0aff0e74638e972e93a7ddbfb465c675f8"
+  },
+  "summary": {
+    "metadata_dossiers": 7,
+    "dossiers_with_reported_edition_locators": 7,
+    "sign_reading_pilot_executed": false,
+    "direct_edition_checks_performed": 0,
+    "new_accepted_readings": 0,
+    "independent_witness_count": null
+  },
+  "cases": [
+    {
+      "native_id": "KOCAOĞUZ",
+      "native_record": {
+        "id": "KOCAOĞUZ",
+        "period": "TRANSITION? / disputed",
+        "object": "granite stele",
+        "museum": "Afyon Museum",
+        "chli3": "pp.70–72, plate 46",
+        "source_role": "public discovery metadata cross-checked to CHLI III locator",
+        "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+      },
+      "source_locator": {
+        "path": "research/edition-reconciliation-pilot.json",
+        "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+        "pointer": "/records/0"
+      },
+      "edition_locators_reported": {
+        "chli3": "pp.70–72, plate 46"
+      },
+      "direct_edition_consultation_established_by_this_pilot": false,
+      "source_sign_occurrences_available_in_this_pilot": false,
+      "accepted_reading": null,
+      "next_research_step": "Establish intended-use rights and consult the cited edition at the reported locus. Admit attributed reading-level evidence with exact sign/line locators before comparing a sign or word.",
+      "review_question": "Does the reported edition locator concern this named entry, and what precisely does the consulted source establish? Keep object identity, chronology, reading and source dependence separate."
+    },
+    {
+      "native_id": "KARKAMIŠ A11a",
+      "native_record": {
+        "id": "KARKAMIŠ A11a",
+        "period": "Iron Age",
+        "object": "basalt doorjamb/block; largely destroyed after early excavations",
+        "museum": "fragments Anatolian Civilizations Museum; one British Museum; later fragments excavated",
+        "chli1": "pp.94–100, plates 10–12",
+        "chli3": "pp.191–192, 302–303",
+        "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+      },
+      "source_locator": {
+        "path": "research/edition-reconciliation-pilot.json",
+        "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+        "pointer": "/records/1"
+      },
+      "edition_locators_reported": {
+        "chli1": "pp.94–100, plates 10–12",
+        "chli3": "pp.191–192, 302–303"
+      },
+      "direct_edition_consultation_established_by_this_pilot": false,
+      "source_sign_occurrences_available_in_this_pilot": false,
+      "accepted_reading": null,
+      "next_research_step": "Establish intended-use rights and consult the cited edition at the reported locus. Admit attributed reading-level evidence with exact sign/line locators before comparing a sign or word.",
+      "review_question": "Does the reported edition locator concern this named entry, and what precisely does the consulted source establish? Keep object identity, chronology, reading and source dependence separate."
+    },
+    {
+      "native_id": "KARKAMIŠ A11b+c",
+      "native_record": {
+        "id": "KARKAMIŠ A11b+c",
+        "period": "Iron Age",
+        "object": "two basalt blocks forming one continuous text",
+        "chli1": "pp.101–108, plates 14–17",
+        "chli3": "pp.193–194, 303–304",
+        "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+      },
+      "source_locator": {
+        "path": "research/edition-reconciliation-pilot.json",
+        "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+        "pointer": "/records/2"
+      },
+      "edition_locators_reported": {
+        "chli1": "pp.101–108, plates 14–17",
+        "chli3": "pp.193–194, 303–304"
+      },
+      "direct_edition_consultation_established_by_this_pilot": false,
+      "source_sign_occurrences_available_in_this_pilot": false,
+      "accepted_reading": null,
+      "next_research_step": "Establish intended-use rights and consult the cited edition at the reported locus. Admit attributed reading-level evidence with exact sign/line locators before comparing a sign or word.",
+      "review_question": "Does the reported edition locator concern this named entry, and what precisely does the consulted source establish? Keep object identity, chronology, reading and source dependence separate."
+    },
+    {
+      "native_id": "KARKAMIŠ A2+3",
+      "native_record": {
+        "id": "KARKAMIŠ A2+3",
+        "period": "Iron Age",
+        "object": "two basalt blocks forming one text",
+        "museum": "Anatolian Civilizations Museum",
+        "chli1": "pp.108–112, plates 18–21",
+        "chli3": "pp.194–195",
+        "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+      },
+      "source_locator": {
+        "path": "research/edition-reconciliation-pilot.json",
+        "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+        "pointer": "/records/3"
+      },
+      "edition_locators_reported": {
+        "chli1": "pp.108–112, plates 18–21",
+        "chli3": "pp.194–195"
+      },
+      "direct_edition_consultation_established_by_this_pilot": false,
+      "source_sign_occurrences_available_in_this_pilot": false,
+      "accepted_reading": null,
+      "next_research_step": "Establish intended-use rights and consult the cited edition at the reported locus. Admit attributed reading-level evidence with exact sign/line locators before comparing a sign or word.",
+      "review_question": "Does the reported edition locator concern this named entry, and what precisely does the consulted source establish? Keep object identity, chronology, reading and source dependence separate."
+    },
+    {
+      "native_id": "KARKAMIŠ A15b",
+      "native_record": {
+        "id": "KARKAMIŠ A15b",
+        "period": "Iron Age",
+        "object": "basalt half-drum statue/stele base",
+        "museum": "Anatolian Civilizations Museum",
+        "chli1": "pp.130–133, plates 36–37",
+        "chli3": "pp.201–202, 308–309",
+        "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+      },
+      "source_locator": {
+        "path": "research/edition-reconciliation-pilot.json",
+        "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+        "pointer": "/records/4"
+      },
+      "edition_locators_reported": {
+        "chli1": "pp.130–133, plates 36–37",
+        "chli3": "pp.201–202, 308–309"
+      },
+      "direct_edition_consultation_established_by_this_pilot": false,
+      "source_sign_occurrences_available_in_this_pilot": false,
+      "accepted_reading": null,
+      "next_research_step": "Establish intended-use rights and consult the cited edition at the reported locus. Admit attributed reading-level evidence with exact sign/line locators before comparing a sign or word.",
+      "review_question": "Does the reported edition locator concern this named entry, and what precisely does the consulted source establish? Keep object identity, chronology, reading and source dependence separate."
+    },
+    {
+      "native_id": "BAHÇEKÖY",
+      "native_record": {
+        "id": "BAHÇEKÖY",
+        "period": "Iron Age",
+        "object": "stele",
+        "museum": "Kayseri Museum",
+        "chli1": "pp.478–480, plate 265",
+        "chli3": "pp.265–266, 343",
+        "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+      },
+      "source_locator": {
+        "path": "research/edition-reconciliation-pilot.json",
+        "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+        "pointer": "/records/5"
+      },
+      "edition_locators_reported": {
+        "chli1": "pp.478–480, plate 265",
+        "chli3": "pp.265–266, 343"
+      },
+      "direct_edition_consultation_established_by_this_pilot": false,
+      "source_sign_occurrences_available_in_this_pilot": false,
+      "accepted_reading": null,
+      "next_research_step": "Establish intended-use rights and consult the cited edition at the reported locus. Admit attributed reading-level evidence with exact sign/line locators before comparing a sign or word.",
+      "review_question": "Does the reported edition locator concern this named entry, and what precisely does the consulted source establish? Keep object identity, chronology, reading and source dependence separate."
+    },
+    {
+      "native_id": "SULTANHANI",
+      "native_record": {
+        "id": "SULTANHANI",
+        "period": "Iron Age",
+        "object": "base + stele forming one inscription",
+        "museum": "Anatolian Civilizations Museum",
+        "chli1": "pp.463–472, plates 258–261",
+        "chli3": "pp.262–263, 342",
+        "canonical_status": "PILOT_RECONCILED_METADATA_ONLY"
+      },
+      "source_locator": {
+        "path": "research/edition-reconciliation-pilot.json",
+        "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+        "pointer": "/records/6"
+      },
+      "edition_locators_reported": {
+        "chli1": "pp.463–472, plates 258–261",
+        "chli3": "pp.262–263, 342"
+      },
+      "direct_edition_consultation_established_by_this_pilot": false,
+      "source_sign_occurrences_available_in_this_pilot": false,
+      "accepted_reading": null,
+      "next_research_step": "Establish intended-use rights and consult the cited edition at the reported locus. Admit attributed reading-level evidence with exact sign/line locators before comparing a sign or word.",
+      "review_question": "Does the reported edition locator concern this named entry, and what precisely does the consulted source establish? Keep object identity, chronology, reading and source dependence separate."
+    }
+  ],
+  "rights": "Identity/bibliographic metadata only; retain research/rights-source-matrix.json. No CHLI transcriptions, photographs, facsimiles or sign tables are ingested by this pilot.",
+  "scientific_status": "DOCUMENTARY_ROUTING_READY_READING_LEVEL_STUDY_REQUIRES_SOURCE_ADMISSION",
+  "scholar_relationship": "Research-use hypothesis only; no scholar request, participation or endorsement."
+}

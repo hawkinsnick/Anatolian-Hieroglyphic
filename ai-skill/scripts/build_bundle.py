@@ -11,6 +11,7 @@ paths|={'scripts/test_native_evidence_query.py', 'scripts/evidence_query.py', 'a
 paths|={'analysis/attribution-review-audit.json', 'research/attribution-review.json', 'scripts/attribution_review.py', 'scripts/test_attribution_review.py', 'docs/ATTRIBUTION-REVIEW.md'}
 paths |= {p for _,p in [("research_delivery", p) for p in ['scripts/research_delivery.py','scripts/test_research_delivery.py','docs/RESEARCH-DELIVERY.md','analysis/research-delivery.json']]}
 if any(p.startswith('ai-skill/generated/') for p in paths):raise ValueError('native source inputs cannot include generated bundle cycles')
+paths |= {'scripts/task_pilot.py', 'analysis/task-pilot-example.json', 'docs/RESEARCH-TASK-PILOT.md', 'scripts/test_task_pilot.py'}
 old={a['path']:a for a in index.get('artifacts',[])};artifacts=[]
 for p in sorted(paths):
  f=(ROOT/p).resolve()

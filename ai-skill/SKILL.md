@@ -53,3 +53,7 @@ Prepare bounded review drafts with `--review-template`; validate submissions wit
 and deterministic answer tests as engineering checks, not empirical LLM validation
 or completion of scholarly/source-permission work. Local packaging grants no new
 redistribution rights. Label any model-generated analysis separately and cite it.
+
+## Specialist task pilot
+
+Read `docs/RESEARCH-TASK-PILOT.md` and `analysis/task-pilot-example.json` for the seven-case edition-metadata trace. The sign-reading study is not executed: these records supply reported edition routes, not admitted sign occurrences. Preserve KOCAOĞUZ's disputed period and every native qualification. Do not join the seven cases to the 287 digital-entry dossiers by label similarity, certify physical identity, infer a reading, or treat a reported CHLI locator as directly consulted. Require source admission, rights, attributed reading-level evidence and exact loci before comparing signs or words. No named scholar participation, endorsement or independent review is established by the pilot.

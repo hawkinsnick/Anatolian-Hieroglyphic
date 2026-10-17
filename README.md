@@ -53,3 +53,7 @@ Bounded attribution and comparison review: [source qualifications and remaining 
 [Search, reproducible local packages, evidence-bound answers and review submissions](docs/RESEARCH-DELIVERY.md).
 [Measured delivery scope](analysis/research-delivery.json) retains native evidence
 units and all scholarly, rights and expert-review dependencies.
+
+## Specialist research-task pilot
+
+[Step-by-step research pilot with executed results](docs/RESEARCH-TASK-PILOT.md). Source scope, reproducible commands, interpretation limits and review questions are explicit. This tooling adds no scholarly acceptance.

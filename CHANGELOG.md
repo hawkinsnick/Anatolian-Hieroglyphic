@@ -16,3 +16,7 @@ Add checksum-bound native search/evidence responses, deterministic local researc
 packaging and offline replay, revision-bound review submission forms and rejection
 tests. Update individual AI instructions and documentation. No source record,
 reading, expert acceptance or redistribution permission is added by this change.
+
+## 2026-10-16 — bounded specialist research-task pilot
+
+Added a source-bound executed pilot, researcher walkthrough, reproducibility and adversarial controls. Source records, rights, calibration and expert-acceptance states remain unchanged. Individual and master AI instructions route to the actual admitted evidence.
