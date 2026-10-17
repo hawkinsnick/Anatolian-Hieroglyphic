@@ -39,13 +39,13 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "2158b83db8d285603adbf71a4b4839ae5d9d33b2f7db4b0a02bef304a7135688",
-      "bytes": 7875
+      "sha256": "045a006cf0091fb051904a78d66c688064eb0d6fc287f3eb0cdc613e60de9261",
+      "bytes": 8362
     },
     {
       "path": "ai-skill/generated/research-bundle-index.json",
-      "sha256": "5c76b0d866b7566b6244c6f3816f5a0a7fc8635f18cc5bfca68527be9ca2aba9",
-      "bytes": 8909
+      "sha256": "c3fbb84966c8295864d2186117c123bf1800d218e3bb731d7469be521ae3f947",
+      "bytes": 10306
     },
     {
       "path": "ai-skill/manifest.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "ai-skill/references/authority-profile.json",
-      "sha256": "3a399c798231d64896ab172f49f76f59beec6a38b0c0b2e86781e15512a214f4",
-      "bytes": 2502
+      "sha256": "ffeac16e275fe2940281f8e13deca63fa826558d57a9742113a18bd03b29d63f",
+      "bytes": 3533
     },
     {
       "path": "ai-skill/references/corpus-project-contract.md",
@@ -99,13 +99,18 @@
     },
     {
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "fa2ee1b00c92512416495cfb2ae2b784bde047432f5ac929785c5f9a5b9ee798",
-      "bytes": 6446
+      "sha256": "e21803b14536e2cf14b581eed1d82b9386f4cc6629d56c83e88269a9192b6050",
+      "bytes": 8390
     },
     {
       "path": "analysis/research-delivery.json",
-      "sha256": "397e4fa4f31fda55897d4369deae0ecabecfd189e514f0f7bdd1622fe3a8690f",
-      "bytes": 7143
+      "sha256": "d28383181c29144d7fc95bc8299f6708897aced190c3b6f712b39b1d4c11bb1b",
+      "bytes": 8956
+    },
+    {
+      "path": "analysis/source-study-audit.json",
+      "sha256": "a368c9c9ce5bb83930b20e802affe28bf1c8d1e52377ccec4e990f6c1e1d7a0d",
+      "bytes": 824
     },
     {
       "path": "analysis/task-pilot-example.json",
@@ -149,8 +154,13 @@
     },
     {
       "path": "docs/RESEARCH-TASK-PILOT.md",
-      "sha256": "7de7df4d988b7501e502654fcb3d0f685744dda82c8a37d74812d2508ad47f47",
-      "bytes": 4133
+      "sha256": "0e64fd9536d9ab439dd45747f269ef45722d4d9b7b5a877b1b575093b4a44e37",
+      "bytes": 4298
+    },
+    {
+      "path": "docs/SOURCE-STUDY-2026-10-17.md",
+      "sha256": "4f55c8d3c82d9226b486a85339311d05f81b33335c739bfdc9c044b403931889",
+      "bytes": 2743
     },
     {
       "path": "project.json",
@@ -189,8 +199,8 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "c7f0df7bfb4505a2b3cfaa26b27508389f0816276dade03b8a8c82c4333cee06",
-      "bytes": 4681
+      "sha256": "7b00de8f38a7712c16e510db7735afb7e9accfbdd53bc50d7a3b87123c23b9b6",
+      "bytes": 5944
     },
     {
       "path": "research/monumental-link-snapshot.json",
@@ -201,6 +211,21 @@
       "path": "research/pre-expert-maximum.json",
       "sha256": "d620af7eda5d6a5ba6a3d5fe6a9f5d585a6c14e28020d6d1fc16d593562dc36d",
       "bytes": 1867
+    },
+    {
+      "path": "research/source-study-2026-10-17.json",
+      "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
+      "bytes": 7878
+    },
+    {
+      "path": "review/source-study-packet.json",
+      "sha256": "28eb58622d884ccd7201fd6363708eb72abfe0d8439ff3d04c998d2617aecddf",
+      "bytes": 3782
+    },
+    {
+      "path": "review/source-study-response.json",
+      "sha256": "6e2e4c8eb9bd2de8ea2f3e052f68b2dd7c06c1b107ff94b6098e7b54ae1af052",
+      "bytes": 1018
     },
     {
       "path": "scripts/attribution_review.py",
@@ -216,6 +241,11 @@
       "path": "scripts/research_delivery.py",
       "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
       "bytes": 10075
+    },
+    {
+      "path": "scripts/source_study.py",
+      "sha256": "2174833f4857bc0916afe1137134cc530e737b5700e8dfb5e93f395446311935",
+      "bytes": 9394
     },
     {
       "path": "scripts/task_pilot.py",
@@ -236,6 +266,11 @@
       "path": "scripts/test_research_delivery.py",
       "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
       "bytes": 5678
+    },
+    {
+      "path": "scripts/test_source_study.py",
+      "sha256": "35147745472ec2eaed4fdf8ce594d3987b12d03900650a34cd0a11461d3a6743",
+      "bytes": 2415
     },
     {
       "path": "scripts/test_task_pilot.py",
