@@ -1,0 +1,12 @@
+{
+  "format": "review-walkthrough-audit-v1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "spec_sha256": "81ca32ec43abca1555c0ee62eafffb00769ecdb63604dd798b9116a8f816971d",
+  "record_sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+  "code_sha256": "fe919dac5b73a6426af4d7240d90b6cdc65646dc477b6384654143c39537403b",
+  "profile_sha256": "538ab7a31e697b8fba22bf2dc547ab60343ee508fd7e69462b87adad7561e3e8",
+  "status": "PASS_DOCUMENTARY_REPLAY_AND_DEMONSTRATION_SEPARATION",
+  "human_review_occurred": false,
+  "scientific_approval_granted": false,
+  "limitation": "Software replay does not verify original-page fidelity, object identity, permissions, expertise or epigraphic truth."
+}

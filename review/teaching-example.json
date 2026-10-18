@@ -1,0 +1,26 @@
+{
+  "format": "review-teaching-example-v1",
+  "status": "SIMULATED_MAINTAINER_EXERCISE_NOT_REVIEW",
+  "demonstration_only": true,
+  "human_review_occurred": false,
+  "reviewer": null,
+  "target": {
+    "collection": "city-reference-crosswalk",
+    "id": "HL-CITY-REFERENCE-CROSSWALK-20261018"
+  },
+  "profile_sha256": "538ab7a31e697b8fba22bf2dc547ab60343ee508fd7e69462b87adad7561e3e8",
+  "provenance": {
+    "path": "research/city-reference-crosswalk-2026-10-18.json",
+    "sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+    "pointer": "",
+    "native_artifacts_snapshot_commit": null,
+    "role": "bounded documentary follow-up",
+    "encoding": "json"
+  },
+  "practice_decision": "MORE_SOURCE_REQUIRED",
+  "practice_assessment": "Four source assertions produce three catalogue reference candidates, with no exact section alignment or linguistic join. Inspect the alias and grouped-entry limits before linking readings. Preserve the different question-mark scopes. The proposed decision is a teaching example, not a specialist finding.",
+  "evidence_inspected_for_this_exercise": "Committed documentary register only; this example is not a new primary-source consultation or a specialist response.",
+  "scientific_approval_granted": false,
+  "native_changes_applied": false,
+  "submission_warning": "Do not submit or reformat this example as a real review. A real reviewer must independently inspect sources, identify themselves and provide their own assessment."
+}

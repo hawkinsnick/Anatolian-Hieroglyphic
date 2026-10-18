@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Anatolian-Hieroglyphic",
-  "profile_sha256": "7b00de8f38a7712c16e510db7735afb7e9accfbdd53bc50d7a3b87123c23b9b6",
+  "profile_sha256": "538ab7a31e697b8fba22bf2dc547ab60343ee508fd7e69462b87adad7561e3e8",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -115,6 +115,23 @@
         "role": "bounded directly consulted source study",
         "encoding": "json"
       }
+    },
+    {
+      "name": "city-reference-crosswalk",
+      "native_unit": "bounded documentary follow-up case",
+      "record_count": 1,
+      "scope": "Preserve text-rendition/access qualifications or catalogue-reference-candidate status; no canonical reading, linguistic join or scientific acceptance.",
+      "example_ids": [
+        "HL-CITY-REFERENCE-CROSSWALK-20261018"
+      ],
+      "provenance": {
+        "path": "research/city-reference-crosswalk-2026-10-18.json",
+        "sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded documentary follow-up",
+        "encoding": "json"
+      }
     }
   ],
   "context_resources": [
@@ -196,6 +213,14 @@
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "bounded directly consulted source study",
+      "encoding": "json"
+    },
+    {
+      "path": "research/city-reference-crosswalk-2026-10-18.json",
+      "sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded documentary follow-up",
       "encoding": "json"
     }
   ],

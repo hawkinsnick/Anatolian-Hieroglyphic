@@ -50,6 +50,15 @@
       "id_pointer": "/assertion_id",
       "unit": "selected author-reported Table1 assertion",
       "scope": "Four CC BY4.0 text-table rows, retaining source notation and uncertainty; no automatic join to287 native identity dossiers or canonical acceptance."
+    },
+    {
+      "name": "city-reference-crosswalk",
+      "path": "research/city-reference-crosswalk-2026-10-18.json",
+      "pointer": "",
+      "id_pointer": "/case_id",
+      "singleton": true,
+      "unit": "bounded documentary follow-up case",
+      "scope": "Preserve text-rendition/access qualifications or catalogue-reference-candidate status; no canonical reading, linguistic join or scientific acceptance."
     }
   ],
   "relations": [],
@@ -122,6 +131,13 @@
       "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
       "encoding": "json",
       "role": "bounded directly consulted source study",
+      "source_snapshot_commit": null
+    },
+    {
+      "path": "research/city-reference-crosswalk-2026-10-18.json",
+      "sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+      "encoding": "json",
+      "role": "bounded documentary follow-up",
       "source_snapshot_commit": null
     }
   ],

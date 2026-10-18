@@ -119,6 +119,23 @@
         "role": "bounded directly consulted source study",
         "encoding": "json"
       }
+    },
+    {
+      "name": "city-reference-crosswalk",
+      "native_unit": "bounded documentary follow-up case",
+      "record_count": 1,
+      "scope": "Preserve text-rendition/access qualifications or catalogue-reference-candidate status; no canonical reading, linguistic join or scientific acceptance.",
+      "example_ids": [
+        "HL-CITY-REFERENCE-CROSSWALK-20261018"
+      ],
+      "provenance": {
+        "path": "research/city-reference-crosswalk-2026-10-18.json",
+        "sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded documentary follow-up",
+        "encoding": "json"
+      }
     }
   ],
   "scholarly_limits": [
@@ -154,8 +171,8 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "045a006cf0091fb051904a78d66c688064eb0d6fc287f3eb0cdc613e60de9261",
-      "bytes": 8362
+      "sha256": "dcb1c7dd37951c7d010b03cfd8dfc0b1b826feefea41424e7c36215e40887f76",
+      "bytes": 8824
     },
     {
       "path": "data/sources.json",
@@ -171,6 +188,11 @@
       "path": "research/attribution-review.json",
       "sha256": "dbaf0d96958d0278c32970ff9db3acbfd496a5c095e62367f46bafd679866e06",
       "bytes": 4458
+    },
+    {
+      "path": "research/city-reference-crosswalk-2026-10-18.json",
+      "sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+      "bytes": 9872
     },
     {
       "path": "research/collection-work-ledger.json",
@@ -194,8 +216,8 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "7b00de8f38a7712c16e510db7735afb7e9accfbdd53bc50d7a3b87123c23b9b6",
-      "bytes": 5944
+      "sha256": "538ab7a31e697b8fba22bf2dc547ab60343ee508fd7e69462b87adad7561e3e8",
+      "bytes": 6638
     },
     {
       "path": "research/expert-review-packet.json",

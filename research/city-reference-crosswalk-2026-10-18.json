@@ -1,0 +1,231 @@
+{
+  "format": "bounded-evidence-followup-v1",
+  "checked_date": "2026-10-18",
+  "canonical_readings_added": 0,
+  "scientific_approval_granted": false,
+  "expert_acceptance_added": false,
+  "messages_sent": false,
+  "physical_identity_certified": false,
+  "independence_established": false,
+  "review_status": "PREPARED_NOT_REVIEWED",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "case_id": "HL-CITY-REFERENCE-CROSSWALK-20261018",
+  "scope": "FOUR_ASSERTIONS_TO_THREE_CATALOGUE_REFERENCE_CANDIDATES_NO_LINGUISTIC_JOIN",
+  "input_pins": [
+    {
+      "path": "research/source-study-2026-10-17.json",
+      "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
+      "role": "four existing CC BY4 assertions"
+    },
+    {
+      "path": "research/digital-entry-dossiers.json",
+      "sha256": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf",
+      "role": "287 catalogue entries"
+    },
+    {
+      "path": "research/rights-source-matrix.json",
+      "sha256": "22ab0c875e806ba332c9da5e7ed67b0aff0e74638e972e93a7ddbfb465c675f8",
+      "role": "edition rights gate"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "GOEDEGEBUURE2024",
+      "citation": "Petra M. Goedegebuure (2024), The Luwian word for city, town, Anatolian Studies74,47–73. DOI10.1017/S0066154624000085.",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E40561507836B56497F24AD7445B9BAB/S0066154624000085a.pdf/the-luwian-word-for-city-town.pdf",
+      "locator": "Printed p.50 Table1 rows1–4; p.55 §4.4, catalogue/edition reference only",
+      "page_image_checked": true,
+      "receipt": {
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E40561507836B56497F24AD7445B9BAB/S0066154624000085a.pdf/the-luwian-word-for-city-town.pdf",
+        "final_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E40561507836B56497F24AD7445B9BAB/S0066154624000085a.pdf/the-luwian-word-for-city-town.pdf",
+        "status": 200,
+        "bytes": 2676160,
+        "sha256": "4e90f97bb286cf201b97eef736120c9bc406d3a435734285666fb4b9ce52e583",
+        "pdf": true,
+        "kind": "ORIGIN_PDF_RESPONSE",
+        "local_filename": "luwian-city.pdf"
+      },
+      "rights": "CC BY4.0; source assertions retain this licence, with attribution and project structuring declared. No PDF/images redistributed."
+    }
+  ],
+  "live_catalogue_receipts": [
+    {
+      "url": "https://www.ediana.gwi.uni-muenchen.de/includes/api.php",
+      "method": "POST",
+      "request": {
+        "searchterms": "{}",
+        "corpus_text": "true",
+        "language": "hieroglyphic",
+        "docids": "122"
+      },
+      "status": 200,
+      "bytes": 60964,
+      "sha256": "b21ac9dc2fa91c56397574e5894e7313a1746a5f86c4d753c5e3b93904b91315",
+      "metadata_projection": [
+        {
+          "response_siglum": "KARAHÖYÜK (ELBİSTAN)",
+          "returned_docid": "122",
+          "references": [
+            "See KARAHÖYÜK (ELBİSTAN): obv. (A)",
+            "Hawkins 2000a:288-295",
+            "See KARAHÖYÜK (ELBİSTAN): obv. (A)"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.ediana.gwi.uni-muenchen.de/includes/api.php",
+      "method": "POST",
+      "request": {
+        "searchterms": "{}",
+        "corpus_text": "true",
+        "language": "hieroglyphic",
+        "docids": "123"
+      },
+      "status": 200,
+      "bytes": 35461,
+      "sha256": "fabe76d7c24146ad4d77402395a361e0a97c845c2da57a28f5290563c328fa83",
+      "metadata_projection": [
+        {
+          "response_siglum": "GÜRÜN",
+          "returned_docid": "123",
+          "references": [
+            "See GÜRÜN (upper inscription)",
+            "Hawkins 2000a:295-299"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.ediana.gwi.uni-muenchen.de/includes/api.php",
+      "method": "POST",
+      "request": {
+        "searchterms": "{}",
+        "corpus_text": "true",
+        "language": "hieroglyphic",
+        "docids": "283"
+      },
+      "status": 200,
+      "bytes": 17252,
+      "sha256": "dd46f512bad46d3b38bcdedf3b70db7c00519af9b4bf809d58947b7ea6443656",
+      "metadata_projection": [
+        {
+          "response_siglum": "KÖYLÜTOLU YAYLA",
+          "returned_docid": "283",
+          "references": [
+            "E. Masson 1980a"
+          ]
+        }
+      ]
+    }
+  ],
+  "reference_candidates": [
+    {
+      "link_id": "HL-CITY-REF-1",
+      "source_assertion_id": "HL-CITY-T1-1",
+      "source_locator": {
+        "printed_page": 50,
+        "pdf_ordinal": 4,
+        "table": "1",
+        "row": 1
+      },
+      "source_attestation": "KARAHÖYÜK § 3",
+      "source_case_literal": "acc.s.c. (unmarked)",
+      "source_form_literal": "URBS-mi-ní",
+      "catalogue_candidate_id": "EDIANA-HL-122",
+      "catalogue_siglum": "KARAHÖYÜK (ELBİSTAN)",
+      "catalogue_pointer": "/entries/122",
+      "match_status": "DOCUMENTARY_REFERENCE_CANDIDATE_ONLY",
+      "basis": "Article p.55 §4.4 explicitly identifies Elbistan and cites Hawkins2000:288–95, matching the dossier bibliography.",
+      "exact_section_alignment_established": false,
+      "linguistic_record_join_applied": false,
+      "canonical_acceptance": false,
+      "rights": "Source Table1 assertion CC BY4.0, Petra M. Goedegebuure2024; catalogue metadata and project-authored candidate notes do not relicense the underlying edition."
+    },
+    {
+      "link_id": "HL-CITY-REF-2",
+      "source_assertion_id": "HL-CITY-T1-2",
+      "source_locator": {
+        "printed_page": 50,
+        "pdf_ordinal": 4,
+        "table": "1",
+        "row": 2
+      },
+      "source_attestation": "KÖYLÜTOLU 1",
+      "source_case_literal": "dat.-loc.s.?",
+      "source_form_literal": "URBS-mi-ni",
+      "catalogue_candidate_id": "EDIANA-HL-283",
+      "catalogue_siglum": "KÖYLÜTOLU YAYLA",
+      "catalogue_pointer": "/entries/283",
+      "match_status": "DOCUMENTARY_REFERENCE_CANDIDATE_ONLY",
+      "basis": "Table1 name Köylütolu and catalogue name Köylütolu Yayla are a proposed alias match only; no shared exact source-locus identifier established.",
+      "exact_section_alignment_established": false,
+      "linguistic_record_join_applied": false,
+      "canonical_acceptance": false,
+      "rights": "Source Table1 assertion CC BY4.0, Petra M. Goedegebuure2024; catalogue metadata and project-authored candidate notes do not relicense the underlying edition."
+    },
+    {
+      "link_id": "HL-CITY-REF-3",
+      "source_assertion_id": "HL-CITY-T1-3",
+      "source_locator": {
+        "printed_page": 50,
+        "pdf_ordinal": 4,
+        "table": "1",
+        "row": 3
+      },
+      "source_attestation": "GÜRÜN § 3b (upper inscription)",
+      "source_case_literal": "dat.-loc.s.",
+      "source_form_literal": "URBS-mi-ni?",
+      "catalogue_candidate_id": "EDIANA-HL-123",
+      "catalogue_siglum": "GÜRÜN",
+      "catalogue_pointer": "/entries/123",
+      "match_status": "DOCUMENTARY_REFERENCE_CANDIDATE_ONLY",
+      "basis": "Article Table1 specifies the upper inscription; dossier includes the explicit upper-inscription cross-reference, but remains a grouped digital entry.",
+      "exact_section_alignment_established": false,
+      "linguistic_record_join_applied": false,
+      "canonical_acceptance": false,
+      "rights": "Source Table1 assertion CC BY4.0, Petra M. Goedegebuure2024; catalogue metadata and project-authored candidate notes do not relicense the underlying edition."
+    },
+    {
+      "link_id": "HL-CITY-REF-4",
+      "source_assertion_id": "HL-CITY-T1-4",
+      "source_locator": {
+        "printed_page": 50,
+        "pdf_ordinal": 4,
+        "table": "1",
+        "row": 4
+      },
+      "source_attestation": "KARAHÖYÜK § 16",
+      "source_case_literal": "acc.pl.c.",
+      "source_form_literal": "URBS-mi-ní-zi/a",
+      "catalogue_candidate_id": "EDIANA-HL-122",
+      "catalogue_siglum": "KARAHÖYÜK (ELBİSTAN)",
+      "catalogue_pointer": "/entries/122",
+      "match_status": "DOCUMENTARY_REFERENCE_CANDIDATE_ONLY",
+      "basis": "Article p.55 §4.4 explicitly identifies Elbistan and cites Hawkins2000:288–95, matching the dossier bibliography.",
+      "exact_section_alignment_established": false,
+      "linguistic_record_join_applied": false,
+      "canonical_acceptance": false,
+      "rights": "Source Table1 assertion CC BY4.0, Petra M. Goedegebuure2024; catalogue metadata and project-authored candidate notes do not relicense the underlying edition."
+    }
+  ],
+  "counts": {
+    "source_assertions": 4,
+    "unique_catalogue_candidates": 3,
+    "exact_linguistic_joins": 0,
+    "new_canonical_readings": 0
+  },
+  "source_dependence": "eDiAna’s bibliography is Hawkins/Masson-derived. Matching a bibliography or name does not independently corroborate a reading. Four author-reported assertions are not four newly inspected inscriptions.",
+  "rights_boundary": "Public API responses were projected to identity and bibliography only; no eDiAna linguistic text or annotation payload is retained or redistributed. Existing Table1 assertions retain CC BY4.0.",
+  "review_questions": [
+    "Do the catalogue names and bibliographic locators support each candidate reference?",
+    "Can an exact section or line be established without assuming that a grouped dossier is one physical inscription?",
+    "Are the distinct uncertainty scopes preserved, and which source editions can be lawfully inspected next?"
+  ],
+  "remaining_gates": [
+    "Direct inspection of the cited inscription editions at the exact sections",
+    "Disambiguate catalogue grouping, aliases and section identifiers before any linguistic join",
+    "Independent epigraphic review of the author-reported assertions"
+  ],
+  "result_status": "FOUR_REFERENCE_CANDIDATES_REPLAYABLE_EXACT_READING_JOINS_NOT_ESTABLISHED"
+}

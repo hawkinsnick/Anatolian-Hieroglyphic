@@ -25,3 +25,8 @@ Added a source-bound executed pilot, researcher walkthrough, reproducibility and
 ## 2026-10-17 — bounded source study
 
 Added attributed source-study records, reproducible native evidence bindings and unfilled specialist review packets. See [the scope, results and remaining gates](docs/SOURCE-STUDY-2026-10-17.md). No canonical reading or expert acceptance added.
+
+
+## 2026-10-18 — documentary follow-up and reviewer walkthrough
+
+Added an evidence-bound [reviewer walkthrough](docs/REVIEWER-WALKTHROUGH.md), explicitly simulated practice assessment, blank real response and replay controls. Added four reference candidates across three Luwian catalogue dossiers; no exact linguistic join established. Updated the individual AI authorities and combined routing. No canonical reading, expert acceptance or outreach added.

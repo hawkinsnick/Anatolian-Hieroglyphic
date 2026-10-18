@@ -15,3 +15,6 @@ Source: Petra M. Goedegebuure (2024), DOI above, Cambridge University Press, CC 
 `python scripts/source_study.py --check` replays the study, evidence-profile bindings, prepared packet and draft response. `python scripts/source_study.py --verify-sources /path/to/local-source-directory` additionally checks acquired source bytes against the receipts; source payloads are intentionally not bundled. `python -m unittest discover -s scripts -p test_source_study.py` checks drift and false scientific promotion.
 
 `research/source-study-2026-10-17.json` is the attributed source register; `review/source-study-packet.json` contains evidence-bound questions and exact locators; `review/source-study-response.json` is an unfilled native review form; `analysis/source-study-audit.json` records the replay. Use the evidence query's `source-study` collection for the exact study ID in the register. A prepared packet, a structural validation or source authorship is not an independent specialist review. Reviewer identity and assessment remain empty. No acceptance, calibration execution or message sending occurred.
+
+
+Subsequent work: [reviewer walkthrough and practice example](REVIEWER-WALKTHROUGH.md). The historical source study above remains scoped to its original evidence and access receipts.

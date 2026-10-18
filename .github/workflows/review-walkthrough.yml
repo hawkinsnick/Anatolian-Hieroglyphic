@@ -1,0 +1,14 @@
+name: Source follow-up and reviewer walkthrough
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  replay:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: python scripts/evidence_query.py --check
+      - run: python scripts/review_walkthrough.py --check
+      - run: python scripts/test_review_walkthrough.py

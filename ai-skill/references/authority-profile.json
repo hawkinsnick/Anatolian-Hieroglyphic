@@ -120,6 +120,56 @@
       "path": "analysis/source-study-audit.json",
       "role": "bounded_source_study",
       "required": true
+    },
+    {
+      "path": "research/review-exercise-2026-10-18.json",
+      "role": "source_followup_and_review_teaching",
+      "required": true
+    },
+    {
+      "path": "scripts/review_walkthrough.py",
+      "role": "source_followup_and_review_teaching",
+      "required": true
+    },
+    {
+      "path": "scripts/test_review_walkthrough.py",
+      "role": "source_followup_and_review_teaching",
+      "required": true
+    },
+    {
+      "path": "docs/REVIEWER-WALKTHROUGH.md",
+      "role": "source_followup_and_review_teaching",
+      "required": true
+    },
+    {
+      "path": "review/teaching-example.json",
+      "role": "source_followup_and_review_teaching",
+      "required": true
+    },
+    {
+      "path": "review/followup-packet.json",
+      "role": "source_followup_and_review_teaching",
+      "required": true
+    },
+    {
+      "path": "review/followup-response.json",
+      "role": "source_followup_and_review_teaching",
+      "required": true
+    },
+    {
+      "path": "analysis/review-walkthrough-audit.json",
+      "role": "source_followup_and_review_teaching",
+      "required": true
+    },
+    {
+      "path": "research/city-reference-crosswalk-2026-10-18.json",
+      "role": "source_followup_and_review_teaching",
+      "required": true
+    },
+    {
+      "path": "docs/CITY-REFERENCE-CROSSWALK.md",
+      "role": "source_followup_and_review_teaching",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -127,6 +177,7 @@
     "No independent-witness claim from a digital derivative of an edition.",
     "Preserve Empire/Post-Empire and authority-specific distinctions.",
     "Do not pool expansion catalogue identifiers, overlapping dossier views, casts or fragments as unique ancient objects; direct edition collation and linguistic admission remain separate.",
-    "Source-study author assertions and prepared review packets are not canonical readings, independent witnesses, delivered linguistic annotations or expert acceptance."
+    "Source-study author assertions and prepared review packets are not canonical readings, independent witnesses, delivered linguistic annotations or expert acceptance.",
+    "Keep review teaching examples distinct from actual submissions; preserve the PKZb21 text-rendition limit or Luwian reference-candidate scope where applicable."
   ]
 }

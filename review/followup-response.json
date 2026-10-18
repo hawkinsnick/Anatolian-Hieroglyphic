@@ -1,0 +1,35 @@
+{
+  "format": "native-review-submission-v1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "target": {
+    "collection": "city-reference-crosswalk",
+    "id": "HL-CITY-REFERENCE-CROSSWALK-20261018",
+    "provenance": {
+      "path": "research/city-reference-crosswalk-2026-10-18.json",
+      "sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded documentary follow-up",
+      "encoding": "json"
+    }
+  },
+  "profile_sha256": "538ab7a31e697b8fba22bf2dc547ab60343ee508fd7e69462b87adad7561e3e8",
+  "status": "DRAFT_NOT_REVIEWED",
+  "reviewer": {
+    "name": "",
+    "affiliation": "",
+    "expertise": "",
+    "identity_reference": "",
+    "conflicts": "",
+    "source_dependence": "",
+    "date": ""
+  },
+  "evidence_consulted": [],
+  "decision": "",
+  "reasoning": "",
+  "confidence": "",
+  "counterevidence": "",
+  "unresolved_objections": "",
+  "scientific_approval_granted": false,
+  "native_changes_applied": false
+}

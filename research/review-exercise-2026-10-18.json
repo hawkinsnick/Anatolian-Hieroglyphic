@@ -1,0 +1,14 @@
+{
+  "format": "review-exercise-v1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "demonstration_only": true,
+  "human_review_occurred": false,
+  "scientific_approval_granted": false,
+  "record_path": "research/city-reference-crosswalk-2026-10-18.json",
+  "target": {
+    "collection": "city-reference-crosswalk",
+    "id": "HL-CITY-REFERENCE-CROSSWALK-20261018"
+  },
+  "question": "Can four author-reported city attestations be joined to exact native inscription sections?",
+  "practice_assessment": "Four source assertions produce three catalogue reference candidates, with no exact section alignment or linguistic join. Inspect the alias and grouped-entry limits before linking readings. Preserve the different question-mark scopes. The proposed decision is a teaching example, not a specialist finding."
+}

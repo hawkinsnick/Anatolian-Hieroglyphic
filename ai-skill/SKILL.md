@@ -62,3 +62,6 @@ Read `docs/RESEARCH-TASK-PILOT.md` and `analysis/task-pilot-example.json` for th
 ## Source study and review handoff (2026-10-17)
 
 Route source-study questions through `docs/SOURCE-STUDY-2026-10-17.md`, `research/source-study-2026-10-17.json` and the native evidence-query `source-study` collection. Preserve source attribution, exact locators, reuse terms and uncertainty. The prepared `review/source-study-packet.json` and draft response do not establish specialist participation or acceptance. No canonical readings or calibration results are added by this study.
+
+
+For the source follow-up and reviewer exercise, read `docs/REVIEWER-WALKTHROUGH.md` and `research/review-exercise-2026-10-18.json`; retrieve its exact native target. Preserve the source register’s actual access level and all remaining gates. Treat `review/teaching-example.json` as a simulated project exercise with no reviewer, never a completed human assessment. Require the native blank response and independent source consultation for a real submission.

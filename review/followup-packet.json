@@ -1,0 +1,56 @@
+{
+  "format": "followup-review-packet-v1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "status": "PREPARED_NOT_REVIEWED",
+  "target": {
+    "collection": "city-reference-crosswalk",
+    "id": "HL-CITY-REFERENCE-CROSSWALK-20261018"
+  },
+  "provenance": {
+    "path": "research/city-reference-crosswalk-2026-10-18.json",
+    "sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+    "pointer": "",
+    "native_artifacts_snapshot_commit": null,
+    "role": "bounded documentary follow-up",
+    "encoding": "json"
+  },
+  "profile_sha256": "538ab7a31e697b8fba22bf2dc547ab60343ee508fd7e69462b87adad7561e3e8",
+  "question": "Can four author-reported city attestations be joined to exact native inscription sections?",
+  "review_questions": [
+    "Do the catalogue names and bibliographic locators support each candidate reference?",
+    "Can an exact section or line be established without assuming that a grouped dossier is one physical inscription?",
+    "Are the distinct uncertainty scopes preserved, and which source editions can be lawfully inspected next?"
+  ],
+  "remaining_gates": [
+    "Direct inspection of the cited inscription editions at the exact sections",
+    "Disambiguate catalogue grouping, aliases and section identifiers before any linguistic join",
+    "Independent epigraphic review of the author-reported assertions"
+  ],
+  "guide": "docs/REVIEWER-WALKTHROUGH.md",
+  "source_access": [
+    {
+      "source_id": "GOEDEGEBUURE2024",
+      "citation": "Petra M. Goedegebuure (2024), The Luwian word for city, town, Anatolian Studies74,47–73. DOI10.1017/S0066154624000085.",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E40561507836B56497F24AD7445B9BAB/S0066154624000085a.pdf/the-luwian-word-for-city-town.pdf",
+      "locator": "Printed p.50 Table1 rows1–4; p.55 §4.4, catalogue/edition reference only",
+      "page_image_checked": true,
+      "receipt": {
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E40561507836B56497F24AD7445B9BAB/S0066154624000085a.pdf/the-luwian-word-for-city-town.pdf",
+        "final_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E40561507836B56497F24AD7445B9BAB/S0066154624000085a.pdf/the-luwian-word-for-city-town.pdf",
+        "status": 200,
+        "bytes": 2676160,
+        "sha256": "4e90f97bb286cf201b97eef736120c9bc406d3a435734285666fb4b9ce52e583",
+        "pdf": true,
+        "kind": "ORIGIN_PDF_RESPONSE",
+        "local_filename": "luwian-city.pdf"
+      },
+      "rights": "CC BY4.0; source assertions retain this licence, with attribution and project structuring declared. No PDF/images redistributed."
+    }
+  ],
+  "real_response_form": "review/followup-response.json",
+  "teaching_example": "review/teaching-example.json",
+  "reviewer": null,
+  "assessment": null,
+  "human_review_occurred": false,
+  "scientific_approval_granted": false
+}
