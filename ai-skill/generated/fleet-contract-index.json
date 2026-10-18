@@ -39,13 +39,13 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "045a006cf0091fb051904a78d66c688064eb0d6fc287f3eb0cdc613e60de9261",
-      "bytes": 8362
+      "sha256": "dcb1c7dd37951c7d010b03cfd8dfc0b1b826feefea41424e7c36215e40887f76",
+      "bytes": 8824
     },
     {
       "path": "ai-skill/generated/research-bundle-index.json",
-      "sha256": "c3fbb84966c8295864d2186117c123bf1800d218e3bb731d7469be521ae3f947",
-      "bytes": 10306
+      "sha256": "d2c3a38a1f5522654aa75006aa7778e0a5c35b1ed6f947e2a68e14574aebae7f",
+      "bytes": 12328
     },
     {
       "path": "ai-skill/manifest.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "ai-skill/references/authority-profile.json",
-      "sha256": "ffeac16e275fe2940281f8e13deca63fa826558d57a9742113a18bd03b29d63f",
-      "bytes": 3533
+      "sha256": "ca3ddd0e69858df8c4b4b423abff2d96a9161096384c0b207453193daa009e0a",
+      "bytes": 5103
     },
     {
       "path": "ai-skill/references/corpus-project-contract.md",
@@ -99,13 +99,18 @@
     },
     {
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "e21803b14536e2cf14b581eed1d82b9386f4cc6629d56c83e88269a9192b6050",
-      "bytes": 8390
+      "sha256": "a0390a46b4ec6132cc1561fd9f92cb9f9b0c63a8c29a4664b0adf30ad59ac0b5",
+      "bytes": 9416
     },
     {
       "path": "analysis/research-delivery.json",
-      "sha256": "d28383181c29144d7fc95bc8299f6708897aced190c3b6f712b39b1d4c11bb1b",
-      "bytes": 8956
+      "sha256": "b8de484b9d33a72b5a7ba12a7703f40f46fdd6a305ce435b70e7d4684e4517de",
+      "bytes": 9861
+    },
+    {
+      "path": "analysis/review-walkthrough-audit.json",
+      "sha256": "f8370d6b6429f5bc967ea93bc59463b04b1f7ed3ecc953892baa1b7e30c4d15d",
+      "bytes": 723
     },
     {
       "path": "analysis/source-study-audit.json",
@@ -133,6 +138,11 @@
       "bytes": 2893
     },
     {
+      "path": "docs/CITY-REFERENCE-CROSSWALK.md",
+      "sha256": "bc719e66f7a6243bbc17e3822e468a1403f05a1d524897f003cf2d0fed02569e",
+      "bytes": 1367
+    },
+    {
       "path": "docs/COVERAGE-EXPANSION-2026-10-12.md",
       "sha256": "2fbd928ce8ba7c0f276a537800d1e620a44a2e7367b7fc2cfc8c05d8699fc0b3",
       "bytes": 1611
@@ -158,9 +168,14 @@
       "bytes": 4298
     },
     {
+      "path": "docs/REVIEWER-WALKTHROUGH.md",
+      "sha256": "bef6dcd41882ab27b91bf6c56658e1b289bb9cc14f9c7149dfcdf95b74f99f7a",
+      "bytes": 3684
+    },
+    {
       "path": "docs/SOURCE-STUDY-2026-10-17.md",
-      "sha256": "4f55c8d3c82d9226b486a85339311d05f81b33335c739bfdc9c044b403931889",
-      "bytes": 2743
+      "sha256": "eba069a4a9492d3ab6fd9e9ef03561fbb54795c20b42f42b30c3e4c3f0e78381",
+      "bytes": 2927
     },
     {
       "path": "project.json",
@@ -171,6 +186,11 @@
       "path": "research/attribution-review.json",
       "sha256": "dbaf0d96958d0278c32970ff9db3acbfd496a5c095e62367f46bafd679866e06",
       "bytes": 4458
+    },
+    {
+      "path": "research/city-reference-crosswalk-2026-10-18.json",
+      "sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+      "bytes": 9872
     },
     {
       "path": "research/cross-corpus-dependencies.json",
@@ -199,8 +219,8 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "7b00de8f38a7712c16e510db7735afb7e9accfbdd53bc50d7a3b87123c23b9b6",
-      "bytes": 5944
+      "sha256": "538ab7a31e697b8fba22bf2dc547ab60343ee508fd7e69462b87adad7561e3e8",
+      "bytes": 6638
     },
     {
       "path": "research/monumental-link-snapshot.json",
@@ -213,19 +233,39 @@
       "bytes": 1867
     },
     {
+      "path": "research/review-exercise-2026-10-18.json",
+      "sha256": "81ca32ec43abca1555c0ee62eafffb00769ecdb63604dd798b9116a8f816971d",
+      "bytes": 820
+    },
+    {
       "path": "research/source-study-2026-10-17.json",
       "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
       "bytes": 7878
     },
     {
+      "path": "review/followup-packet.json",
+      "sha256": "89e94f4dbc0837db4c6f209795933a0e2463311d9451fddd097d280b714a1959",
+      "bytes": 2954
+    },
+    {
+      "path": "review/followup-response.json",
+      "sha256": "0534093ca1a3284cafaa9454b961380687de5608739e2f6999ef4f2fb4af6a1d",
+      "bytes": 1047
+    },
+    {
       "path": "review/source-study-packet.json",
-      "sha256": "28eb58622d884ccd7201fd6363708eb72abfe0d8439ff3d04c998d2617aecddf",
+      "sha256": "5097de0431f81e7945caaca55e9ac678a611862d897aac15135212d36dacd277",
       "bytes": 3782
     },
     {
       "path": "review/source-study-response.json",
-      "sha256": "6e2e4c8eb9bd2de8ea2f3e052f68b2dd7c06c1b107ff94b6098e7b54ae1af052",
+      "sha256": "1e6d0f4f4cc5405688edaf981e9fc26a36739f04898c9407a710bcc38187c985",
       "bytes": 1018
+    },
+    {
+      "path": "review/teaching-example.json",
+      "sha256": "b6a39c81ef800322a43398b49522f81674ff3b42d8e74c80788c0ed8d4eab764",
+      "bytes": 1497
     },
     {
       "path": "scripts/attribution_review.py",
@@ -241,6 +281,11 @@
       "path": "scripts/research_delivery.py",
       "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
       "bytes": 10075
+    },
+    {
+      "path": "scripts/review_walkthrough.py",
+      "sha256": "fe919dac5b73a6426af4d7240d90b6cdc65646dc477b6384654143c39537403b",
+      "bytes": 8485
     },
     {
       "path": "scripts/source_study.py",
@@ -266,6 +311,11 @@
       "path": "scripts/test_research_delivery.py",
       "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
       "bytes": 5678
+    },
+    {
+      "path": "scripts/test_review_walkthrough.py",
+      "sha256": "b018dc513ba3e1e030f79f2421ad812edfcf13382cbb66400aa86b5260694ff4",
+      "bytes": 2230
     },
     {
       "path": "scripts/test_source_study.py",
