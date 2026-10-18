@@ -170,6 +170,16 @@
       "path": "docs/CITY-REFERENCE-CROSSWALK.md",
       "role": "source_followup_and_review_teaching",
       "required": true
+    },
+    {
+      "path": "research/edition-page-check-2026-10-18.json",
+      "role": "source_page_and_structure_check",
+      "required": true
+    },
+    {
+      "path": "docs/EDITION-PAGE-CHECK-2026-10-18.md",
+      "role": "source_page_and_structure_check",
+      "required": true
     }
   ],
   "behavioral_gates": [

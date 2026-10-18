@@ -30,3 +30,7 @@ Added attributed source-study records, reproducible native evidence bindings and
 ## 2026-10-18 — documentary follow-up and reviewer walkthrough
 
 Added an evidence-bound [reviewer walkthrough](docs/REVIEWER-WALKTHROUGH.md), explicitly simulated practice assessment, blank real response and replay controls. Added four reference candidates across three Luwian catalogue dossiers; no exact linguistic join established. Updated the individual AI authorities and combined routing. No canonical reading, expert acceptance or outreach added.
+
+## Source access checkpoint — 2026-10-18
+
+Added `research/edition-page-check-2026-10-18.json` and guide, native evidence-query route and individual AI authorities. Retained all unresolved acquisition, rights and scholarly acceptance gates.

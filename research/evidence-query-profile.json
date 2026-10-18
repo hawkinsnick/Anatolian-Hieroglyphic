@@ -59,6 +59,15 @@
       "singleton": true,
       "unit": "bounded documentary follow-up case",
       "scope": "Preserve text-rendition/access qualifications or catalogue-reference-candidate status; no canonical reading, linguistic join or scientific acceptance."
+    },
+    {
+      "name": "city-edition-page-check",
+      "path": "research/edition-page-check-2026-10-18.json",
+      "pointer": "",
+      "id_pointer": "/case_id",
+      "singleton": true,
+      "unit": "bounded source access or structure inspection",
+      "scope": "Preserve actual page/snapshot scope. No canonical readings, physical joins, linked annotation delivery or human acceptance inferred."
     }
   ],
   "relations": [],
@@ -139,6 +148,12 @@
       "encoding": "json",
       "role": "bounded documentary follow-up",
       "source_snapshot_commit": null
+    },
+    {
+      "path": "research/edition-page-check-2026-10-18.json",
+      "sha256": "0c9f11302fcd9180277b75e87714fea8ff06aa6b91b86d066364183fb1b9aa7e",
+      "encoding": "json",
+      "role": "bounded source access or structure check"
     }
   ],
   "scholarly_limits": [

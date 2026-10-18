@@ -1,0 +1,85 @@
+{
+  "format": "bounded-source-page-check-v1",
+  "checked_date": "2026-10-18",
+  "canonical_readings_added": 0,
+  "expert_acceptance_added": false,
+  "messages_sent": false,
+  "physical_identity_certified": false,
+  "independent_witness_established": false,
+  "case_id": "HL-CITY-EDITION-PAGES-20261018",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "source": {
+    "source_id": "PEKER2022-AHYB1",
+    "author": "Hasan Peker",
+    "year": 2022,
+    "title": "Anadolu Hiyeroglif Yazılı Belgeler 1: Geç Hitit Karkamış Krallığı Yazıtları",
+    "doi": "10.12878/AHYB1",
+    "pdf_isbn": "978-88-7849-181-6",
+    "url": "https://www.antequem.it/ew/ew_catalogo/7/Peker_2022_AHYB_1_web_PDF.pdf",
+    "bytes": 22561687,
+    "sha256": "63bae9f8b6ee0f4687408efd77bafce62c9191a8923656cd7a5f7c85841c4534",
+    "pdf_acquired": true,
+    "visually_checked_pdf_ordinals": [
+      8,
+      104,
+      105,
+      106
+    ],
+    "printed_pages_checked": [
+      96,
+      97,
+      98
+    ],
+    "rights": "Source-specific copyright; image notice is not a standard licence for text/corpus redistribution. Bibliography and brief original critical notes only; no PDF, OCR, drawings or page images redistributed.",
+    "dependence": "Selected bibliography cites Hawkins 2000:288–295 for KARAHÖYÜK and 295–299 for GÜRÜN. This is consultation of Peker 2022, not direct consultation of Hawkins 2000 or independent object autopsy."
+  },
+  "earlier_cited_edition_hawkins2000_checked": false,
+  "linguistic_record_join_applied": false,
+  "canonical_acceptance": false,
+  "checks": [
+    {
+      "assertion_id": "HL-CITY-T1-1",
+      "target": "KARAHÖYÜK §3",
+      "catalogue_candidate": "EDIANA-HL-122",
+      "source_locator": "Peker 2022 p.96 (PDF ordinal104), Appendix3.1 §3; continuation p.97",
+      "target_section_located": true,
+      "documentary_section_correspondence_established": true,
+      "source_literal": "URBS.MI-ní",
+      "article_literal": "URBS-mi-ní",
+      "normalization_applied": false,
+      "result": "SELECTED_EDITION_SECTION_LOCATED_NOT_NATIVE_OCCURRENCE_JOIN"
+    },
+    {
+      "assertion_id": "HL-CITY-T1-2",
+      "target": "KÖYLÜTOLU 1",
+      "catalogue_candidate": "EDIANA-HL-283",
+      "target_section_located": false,
+      "documentary_section_correspondence_established": false,
+      "result": "NO_TARGET_FOUND_IN_BOOK_TEXT_SEARCH_NOT_PROOF_OF_UNIVERSAL_ABSENCE"
+    },
+    {
+      "assertion_id": "HL-CITY-T1-3",
+      "target": "GÜRÜN §3b (upper inscription)",
+      "catalogue_candidate": "EDIANA-HL-123",
+      "source_locator": "Peker 2022 pp.97–98 (PDF ordinals105–106), Appendix3.2",
+      "target_section_located": false,
+      "documentary_section_correspondence_established": false,
+      "result": "UPPER_INSCRIPTION_HEADING_PRESENT_BUT_ONLY_SECTION1a_b_c_TRANSCRIBED_NOT_TARGET3b"
+    },
+    {
+      "assertion_id": "HL-CITY-T1-4",
+      "target": "KARAHÖYÜK §16",
+      "catalogue_candidate": "EDIANA-HL-122",
+      "source_locator": "Peker 2022 pp.96–97, Appendix3.1",
+      "target_section_located": false,
+      "documentary_section_correspondence_established": false,
+      "result": "SELECTED_EXCERPT_HAS_SECTIONS1_TO4_AND_SECTION11_COMMENT_NOT_TARGET16"
+    }
+  ],
+  "remaining_work": [
+    "Consult Hawkins 2000 pp.288–299, including §16 and GÜRÜN upper §3b, before calling the original edition checked.",
+    "Consult E. Masson 1980a exact KÖYLÜTOLU section and apparatus; retain dat.-loc.s.? as classification uncertainty.",
+    "Collate notation and apparatus in source context; preserve URBS.MI-ní and URBS-mi-ní separately.",
+    "Require exact occurrence/geometry and rights review before any linguistic dossier join."
+  ]
+}

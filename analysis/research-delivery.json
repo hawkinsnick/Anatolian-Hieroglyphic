@@ -136,6 +136,23 @@
         "role": "bounded documentary follow-up",
         "encoding": "json"
       }
+    },
+    {
+      "name": "city-edition-page-check",
+      "native_unit": "bounded source access or structure inspection",
+      "record_count": 1,
+      "scope": "Preserve actual page/snapshot scope. No canonical readings, physical joins, linked annotation delivery or human acceptance inferred.",
+      "example_ids": [
+        "HL-CITY-EDITION-PAGES-20261018"
+      ],
+      "provenance": {
+        "path": "research/edition-page-check-2026-10-18.json",
+        "sha256": "0c9f11302fcd9180277b75e87714fea8ff06aa6b91b86d066364183fb1b9aa7e",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded source access or structure check",
+        "encoding": "json"
+      }
     }
   ],
   "scholarly_limits": [
@@ -171,8 +188,8 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "dcb1c7dd37951c7d010b03cfd8dfc0b1b826feefea41424e7c36215e40887f76",
-      "bytes": 8824
+      "sha256": "841f9bb877db86733244201eeb8e54596c44f9df601f1db14b3e187f46eb7027",
+      "bytes": 9334
     },
     {
       "path": "data/sources.json",
@@ -210,14 +227,19 @@
       "bytes": 1136
     },
     {
+      "path": "research/edition-page-check-2026-10-18.json",
+      "sha256": "0c9f11302fcd9180277b75e87714fea8ff06aa6b91b86d066364183fb1b9aa7e",
+      "bytes": 3726
+    },
+    {
       "path": "research/edition-reconciliation-pilot.json",
       "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
       "bytes": 2452
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "538ab7a31e697b8fba22bf2dc547ab60343ee508fd7e69462b87adad7561e3e8",
-      "bytes": 6638
+      "sha256": "f285ff85db6266c677da865614b2e8067e308738b2144425884b320fc8c8c535",
+      "bytes": 7285
     },
     {
       "path": "research/expert-review-packet.json",

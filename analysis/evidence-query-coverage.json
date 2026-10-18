@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Anatolian-Hieroglyphic",
-  "profile_sha256": "538ab7a31e697b8fba22bf2dc547ab60343ee508fd7e69462b87adad7561e3e8",
+  "profile_sha256": "f285ff85db6266c677da865614b2e8067e308738b2144425884b320fc8c8c535",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -132,6 +132,23 @@
         "role": "bounded documentary follow-up",
         "encoding": "json"
       }
+    },
+    {
+      "name": "city-edition-page-check",
+      "native_unit": "bounded source access or structure inspection",
+      "record_count": 1,
+      "scope": "Preserve actual page/snapshot scope. No canonical readings, physical joins, linked annotation delivery or human acceptance inferred.",
+      "example_ids": [
+        "HL-CITY-EDITION-PAGES-20261018"
+      ],
+      "provenance": {
+        "path": "research/edition-page-check-2026-10-18.json",
+        "sha256": "0c9f11302fcd9180277b75e87714fea8ff06aa6b91b86d066364183fb1b9aa7e",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded source access or structure check",
+        "encoding": "json"
+      }
     }
   ],
   "context_resources": [
@@ -221,6 +238,14 @@
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "bounded documentary follow-up",
+      "encoding": "json"
+    },
+    {
+      "path": "research/edition-page-check-2026-10-18.json",
+      "sha256": "0c9f11302fcd9180277b75e87714fea8ff06aa6b91b86d066364183fb1b9aa7e",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded source access or structure check",
       "encoding": "json"
     }
   ],
