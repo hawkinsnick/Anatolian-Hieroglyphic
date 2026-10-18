@@ -32,14 +32,14 @@
     {
       "path": "ai-skill/SKILL.md",
       "role": "native_authority",
-      "sha256": "dcb1c7dd37951c7d010b03cfd8dfc0b1b826feefea41424e7c36215e40887f76",
-      "bytes": 8824
+      "sha256": "841f9bb877db86733244201eeb8e54596c44f9df601f1db14b3e187f46eb7027",
+      "bytes": 9334
     },
     {
       "path": "ai-skill/references/authority-profile.json",
       "role": "native_authority",
-      "sha256": "ca3ddd0e69858df8c4b4b423abff2d96a9161096384c0b207453193daa009e0a",
-      "bytes": 5103
+      "sha256": "f0907ac43d6002146d8633139a09cb6cae16a0ec17c1c87258a2f307bf3a9adc",
+      "bytes": 5389
     },
     {
       "path": "ai-skill/scripts/build_bundle.py",
@@ -74,19 +74,19 @@
     {
       "path": "analysis/evidence-query-coverage.json",
       "role": "native_authority",
-      "sha256": "a0390a46b4ec6132cc1561fd9f92cb9f9b0c63a8c29a4664b0adf30ad59ac0b5",
-      "bytes": 9416
+      "sha256": "97ea1604075c04d22c310126d3c8bd81c82eccb59bab644e2d691f5b49ef56e1",
+      "bytes": 10438
     },
     {
       "path": "analysis/research-delivery.json",
       "role": "native_authority",
-      "sha256": "b8de484b9d33a72b5a7ba12a7703f40f46fdd6a305ce435b70e7d4684e4517de",
-      "bytes": 9861
+      "sha256": "35dcb4aba9858fb00076e4ef1e6a273836210b62356522cc18abce9bfbb193f1",
+      "bytes": 10751
     },
     {
       "path": "analysis/review-walkthrough-audit.json",
       "role": "native_authority",
-      "sha256": "f8370d6b6429f5bc967ea93bc59463b04b1f7ed3ecc953892baa1b7e30c4d15d",
+      "sha256": "fd60187023024adf364bceb906befcc7fadf615b2b22414a019001ab2afab74e",
       "bytes": 723
     },
     {
@@ -136,6 +136,12 @@
       "role": "native_authority",
       "sha256": "387a40ed51e7f423e164ae58e9f522a4e9228b7dcfe7b13462bdf77aa7ba59f3",
       "bytes": 46152
+    },
+    {
+      "path": "docs/EDITION-PAGE-CHECK-2026-10-18.md",
+      "role": "native_authority",
+      "sha256": "8ca52a7efa4894a1a50d0015eb943520c1bdf01e444c2a40c67370652c7b03d7",
+      "bytes": 1768
     },
     {
       "path": "docs/EVIDENCE-AND-ALTERNATIVES.md",
@@ -216,10 +222,16 @@
       "bytes": 19848
     },
     {
+      "path": "research/edition-page-check-2026-10-18.json",
+      "role": "native_authority",
+      "sha256": "0c9f11302fcd9180277b75e87714fea8ff06aa6b91b86d066364183fb1b9aa7e",
+      "bytes": 3726
+    },
+    {
       "path": "research/evidence-query-profile.json",
       "role": "native_authority",
-      "sha256": "538ab7a31e697b8fba22bf2dc547ab60343ee508fd7e69462b87adad7561e3e8",
-      "bytes": 6638
+      "sha256": "f285ff85db6266c677da865614b2e8067e308738b2144425884b320fc8c8c535",
+      "bytes": 7285
     },
     {
       "path": "research/monumental-link-snapshot.json",
@@ -248,31 +260,31 @@
     {
       "path": "review/followup-packet.json",
       "role": "native_authority",
-      "sha256": "89e94f4dbc0837db4c6f209795933a0e2463311d9451fddd097d280b714a1959",
+      "sha256": "5ffd49cfff01969eab1a5cc71dce236053f35a95613838761394bd3b2c2ee00e",
       "bytes": 2954
     },
     {
       "path": "review/followup-response.json",
       "role": "native_authority",
-      "sha256": "0534093ca1a3284cafaa9454b961380687de5608739e2f6999ef4f2fb4af6a1d",
+      "sha256": "d82140839d19efcf682da91da8f8ef6b823ee85cff667c1f592c8a24ebe41366",
       "bytes": 1047
     },
     {
       "path": "review/source-study-packet.json",
       "role": "native_authority",
-      "sha256": "5097de0431f81e7945caaca55e9ac678a611862d897aac15135212d36dacd277",
+      "sha256": "1400308ae954deea1f9feec2939631d713a40a95ce598ccb09c58688022330d1",
       "bytes": 3782
     },
     {
       "path": "review/source-study-response.json",
       "role": "native_authority",
-      "sha256": "1e6d0f4f4cc5405688edaf981e9fc26a36739f04898c9407a710bcc38187c985",
+      "sha256": "6f94967ffc580a5e0945f31d9684c462181694af96e264eff68ec5fb0a1fac24",
       "bytes": 1018
     },
     {
       "path": "review/teaching-example.json",
       "role": "native_authority",
-      "sha256": "b6a39c81ef800322a43398b49522f81674ff3b42d8e74c80788c0ed8d4eab764",
+      "sha256": "9aadbc55981ec2071e5b0328d4e6a1393f694ed02cd6c59ea29462164381a533",
       "bytes": 1497
     },
     {
@@ -348,5 +360,5 @@
       "bytes": 936
     }
   ],
-  "source_commit": "d66e85959748c9e63506b1c0a6db3ecb813188ea"
+  "source_commit": "25267781e2f4a244b699e168175addfb8e1661fd"
 }
