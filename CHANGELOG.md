@@ -34,3 +34,7 @@ Added an evidence-bound [reviewer walkthrough](docs/REVIEWER-WALKTHROUGH.md), ex
 ## Source access checkpoint — 2026-10-18
 
 Added `research/edition-page-check-2026-10-18.json` and guide, native evidence-query route and individual AI authorities. Retained all unresolved acquisition, rights and scholarly acceptance gates.
+
+## Public source route inspection — 2026-10-19 UTC
+
+Added `research/visual-source-routes-2026-10-19.json`, guide and native evidence/AI routes. Preserves incomplete source access, source-method limits and absence of clause/linguistic joins.

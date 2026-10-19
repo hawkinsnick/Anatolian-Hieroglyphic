@@ -1,0 +1,185 @@
+{
+  "format": "bounded-visual-source-register-v1",
+  "case_id": "HL-VISUAL-SOURCE-ROUTES-20261019",
+  "checked_date_utc": "2026-10-19",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "scope": "six Gelb page/plate presentations and three hosted derivative drawing routes; not object or witness counts",
+  "sources": [
+    {
+      "source_id": "GELB1939-OIP45",
+      "citation": "Ignace J. Gelb (1939), Hittite Hieroglyphic Monuments, Oriental Institute Publications45, Chicago.",
+      "publisher_url": "https://isac.uchicago.edu/publications/hittite-hieroglyphic-monuments",
+      "doi": "10.83354/gd5s-4161",
+      "receipt": {
+        "url": "https://isac-assets.s3.amazonaws.com/isac-publications/oip45.pdf?VersionId=Nv87OVO4iRK82DbQkm0Vz71yNf.C514U",
+        "final_url": "https://isac-assets.s3.amazonaws.com/isac-publications/oip45.pdf?VersionId=Nv87OVO4iRK82DbQkm0Vz71yNf.C514U",
+        "status": 200,
+        "bytes": 15274973,
+        "sha256": "4f91f5dce9d689aed631b05e51643be686935ff0f1f95f32477d196d5dcaa46a",
+        "pdf_signature": true
+      },
+      "publisher_declared_license": "CC BY-NC-ND4.0",
+      "reuse_scope": "Publisher source consultation and original descriptive/provenance notes only. No PDF, OCR, page images, extracted drawings or sign data redistributed. No claim that the ND condition licenses adaptations.",
+      "direct_pdf_consulted": true,
+      "page_images_checked": [
+        47,
+        54,
+        99,
+        122,
+        123,
+        124
+      ],
+      "page_ordinal_basis": "one-based PDF page sequence, not printed page or plate number"
+    }
+  ],
+  "records": [
+    {
+      "record_id": "GELB1939-GURUN-CONTEXT",
+      "source_id": "GELB1939-OIP45",
+      "locator": "p.29, nos.23–24",
+      "pdf_ordinal": 47,
+      "presentation_kind": "author-method-note",
+      "page_image_checked": true,
+      "critical_note": "Gelb reports photographing both inscriptions and collating selected passages; he explicitly says he lacked time for accurate complete copies. This is not a complete sign collation.",
+      "native_linguistic_join": null,
+      "target_clause_alignment": null,
+      "pixel_geometry": null,
+      "canonical_acceptance": false
+    },
+    {
+      "record_id": "GELB1939-KOYLUTOLU-CONTEXT",
+      "source_id": "GELB1939-OIP45",
+      "locator": "p.36, no.41",
+      "pdf_ordinal": 54,
+      "presentation_kind": "bibliographic-source-note",
+      "page_image_checked": true,
+      "critical_note": "The entry routes to older publications; it does not provide the target modern clause transcription.",
+      "native_linguistic_join": null,
+      "target_clause_alignment": null,
+      "pixel_geometry": null,
+      "canonical_acceptance": false
+    },
+    {
+      "record_id": "GELB1939-GURUN-PL39",
+      "source_id": "GELB1939-OIP45",
+      "locator": "plateXXXIX, nos.23 and24",
+      "pdf_ordinal": 99,
+      "presentation_kind": "two-photograph-plate",
+      "page_image_checked": true,
+      "critical_note": "Captions distinguish Gürün I and II. No I/II-to-upper/lower mapping or §3b polygon is asserted by this register.",
+      "native_linguistic_join": null,
+      "target_clause_alignment": null,
+      "pixel_geometry": null,
+      "canonical_acceptance": false
+    },
+    {
+      "record_id": "GELB1939-KOYLUTOLU-PL62",
+      "source_id": "GELB1939-OIP45",
+      "locator": "plateLXII, no.41",
+      "pdf_ordinal": 122,
+      "presentation_kind": "photographic-plate",
+      "page_image_checked": true,
+      "critical_note": "Front and top views; caption reports approximate scale1:12. The printed scale is not a calibrated pixel-to-object transform.",
+      "native_linguistic_join": null,
+      "target_clause_alignment": null,
+      "pixel_geometry": null,
+      "canonical_acceptance": false
+    },
+    {
+      "record_id": "GELB1939-KOYLUTOLU-PL63",
+      "source_id": "GELB1939-OIP45",
+      "locator": "plateLXIII, no.41",
+      "pdf_ordinal": 123,
+      "presentation_kind": "editorial-drawing-plate",
+      "page_image_checked": true,
+      "critical_note": "Three physical rows shown; caption reports approximate scale1:8. Drawn forms are editorial evidence, not unmediated image truth.",
+      "native_linguistic_join": null,
+      "target_clause_alignment": null,
+      "pixel_geometry": null,
+      "canonical_acceptance": false
+    },
+    {
+      "record_id": "GELB1939-KOYLUTOLU-PL64",
+      "source_id": "GELB1939-OIP45",
+      "locator": "plateLXIV, no.41",
+      "pdf_ordinal": 124,
+      "presentation_kind": "photographic-detail-plate",
+      "page_image_checked": true,
+      "critical_note": "Right/left ends shown. Multiple photographs remain presentations of the same named monument, not additional objects.",
+      "native_linguistic_join": null,
+      "target_clause_alignment": null,
+      "pixel_geometry": null,
+      "canonical_acceptance": false
+    }
+  ],
+  "hosted_derivative_routes": [
+    {
+      "route_id": "gurun-hawkins",
+      "receipt": {
+        "url": "https://www.hittitemonuments.com/gurun/gurun04.jpg",
+        "bytes": 201375,
+        "sha256": "4742185793a9010922a50e147b14c9a9abf4797de722477d224ccbadf601c9cf",
+        "payload_redistributed": false
+      },
+      "image_checked": true,
+      "critical_note": "Drawing labelled as the upper inscription by the hosting page, showing physical lines1–6; the visible line3 is not a demonstrated alignment to clause§3b.",
+      "rights": "Source-specific rights; no new reuse permission inferred from public hosting. No image payload redistributed.",
+      "full_edition_checked": false,
+      "target_clause_alignment": null,
+      "independent_witness_established": false,
+      "source_credit_summary": "J. D. Hawkins, Corpus,2000"
+    },
+    {
+      "route_id": "koylutolu-gelb",
+      "receipt": {
+        "url": "https://www.hittitemonuments.com/koylutolu/koylutolu05.jpg",
+        "bytes": 162905,
+        "sha256": "79b5b9cdd203877871b71506dba9204e1efcf3b383dbc4fadc33b53a3de5b42e",
+        "payload_redistributed": false
+      },
+      "image_checked": true,
+      "critical_note": "Hosted Gelb drawing is a derivative route to the same editorial source checked in plateLXIII; it is not another witness.",
+      "rights": "Source-specific rights; no new reuse permission inferred from public hosting. No image payload redistributed.",
+      "full_edition_checked": false,
+      "target_clause_alignment": null,
+      "independent_witness_established": false,
+      "source_credit_summary": "I. J. Gelb, HHM,1939"
+    },
+    {
+      "route_id": "koylutolu-hawkins",
+      "receipt": {
+        "url": "https://www.hittitemonuments.com/koylutolu/koylutolu09.jpg",
+        "bytes": 215822,
+        "sha256": "0738a91a196990c673f8f3b9d13b890524b9980326b87a151db96719399b8042",
+        "payload_redistributed": false
+      },
+      "image_checked": true,
+      "critical_note": "Hosted drawing includes an inset labelled collation(l.2 middle). Its existence is not consultation of the complete2024 edition or its apparatus.",
+      "rights": "Source-specific rights; no new reuse permission inferred from public hosting. No image payload redistributed.",
+      "full_edition_checked": false,
+      "target_clause_alignment": null,
+      "independent_witness_established": false,
+      "source_credit_summary": "J. D. Hawkins, CHLI3,2024"
+    }
+  ],
+  "physical_line_to_clause_mapping_established": false,
+  "hawkins2000_full_target_pages_checked": false,
+  "masson1980_original_pages_checked": false,
+  "canonical_readings_added": 0,
+  "physical_identity_certified": false,
+  "expert_acceptance_added": false,
+  "messages_sent": false,
+  "masson_access": {
+    "doi": "10.1515/kadmos-1980-0206",
+    "citation": "Émilia Masson(1980), Les inscriptions louvites hiéroglyphiques de Köylütolu et Beyköy, Kadmos19,106–122.",
+    "observed_publisher_status": 202,
+    "response_bytes": 0,
+    "pdf_acquired": false,
+    "note": "DOI independently corroborated by bibliography in the scholarly publisher page for janeh-2017-0004. Empty publisher response is not paper delivery."
+  },
+  "remaining_gates": [
+    "Exact modern clause/word alignments require the cited edition transcription and apparatus, not line-number guesses.",
+    "No source imagery or graphical training gold admitted; rights and occurrence annotation remain open.",
+    "Hawkins2000 target pages, Masson1980 original pages and expert review remain required."
+  ]
+}

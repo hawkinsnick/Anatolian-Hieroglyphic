@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Anatolian-Hieroglyphic",
-  "profile_sha256": "f285ff85db6266c677da865614b2e8067e308738b2144425884b320fc8c8c535",
+  "profile_sha256": "22f8020003deddcda9368c6e385eb516fa328df61942bf81719038ec81eb28d1",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -149,6 +149,42 @@
         "role": "bounded source access or structure check",
         "encoding": "json"
       }
+    },
+    {
+      "name": "visual-source-routes",
+      "native_unit": "bounded source-route inspection",
+      "record_count": 1,
+      "scope": "Actual consulted pages/responses only; no unique-object counts, clause/line equivalence, linked annotation delivery, new canonical readings or independent review.",
+      "example_ids": [
+        "HL-VISUAL-SOURCE-ROUTES-20261019"
+      ],
+      "provenance": {
+        "path": "research/visual-source-routes-2026-10-19.json",
+        "sha256": "a130893e6ae913a108a0df10ecf23d13b431f7df00a734a29993b0ee44bfe52b",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded visual/public-route source inspection",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "historical-visual-presentations",
+      "native_unit": "page/plate presentation record",
+      "record_count": 6,
+      "scope": "Six historical source presentations, not six physical objects or independent witnesses. No admitted sign geometry.",
+      "example_ids": [
+        "GELB1939-GURUN-CONTEXT",
+        "GELB1939-KOYLUTOLU-CONTEXT",
+        "GELB1939-GURUN-PL39"
+      ],
+      "provenance": {
+        "path": "research/visual-source-routes-2026-10-19.json",
+        "sha256": "a130893e6ae913a108a0df10ecf23d13b431f7df00a734a29993b0ee44bfe52b",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded visual/public-route source inspection",
+        "encoding": "json"
+      }
     }
   ],
   "context_resources": [
@@ -246,6 +282,14 @@
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "bounded source access or structure check",
+      "encoding": "json"
+    },
+    {
+      "path": "research/visual-source-routes-2026-10-19.json",
+      "sha256": "a130893e6ae913a108a0df10ecf23d13b431f7df00a734a29993b0ee44bfe52b",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded visual/public-route source inspection",
       "encoding": "json"
     }
   ],

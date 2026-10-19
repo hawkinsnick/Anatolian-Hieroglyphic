@@ -153,6 +153,42 @@
         "role": "bounded source access or structure check",
         "encoding": "json"
       }
+    },
+    {
+      "name": "visual-source-routes",
+      "native_unit": "bounded source-route inspection",
+      "record_count": 1,
+      "scope": "Actual consulted pages/responses only; no unique-object counts, clause/line equivalence, linked annotation delivery, new canonical readings or independent review.",
+      "example_ids": [
+        "HL-VISUAL-SOURCE-ROUTES-20261019"
+      ],
+      "provenance": {
+        "path": "research/visual-source-routes-2026-10-19.json",
+        "sha256": "a130893e6ae913a108a0df10ecf23d13b431f7df00a734a29993b0ee44bfe52b",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded visual/public-route source inspection",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "historical-visual-presentations",
+      "native_unit": "page/plate presentation record",
+      "record_count": 6,
+      "scope": "Six historical source presentations, not six physical objects or independent witnesses. No admitted sign geometry.",
+      "example_ids": [
+        "GELB1939-GURUN-CONTEXT",
+        "GELB1939-KOYLUTOLU-CONTEXT",
+        "GELB1939-GURUN-PL39"
+      ],
+      "provenance": {
+        "path": "research/visual-source-routes-2026-10-19.json",
+        "sha256": "a130893e6ae913a108a0df10ecf23d13b431f7df00a734a29993b0ee44bfe52b",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded visual/public-route source inspection",
+        "encoding": "json"
+      }
     }
   ],
   "scholarly_limits": [
@@ -188,8 +224,8 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "841f9bb877db86733244201eeb8e54596c44f9df601f1db14b3e187f46eb7027",
-      "bytes": 9334
+      "sha256": "cb5cec1fee8ea77d9274d2990e8e64bae283e7d4cec2d92d50ad6afcf7dc22c8",
+      "bytes": 9839
     },
     {
       "path": "data/sources.json",
@@ -238,8 +274,8 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "f285ff85db6266c677da865614b2e8067e308738b2144425884b320fc8c8c535",
-      "bytes": 7285
+      "sha256": "22f8020003deddcda9368c6e385eb516fa328df61942bf81719038ec81eb28d1",
+      "bytes": 8322
     },
     {
       "path": "research/expert-review-packet.json",
@@ -260,6 +296,11 @@
       "path": "research/source-study-2026-10-17.json",
       "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
       "bytes": 7878
+    },
+    {
+      "path": "research/visual-source-routes-2026-10-19.json",
+      "sha256": "a130893e6ae913a108a0df10ecf23d13b431f7df00a734a29993b0ee44bfe52b",
+      "bytes": 8431
     },
     {
       "path": "review/collection-packet.json",

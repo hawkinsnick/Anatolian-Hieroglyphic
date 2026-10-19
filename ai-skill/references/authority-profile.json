@@ -180,6 +180,16 @@
       "path": "docs/EDITION-PAGE-CHECK-2026-10-18.md",
       "role": "source_page_and_structure_check",
       "required": true
+    },
+    {
+      "path": "research/visual-source-routes-2026-10-19.json",
+      "required": true,
+      "role": "public_source_route_inspection"
+    },
+    {
+      "path": "docs/VISUAL-SOURCE-ROUTES-2026-10-19.md",
+      "required": true,
+      "role": "public_source_route_inspection"
     }
   ],
   "behavioral_gates": [

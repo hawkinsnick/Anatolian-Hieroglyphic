@@ -69,3 +69,7 @@ For the source follow-up and reviewer exercise, read `docs/REVIEWER-WALKTHROUGH.
 ## Source page and structure check (2026-10-18)
 
 Read `docs/EDITION-PAGE-CHECK-2026-10-18.md` and `research/edition-page-check-2026-10-18.json`; query `city-edition-page-check` for the exact bounded outcome. Preserve the difference between source delivery, text rendition, page inspection, documentary correspondence and canonical acceptance. A successful HTTP status, matching heading, supplied document metadata or request draft cannot close an evidence gate. Historical registers retain their dated scope.
+
+## Public source routes checked (2026-10-19 UTC)
+
+Read `docs/VISUAL-SOURCE-ROUTES-2026-10-19.md` and `research/visual-source-routes-2026-10-19.json`; query `visual-source-routes` for exact receipt/scope. Public access, a successful HTTP response, a field name, a drawing label or physical line number does not establish linked linguistic analyses or an edition clause. Preserve source dependence, method limits and component-specific reuse terms. No raw source payload is redistributed by this register.
