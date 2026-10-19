@@ -39,13 +39,13 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "841f9bb877db86733244201eeb8e54596c44f9df601f1db14b3e187f46eb7027",
-      "bytes": 9334
+      "sha256": "cb5cec1fee8ea77d9274d2990e8e64bae283e7d4cec2d92d50ad6afcf7dc22c8",
+      "bytes": 9839
     },
     {
       "path": "ai-skill/generated/research-bundle-index.json",
-      "sha256": "aa07cb455465436d97a4279342cb2c5827d4f3264914573e184d7ff76d4b90a7",
-      "bytes": 12748
+      "sha256": "0948048fdd31f2dc0ab46ef407199c9b835007420b8f23a1e3b8f996146e635f",
+      "bytes": 13170
     },
     {
       "path": "ai-skill/manifest.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "ai-skill/references/authority-profile.json",
-      "sha256": "f0907ac43d6002146d8633139a09cb6cae16a0ec17c1c87258a2f307bf3a9adc",
-      "bytes": 5389
+      "sha256": "4495126c1c54515941b66791ab6f0f76c5020ec102bf6bc8825c5e238476e8e9",
+      "bytes": 5677
     },
     {
       "path": "ai-skill/references/corpus-project-contract.md",
@@ -99,17 +99,17 @@
     },
     {
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "97ea1604075c04d22c310126d3c8bd81c82eccb59bab644e2d691f5b49ef56e1",
-      "bytes": 10438
+      "sha256": "d7d24fcf4b2cade62a202d8e9dfe85a3c11b85fcdc3dabe9f74eea5252717167",
+      "bytes": 12252
     },
     {
       "path": "analysis/research-delivery.json",
-      "sha256": "35dcb4aba9858fb00076e4ef1e6a273836210b62356522cc18abce9bfbb193f1",
-      "bytes": 10751
+      "sha256": "18abb74892635469c823e8d9b4889fea916c7253a5e63a57b49fb1063ef5fc2b",
+      "bytes": 12428
     },
     {
       "path": "analysis/review-walkthrough-audit.json",
-      "sha256": "fd60187023024adf364bceb906befcc7fadf615b2b22414a019001ab2afab74e",
+      "sha256": "73f1a4af29048f1bcd1994bbe58a819be085239df6e92a10338934e12a6ed004",
       "bytes": 723
     },
     {
@@ -183,6 +183,11 @@
       "bytes": 2927
     },
     {
+      "path": "docs/VISUAL-SOURCE-ROUTES-2026-10-19.md",
+      "sha256": "11689e3d5601aa60fe90818e112f35e60569cf785c8add444beb8e601373cd39",
+      "bytes": 2074
+    },
+    {
       "path": "project.json",
       "sha256": "b6c5dc1df23c6dd1f1235cbaba4639149c0cff5a6b2c8959e25562d31ecbe662",
       "bytes": 425
@@ -229,8 +234,8 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "f285ff85db6266c677da865614b2e8067e308738b2144425884b320fc8c8c535",
-      "bytes": 7285
+      "sha256": "22f8020003deddcda9368c6e385eb516fa328df61942bf81719038ec81eb28d1",
+      "bytes": 8322
     },
     {
       "path": "research/monumental-link-snapshot.json",
@@ -253,28 +258,33 @@
       "bytes": 7878
     },
     {
+      "path": "research/visual-source-routes-2026-10-19.json",
+      "sha256": "a130893e6ae913a108a0df10ecf23d13b431f7df00a734a29993b0ee44bfe52b",
+      "bytes": 8431
+    },
+    {
       "path": "review/followup-packet.json",
-      "sha256": "5ffd49cfff01969eab1a5cc71dce236053f35a95613838761394bd3b2c2ee00e",
+      "sha256": "49853bcee4b51acba620461499aa2f74cd4c599ae3132d975611d357368e8c18",
       "bytes": 2954
     },
     {
       "path": "review/followup-response.json",
-      "sha256": "d82140839d19efcf682da91da8f8ef6b823ee85cff667c1f592c8a24ebe41366",
+      "sha256": "e2baee559416f54a4c58e948ba4a1a9f66ca3fe3651219343e6f1ea6471a1fe4",
       "bytes": 1047
     },
     {
       "path": "review/source-study-packet.json",
-      "sha256": "1400308ae954deea1f9feec2939631d713a40a95ce598ccb09c58688022330d1",
+      "sha256": "a81cc08d5b9e856a2931b157bb7319634c615e45a4a1077e8ba4db7839d76756",
       "bytes": 3782
     },
     {
       "path": "review/source-study-response.json",
-      "sha256": "6f94967ffc580a5e0945f31d9684c462181694af96e264eff68ec5fb0a1fac24",
+      "sha256": "dd0ca7f24c69cf3caee0c29fbe02c0f338b2ac0bb2ad416baf074143ea558ce2",
       "bytes": 1018
     },
     {
       "path": "review/teaching-example.json",
-      "sha256": "9aadbc55981ec2071e5b0328d4e6a1393f694ed02cd6c59ea29462164381a533",
+      "sha256": "18563921b6412fe867ef997f36d0c3182b98eb9812e434f686ebecd0ab9ccc22",
       "bytes": 1497
     },
     {
