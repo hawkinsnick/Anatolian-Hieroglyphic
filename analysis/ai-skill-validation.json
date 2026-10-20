@@ -1,0 +1,149 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Anatolian-Hieroglyphic",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "anatolian-hieroglyphic-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "9b9e7e84ce17173d2bc8661a77f287af60a494285bd82c5861e93cef2e4907f9",
+  "bundle_source_commit": "88047c4f1d0c8ed1bc46f4470dee4a92b78aef00",
+  "bundle_sha256": "7cab3eab3397ec3e1713381bbde7d487b9d252cfacf33dcb13af08f5468f4533",
+  "indexed_artifact_entries_checked": 62,
+  "unique_indexed_paths_checked": 62,
+  "lookups": [
+    {
+      "collection": "digital-entry-dossiers",
+      "id": "EDIANA-HL-000",
+      "native_unit": "digital text-entry dossier",
+      "provenance": {
+        "path": "research/digital-entry-dossiers.json",
+        "sha256": "eb5147717bd072fd6d922c37f81f58693e215f9ce3ebf8187b0f721f17c3fdbf",
+        "pointer": "/entries/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "digital-entry-dossiers",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "edition-metadata-pilot",
+      "id": "KOCAOĞUZ",
+      "native_unit": "edition metadata pilot entry",
+      "provenance": {
+        "path": "research/edition-reconciliation-pilot.json",
+        "sha256": "4f6f42fe58fdfc556d662cebf1f4dd25d3deb27c11e4b9234f1ed533dd6c482d",
+        "pointer": "/records/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "edition-metadata-pilot",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "disagreement-register",
+      "id": "AH-DIS-001",
+      "native_unit": "research disagreement/control item",
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "5a0d5b8ca7cfdd146eabbfac02e7e1cfbfdff8b2dfcbeeda1374fd00c78cde08",
+        "pointer": "/items/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "AH-DIS-001",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "dbaf0d96958d0278c32970ff9db3acbfd496a5c095e62367f46bafd679866e06",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "source-study",
+      "id": "HL-URBS-CITY-20261017",
+      "native_unit": "bounded source-acquisition or scholarly-argument study",
+      "provenance": {
+        "path": "research/source-study-2026-10-17.json",
+        "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded directly consulted source study",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "city-source-assertions",
+      "id": "HL-CITY-T1-1",
+      "native_unit": "selected author-reported Table1 assertion",
+      "provenance": {
+        "path": "research/source-study-2026-10-17.json",
+        "sha256": "057e4bf11de5d7e60f1de105e9a4de61851264dd673946796b8d5903dfaf5455",
+        "pointer": "/attestation_assertions/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded directly consulted source study",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "city-reference-crosswalk",
+      "id": "HL-CITY-REFERENCE-CROSSWALK-20261018",
+      "native_unit": "bounded documentary follow-up case",
+      "provenance": {
+        "path": "research/city-reference-crosswalk-2026-10-18.json",
+        "sha256": "9bb4718fd74ef41e8e3f6817b282b1ce7eb8ab1f30cd2a9d56dfe0821f06ba0f",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded documentary follow-up",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "city-edition-page-check",
+      "id": "HL-CITY-EDITION-PAGES-20261018",
+      "native_unit": "bounded source access or structure inspection",
+      "provenance": {
+        "path": "research/edition-page-check-2026-10-18.json",
+        "sha256": "0c9f11302fcd9180277b75e87714fea8ff06aa6b91b86d066364183fb1b9aa7e",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded source access or structure check",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "visual-source-routes",
+      "id": "HL-VISUAL-SOURCE-ROUTES-20261019",
+      "native_unit": "bounded source-route inspection",
+      "provenance": {
+        "path": "research/visual-source-routes-2026-10-19.json",
+        "sha256": "a130893e6ae913a108a0df10ecf23d13b431f7df00a734a29993b0ee44bfe52b",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded visual/public-route source inspection",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "historical-visual-presentations",
+      "id": "GELB1939-GURUN-CONTEXT",
+      "native_unit": "page/plate presentation record",
+      "provenance": {
+        "path": "research/visual-source-routes-2026-10-19.json",
+        "sha256": "a130893e6ae913a108a0df10ecf23d13b431f7df00a734a29993b0ee44bfe52b",
+        "pointer": "/records/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded visual/public-route source inspection",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}
