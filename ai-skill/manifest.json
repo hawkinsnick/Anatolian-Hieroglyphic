@@ -10,5 +10,6 @@
   "scientific_gate": "Evidence-first; native project classifications and exclusions remain authoritative",
   "note": "Replay validates software contracts and authority integrity, not epigraphic truth or source permissions.",
   "skill_version": "0.3.1",
-  "compatibility": "Corpus Project AI Research Contract 0.3+ via native-schema-preserving fleet adapter"
+  "compatibility": "Corpus Project AI Research Contract 0.3+ via native-schema-preserving fleet adapter",
+  "function_validation": "scripts/validate_ai_skill.py"
 }
