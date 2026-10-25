@@ -95,3 +95,12 @@ Read `docs/EDITION-PAGE-CHECK-2026-10-18.md` and `research/edition-page-check-20
 ## Public source routes checked (2026-10-19 UTC)
 
 Read `docs/VISUAL-SOURCE-ROUTES-2026-10-19.md` and `research/visual-source-routes-2026-10-19.json`; query `visual-source-routes` for exact receipt/scope. Public access, a successful HTTP response, a field name, a drawing label or physical line number does not establish linked linguistic analyses or an edition clause. Preserve source dependence, method limits and component-specific reuse terms. No raw source payload is redistributed by this register.
+
+## Preserve review provenance
+
+Reject malformed JSON-pointer escapes and negative or leading-zero array indices
+when verifying source citations; literal object keys retain their own spelling.
+Read the [master hostile-review report](https://github.com/hawkinsnick/Master-Corpus-AI-Skill/blob/main/references/hostile-review-2026-10-25.md)
+for this member's pinned retrieval scope and the limits of the source-fidelity
+and development checks. Complete retrieval-view traversal does not certify
+corpus completeness, accepted readings, independent witnesses or expert review.
