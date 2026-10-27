@@ -190,6 +190,11 @@
       "path": "docs/VISUAL-SOURCE-ROUTES-2026-10-19.md",
       "required": true,
       "role": "public_source_route_inspection"
+    },
+    {
+      "role": "nonreview_workflow",
+      "path": "docs/NONREVIEW-WORK.md",
+      "required": true
     }
   ],
   "behavioral_gates": [
