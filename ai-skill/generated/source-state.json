@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "source_commit": "f0956e7d52891bae4979f14e6350729b89d000bc",
+  "source_commit": "37f5e16d6ee9b00f5e55f922b9b002bfaee1eac6",
   "bundle_index": "ai-skill/generated/research-bundle-index.json",
   "native_schema_preserved": true
 }

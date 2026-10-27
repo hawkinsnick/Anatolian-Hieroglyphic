@@ -38,8 +38,8 @@
     {
       "path": "ai-skill/SKILL.md",
       "role": "native_authority",
-      "sha256": "d50413e84d0408a409bea1851bc4e04e5f0607b946d2c4a2225ad32a6e23a192",
-      "bytes": 11775
+      "sha256": "94953ae4e2102a46a47c91a5cdc5d747d16cef78fe216e8ca92b32c01dbe8789",
+      "bytes": 13422
     },
     {
       "path": "ai-skill/manifest.json",
@@ -50,8 +50,8 @@
     {
       "path": "ai-skill/references/authority-profile.json",
       "role": "native_authority",
-      "sha256": "4495126c1c54515941b66791ab6f0f76c5020ec102bf6bc8825c5e238476e8e9",
-      "bytes": 5677
+      "sha256": "728c0099eb33912828fab8286a2c510122e8f501246006c2592f0aae27fbe473",
+      "bytes": 5789
     },
     {
       "path": "ai-skill/scripts/build_bundle.py",
@@ -92,8 +92,8 @@
     {
       "path": "analysis/research-delivery.json",
       "role": "native_authority",
-      "sha256": "803f06af45fdf7cdfd7b84fd668182759352d63d749d3437caefea53b8468cae",
-      "bytes": 12429
+      "sha256": "f57551f13380da9c4a1cf4479de3cac97d451b0886e132bdfd3bf15447d67cc7",
+      "bytes": 12586
     },
     {
       "path": "analysis/review-walkthrough-audit.json",
@@ -166,6 +166,12 @@
       "role": "native_authority",
       "sha256": "8a19f6ac636d6653fe57bd8462706c0e0bb4e60c8cb305d2d33c2ff35ea40aad",
       "bytes": 4933
+    },
+    {
+      "path": "docs/NONREVIEW-WORK.md",
+      "role": "native_authority",
+      "sha256": "699224620f406d7e14a5f37847e182106d269aefa03a1286b98d8f9235bf3e5a",
+      "bytes": 2979
     },
     {
       "path": "docs/RESEARCH-DELIVERY.md",
@@ -332,8 +338,8 @@
     {
       "path": "scripts/research_delivery.py",
       "role": "native_authority",
-      "sha256": "2c82a9f1fdac786da4b9583c3d463002a77d45fcdd604be86e4234b09070d756",
-      "bytes": 10387
+      "sha256": "41a6e40571391e2a4303b06a9a6eb4bf8575a84ca715d3932b8907edda64566c",
+      "bytes": 10514
     },
     {
       "path": "scripts/review_walkthrough.py",
@@ -402,5 +408,5 @@
       "bytes": 11280
     }
   ],
-  "source_commit": "f0956e7d52891bae4979f14e6350729b89d000bc"
+  "source_commit": "37f5e16d6ee9b00f5e55f922b9b002bfaee1eac6"
 }
